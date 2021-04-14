@@ -2,9 +2,11 @@
   Simply place a custom_body.html into
   your local /layouts/partials-directory -->
 
+  {{ if (eq .Kind "page") }}
   <p>
-    Diese Seite wurde zuletzt aktualisiert am {{ .GitInfo | jsonify }}
+    Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
   </p>
+  {{ end }}
 
   <p style="text-align: right;">
     Proudly made with <a href="https://gohugo.io" target="_blank">Hugo</a> and <a href="https://github.com/janraasch/hugo-bearblog/">ʕ•ᴥ•ʔ Bear</a>. Hosted on <a href="https://uberspace.de" target="_blank">Asteroids</a>. <br />
