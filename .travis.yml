@@ -5,7 +5,7 @@ env:
  global:
  - HUGO_VERSION="0.82.0"
  matrix:
- - YOUR_ENCRYPTED_VARIABLE
+ - secure: gClB1CZ96VgBTSAfSDmR/EyoryymN9CKfZv2NJWTf8KdwhyCDye0ULQzAVD+d/gWYHSG8Cn3HhoBI28UNizrEd48h1JBjMQCcRmE9wgrZi5FoUKVD6pMTHUdxmzas0wYPGbOzm0hSfTG30qRmF4Lnf8jqmDgKEYMGYZQSIXt/aTbGfXoSKDby7GVV/5XxP4rZkt2IF2tM3rFrDUv0fs/w36zyOe0iyBMLqR4clYbDeg1yf4JYGuCNXPFAiwB8V2Ca6Dky+MrXa7qpFILOO/30PhG0kgjkcJdkdrRVJpPw8Jnq96QC2Zd++msB6A3fGddjnade613yNqWq1IX+f8jnjYx6A/BrNC1UxGtCHo1bGBjK5IfycSNlJ8eDABCYsZ/uuetbf60BOKuItSFCgV3eC8uptCYtaiP+kXfwE6d/J/9JfPLO5+sr38uqFLsg/Jtl8bZuFstUDzV+X4dAoE05/5thcmZowH9jmcSOPAfI+aN5rwPRr8wJbDBj8kO6VMeDJgzYjbCBsrBXUB7bwHDbK2y6SEVj3oKDs+++eMlIfztvugmD0JhrX//w+X3/ny5/bUK6PlBh4Df/Wd/i5tZP5/3tWqXzl28m83AG/U9Q6QWMXUYHjkAJChmgLDjjxlf5n8U5ZUAKoiPqrEyIglNsL3uH+sF0fyKNljBzAPDm3c=
 
 install:
  - wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
