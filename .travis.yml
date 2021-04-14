@@ -22,7 +22,7 @@ deploy:
  keep-history: true
  local-dir: public
  repo: cblte/cblte.github.io
- target-branch: main
+ target-branch: master
  verbose: true
  on:
- branch: main
+ branch: master
