@@ -13,7 +13,7 @@ install:
  - mv hugo ~/bin/
 
 script:
- - hugo --gc --minify
+ - hugo --gc --minify --baseURL https://cblte.github.io
 
 deploy:
  provider: pages
