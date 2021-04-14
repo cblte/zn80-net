@@ -9,6 +9,7 @@ title = "ヾ(＾-＾)ノ ZN80.NET"
 author = "Carsten Brueggenolte"
 copyright = "Copyright © 2021, Carsten Brueggenolte."
 languageCode = "de-DE"
+enableGitInfo = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -21,8 +22,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  enableGitInfo = true
-  
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Carstens Blog. Gedanken eines Nerd und Informatikers"
 
