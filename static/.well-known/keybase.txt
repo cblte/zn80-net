@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/cblte
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://zn80.net
+  * I am cblte (https://keybase.io/cblte) on keybase.
+  * I have a public key with fingerprint C49E BB99 EDD7 CAC4 7041  7C3E 345A 56EE CB74 BB87
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010172235d811049041bb4ea0d66a08f14f9f948700060a715afb9cea68a2ce797e20a",
+      "fingerprint": "c49ebb99edd7cac470417c3e345a56eecb74bb87",
+      "host": "keybase.io",
+      "key_id": "345a56eecb74bb87",
+      "kid": "010172235d811049041bb4ea0d66a08f14f9f948700060a715afb9cea68a2ce797e20a",
+      "uid": "812df9e556a5586c54a5762ef2b47e19",
+      "username": "cblte"
+    },
+    "merkle_root": {
+      "ctime": 1596473755,
+      "hash_meta": "1f097a7a0289d8ecc0da73358cd7db32ef572b43ec42e747219e90ec0041b2b7",
+      "seqno": 17167021
+    },
+    "revoke": {
+      "sig_ids": [
+        "58200e24c55b0842bcbe7d88240838fae4b04443f4959da8ec84305fcc37f0eb0f"
+      ]
+    },
+    "service": {
+      "hostname": "zn80.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1596473760,
+  "expire_in": 157680000,
+  "prev": "ffc0314a8267662015d68874b892d4fc0d3a8f67eb188a6c7e2a4a7d17bf56b6",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMKxAnicrVNbaB1FGD6psdqD0SANsaUWXFD7ENrZ2bltSilCRVOlmtoiQevJXP45
+WZPsHnc3J6mHICjeUCNVW/qgIErx8uJDb2oQ21g0aWulFWxQUoqpFUohrSH21dlQ
+EcRHn4aZ+f/v9s8ca7mhVG5aXf2RHW5+eH/TiYnaUKmy5r73G55KzE6vs+H1w+IC
+AwayvNIfGa/TQz7yOcYBNcL3EQkR8ZUiIJFhTCJhfWJDGxLBEUIMSe5TaVWoQTIh
+sQYecsBIeh2ejeIqpLU0inMHq0kISoUhGMO11IQ7XK4DCAiVlAFoxYlSgrvGviQr
+Opw4JTNYGyXuzG0qi/L+o/5/1j20CCd8bGwIlDJJqWCaEkk5w2CxIhz8sCjMII3l
+IBTu1EAO3miHNwhp/wBU0iTJi2R1HhX3Pg0Z4QGn1LmTWV9lEHLp2nyLQi65RFiE
+RoDWyEgeBFRow40KHBvlji8ATTBwwrEfQohAo8IcVoX5DJ6JE8fAfcYR9p2EFOpJ
+PxTsWVR1oWVe5xMeFRghwERTqpAgWGkF3AiBCRKBsBKIQoSQwJKQhkY6LYIEiFqt
+A24RKGS9HaMFW1qP9CJ4MaXr7p+NBVobQ+7k1NIkT3Qy4E778ryWdRah5DtrRdkw
+qMp1gIqKYuPeh+uoQ5pFSewsuMp/5cVQhwcjtSiFSlRUuAkINz5U8EDdQVqrUeAT
+KTDjjGHkU8OEcC9DhNgQd2kCKSzjoHwhJNNuxpJIbnyuLGWK/RMg5U6nrDpMl1os
+86HUzXPiyJPNpaZyaemNS4qPUyova/37Oz1/7ubSnhdqu3qqey+0sd8qbRu/vfjB
+x9UtPv2sd8WluUOXW85PHr2wbUNH6aXpIxt7ZlsPLl/SdeXNU11/8vqq31e90jJ3
+iI6vQ7PzP29458PXf7nzrhWnHtgaz3+03PzxdPvXe7OJayOzzV/2VB+6PPLYsB2b
+XLlwtTHUvWlh2fqu/ftmT8+crT8yfyab3zWZPXXvyFhbMr3u8/cOnIHuRvctwzed
+e3D04E/mWu/SkUv33L6p64fXwvvLzVfPlwc/eXT33ScO3/rFWzNbqq2b15yd/v7F
+29q/2/r2+Nz2PXimffPUr9+sLq/fkW+TU6V9j58u3/Hp8a9ePnlx4Q079dzR3tGT
+48caedPY7lejK+8e7135F75+fVo=
+=7dim
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cblte
+
+==================================================================
+
