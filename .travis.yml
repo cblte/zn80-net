@@ -22,7 +22,7 @@ deploy:
  keep-history: true
  local-dir: public
  repo: cblte/cblte.github.io
- target-branch: gh-pages
+ target-branch: main
  verbose: true
  on:
- branch: gh-pages
+ branch: main
