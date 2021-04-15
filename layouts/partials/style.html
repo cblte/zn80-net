@@ -4,13 +4,11 @@
     font-family: "JetBrains Mono";
     src: local("JetBrains Mono"), url("{{ .Site.BaseURL }}lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf") format("truetype");
   }
-  
+
   body {
     /* https://markdotto.com/2018/02/07/github-system-fonts/ */
     font-family: "JetBrains Mono", -apple-system, BlinkMacSystemFont, "Segoe UI", Verdana, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     margin: auto;
-    padding: 20px;
-    max-width: 720px;
     text-align: left;
     background-color: #fff;
     word-wrap: break-word;
@@ -33,6 +31,24 @@
   a {
     color: #3273dc;
     /*color: #ff5e6c;*/
+  }
+
+  header, main, footer {
+    max-width: 720px;
+    margin: auto;
+    padding: 0 20px;
+  }
+
+  .header-box {
+    width: 100%;
+    height: 200px;
+  }
+
+  .header-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
   }
 
   .title {
