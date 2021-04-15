@@ -24,6 +24,6 @@ Im Sinne von § 7 Absatz 1 TMG bin ich für die eigenen Inhalte auf dieser Webse
 
 ## Datenschutzerklärung
 
-Der Webserver schreibt Logdateien mit den Zugriffen und den IP-Adressen der Zugreifer. Diese dienen der Fehlersuche im Krisenfall und werden ansonsten nicht ausgewertet. Da es hier keine Benutzerkonten und keine Tracking-Cookies o.ä. gibt, betrachte ich diese Logdateien nicht als personenbezogen.
+Der Webserver schreibt Logdateien mit den Zugriffen und den IP-Adressen der Zugreifer. Wie er das macht, steht [hier](https://manual.uberspace.de/web-logs/). Die Access-Logs sind deaktiviert, nur die Error-Logs sind aktiv. Diese dienen der Fehlersuche im Krisenfall und werden ansonsten nicht ausgewertet. Da es hier keine Benutzerkonten und keine Tracking-Cookies o.ä. gibt, betrachte ich diese Logdateien nicht als personenbezogen.
 
 Abgesehen davon werden keine Daten erhoben, gespeichert oder ausgewertet.
