@@ -2,7 +2,7 @@
 title = "Updates einspielen"
 date = "2021-04-10T15:00:00"
 draft = false
-tags = ["updates", "uberspace", "projekte"]
+tags = ["Updates", "Uberspace", "Projekte"]
 +++
 
 Wenn man eine neue Webseite entwickelt, dann findet man ziemliche viele Baustellen die man übersehen oder aber auch verdrängt hat. Eine dieser Baustelle ist zum Beispiel "Updates einspielen". Daran habe ich heute auch so nebenbei gearbeitet.

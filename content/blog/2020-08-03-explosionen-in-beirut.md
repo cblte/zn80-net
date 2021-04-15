@@ -1,7 +1,7 @@
 +++
 title = "Explosionen in Beirut"
 publishDate = "2020-08-03T20:00:00.000Z"
-tags = ["linkpost", "gedanken"]
+tags = ["Linkpost"]
 link = "https://www.dw.com/de/tausende-verletzte-bei-explosionen-in-beirut/a-54438264"
 +++
 

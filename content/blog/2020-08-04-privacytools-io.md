@@ -1,7 +1,7 @@
 +++
 title = "PrivacyTools.io"
 publishDate = "2020-08-04T16:31:00.000Z"
-tags = ["linkpost", "privacy", "linux"]
+tags = ["Linkpost", "Privacy", "Linux", "Tools"]
 +++
 
 > You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. PrivacyTools provides services, tools and knowledge to protect your privacy against global mass surveillance.
