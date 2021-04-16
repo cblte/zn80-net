@@ -1,0 +1,12 @@
+<p>
+{{ if .IsNamedParams }}
+    {{ if and (.Get "type") (.Get "id") }}
+    <embetty-video type="{{ .Get "type" }}" video-id="{{ .Get "id" }}" {{ if .Get "start-at" }}start-at="{{ .Get "start-at" }}"{{ end }}></embetty-video>
+    {{ else }}  
+    <strong>Video Shortcode falsch</strong>
+    {{ .Position }}
+    {{ end }}
+{{ else }}
+    <embetty-video type="{{.Get 0}}" video-id="{{ .Get 1 }}"></embetty-video>
+{{ end }}
+</p>
