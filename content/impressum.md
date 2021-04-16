@@ -26,4 +26,6 @@ Im Sinne von § 7 Absatz 1 TMG bin ich für die eigenen Inhalte auf dieser Webse
 
 Der Webserver schreibt Logdateien mit den Zugriffen und den IP-Adressen der Zugreifer. Wie er das macht, steht [hier](https://manual.uberspace.de/web-logs/). Die Access-Logs sind deaktiviert, nur die Error-Logs sind aktiv. Diese dienen der Fehlersuche im Krisenfall und werden ansonsten nicht ausgewertet. Da es hier keine Benutzerkonten und keine Tracking-Cookies o.ä. gibt, betrachte ich diese Logdateien nicht als personenbezogen.
 
+Wenn Video oder Tweets eingebunden werden, dann passiert das mit Hilfe von [embetty](https://www.heise.de/embetty). Datenschutzfreundlich, ohne Cookies, über meine Domain. Bei einem Klick jedoch, ladet ihr Daten von fremden Servern.
+
 Abgesehen davon werden keine Daten erhoben, gespeichert oder ausgewertet.
