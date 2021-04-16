@@ -10,6 +10,7 @@ author = "Carsten Brueggenolte"
 copyright = "Copyright © 2021, Carsten Brueggenolte."
 languageCode = "de-DE"
 enableGitInfo = true
+enableEmoji = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
