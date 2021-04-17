@@ -7,10 +7,10 @@ author = "Carsten Brueggenolte"
 copyright = "Copyright © 2021, Carsten Brueggenolte."
 languageCode = "de-DE"
 
-# Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 enableGitInfo = true
 enableEmoji = true
+paginate = 5
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
