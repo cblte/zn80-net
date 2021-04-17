@@ -9,13 +9,19 @@
 
     {{ range (.Paginator).Pages }}
     <article>
-    <a href="{{ .Permalink }}" class="permalink"><h2>{{ .Title }}</h2></a>
-    <p class="datetime">
-      <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
-        {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
-      </time>
-    </p>
-    {{ .Summary }}  
+      <a href="{{ .Permalink }}" class="permalink"><h2>{{ .Title }}</h2></a>
+      <p class="datetime">
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+        </time>
+      </p>
+      {{ .Summary }}  
+
+      {{ if .Truncated }}
+      <p>
+        <a href="{{ .RelPermalink }}">Mehr lesen…</a>
+      </p>
+    {{ end }}
     </article>
     {{ else }}
     <p>
