@@ -1,7 +1,4 @@
-
 baseURL = "https://zn80.net"
-
-# The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
@@ -9,11 +6,11 @@ title = "ヾ(＾-＾)ノ ZN80.NET"
 author = "Carsten Brueggenolte"
 copyright = "Copyright © 2021, Carsten Brueggenolte."
 languageCode = "de-DE"
-enableGitInfo = true
-enableEmoji = true
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
