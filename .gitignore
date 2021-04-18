@@ -39,3 +39,5 @@ tags
 
 # Coc configuration directory
 .vim
+static/images/desktop.ini
+content/blog/desktop.ini
