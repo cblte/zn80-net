@@ -41,3 +41,6 @@ tags
 .vim
 static/images/desktop.ini
 content/blog/desktop.ini
+
+# macOS
+.DS_Store
