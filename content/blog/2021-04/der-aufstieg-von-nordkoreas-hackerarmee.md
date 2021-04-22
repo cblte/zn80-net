@@ -19,3 +19,5 @@ In Nordkorea sitzt wohl die erfolgreichste Hackernation der Welt. Die Cyberarmee
 Ein Thema was ich so überhaupt noch nicht gehört habe, hervorragend zusammengestellt.
 
 Link -> [The New Yorker The Incredible Rise of North Korea’s Hacking Army](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+
+<!--more-->
