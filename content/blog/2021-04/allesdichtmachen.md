@@ -4,6 +4,9 @@ date = "2021-04-22T23:44:19+02:00"
 tags = ["Linkpost", "YouTube", "Satire","allesdichtmachen"]
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
+[twitter]
+  card = "summary"
+  site = "@twittername"
 +++
 
 Hinter den Hashtags [#allesdichtmachen](https://twitter.com/hashtag/allesdichtmachen), [#niewiederaufmachen](https://twitter.com/hashtag/niewiederaufmachen) und [#lockdownfürimmer](https://twitter.com/hashtag/lockdownfürimmer) verbergen sich gut gemachte Satire-Videos von vielen bekannten Künstlern.
