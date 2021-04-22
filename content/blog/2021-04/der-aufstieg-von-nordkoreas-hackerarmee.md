@@ -1,9 +1,14 @@
 --- 
 title: "Der Aufstieg von Nordkoreas Hackerarmee" 
 date: "2021-04-22T12:40:00+02:00" 
-tags: ["Linkpost", "Nordkorea", "Hacker", "Armee", "Scam"]
-description = ""
-embetty codes: {{< embetty (youtube | vimeo | facebook) >}}**
+tags: 
+- "Linkpost"
+- "Nordkorea"
+- "Hacker"
+- "Armee"
+- "Scam"
+# description : ""
+# embetty codes: {{< embetty (youtube | vimeo | facebook) >}}**
 ---
 
 In Nordkorea sitzt wohl die erfolgreichste Hackernation der Welt. Die Cyberarmee haben für das Regime Milliarden von Dollar eingebracht. Durch Betrügereien an Geldautomaten, hacken und ausnehmen von Tauschbörsen für Kryptowährungen, Ransomware und lang angelegten Aktionen in Banken. 
