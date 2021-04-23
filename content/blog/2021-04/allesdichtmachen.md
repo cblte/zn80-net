@@ -11,7 +11,7 @@ tags = ["Linkpost", "YouTube", "Satire","allesdichtmachen"]
 
 Hinter den Hashtags [#allesdichtmachen](https://twitter.com/hashtag/allesdichtmachen), [#niewiederaufmachen](https://twitter.com/hashtag/niewiederaufmachen) und [#lockdownfürimmer](https://twitter.com/hashtag/**lockdownfürimmer**) stehen einige Schauspieler und Künstler, die sich in Videos über die Corona-Maßnahmen kritisieren. Erst habe ich das für eine gut gemacht Werbeaktion gehalten, muss aber auch eingestehen, dass die Videos nicht mehr so lustig sind, wenn man da mal eine Nacht drüber geschlafen hat.
 
-Da die Seite https://allesdichtmachen.de, die für die Videos wohl verantwortlich war/ist, ist mittlerweile vom nicht mehr erreichbar und leitet auf `127.0.0.1` weiter. Die rund 50 Videos kann man, wenn man will, aber auch auf dem YouTube-Kanal von _allesdichtmachen_ anschauen: [YouTube-Kanal allesdichtmachen](https://www.youtube.com/channel/UC3_dHQpx8O9JT2LW1U2Beuw/videos). 
+Da die Seite https://allesdichtmachen.de, die für die Videos wohl verantwortlich war/ist, ist mittlerweile vom nicht mehr erreichbar und leitet auf `127.0.0.1` weiter. Die rund 50 Videos kann man, wenn man will, aber auch auf dem YouTube-Kanal von _allesdichtmachen_ anschauen: [YouTube-Kanal allesdichtmachen](https://www.youtube.com/channel/UC3_dHQpx8O9JT2LW1U2Beuw/videos).
 
 Gestern Abend habe ich ja noch gedacht: "Geile Aktion! Einiges bissel übertrieben und hart an der Grenze. Aber trotzdem gut gemacht." Heute jedoch muss ich aber sagen, dass die Aktion wohl doch ein Schuss in den Ofen war. Nicht im Sinne, dass man die Maßnahmen nicht kritisieren oder diskutieren darf, soll oder muss, sondern in der Hinsicht, dass sich viele der Querdenker und Verschwörungstheoretiker nun die Videos zu eigen machen und behaupten, dass das ja genau das sei, was wie Leerdenker schon seit Monaten behaupten.
 
@@ -32,3 +32,7 @@ Daher möchte ich hier den Tweet von Jan Böhmermann einbinden, in dem er die [A
 _Bleibt gesund, lasst euch Impfen und haltet euch an die Regeln. Man muss nicht alles gut finden, man muss aber auch nicht ohne Maske auf der Straße rumlaufen und sich oder andere anstecken._
 
 <!--more-->
+
+---
+
+Das hier ist Beitrag 79 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
