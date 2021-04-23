@@ -9,7 +9,6 @@ weight = 50
 
 Dieses hier ist eine lose Sammlung an URLs zu Webseiten die ich regelmäßig nutze. Vielleicht ist ja auch etwas für dich dabei.
 
-- 512kb Club <https://512kb.club>
 - [Meine Firefox Add-ons](/meine-firefox-add-ons)
 
 ### Awesome Lists
@@ -24,6 +23,14 @@ Dieses hier ist eine lose Sammlung an URLs zu Webseiten die ich regelmäßig nut
 - CyberChef <https://gchq.github.io/CyberChef/>
 - Emojipedia <https://emojipedia.org/>
 - Paste to Markdown <https://euangoddard.github.io/clipboard2markdown/>
+
+### Verschiedenes
+
+- 512kb Club <https://512kb.club>
+- A collection of interesting new networks and tech aiming at decentralisation (in some form) [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet)
+- Windows 10 Minus The Spyware + Added Stability and Security [Windows 10 Ameliorated](https://ameliorated.info/)
+- Kostenfreie Bilder [Unsplash](https://unsplash.com/)
+- Kostenfreie Bilder [pixabay](https://pixabay.com/de)
 
 ### My Public SSH Keys
 
