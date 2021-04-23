@@ -8,7 +8,7 @@ title = "ZN80.net"
 
 Ich bin eine Person, die gerne an allen möglichen Dingen herum bastelt, die meisten davon haben mit Computerkram zu tun. Daher habe ich hier eine Liste an [Podcasts](/podcasts) zusammengetragen und eine [Blogroll](/blogroll) erstellt.
 
-Zur Zeit arbeite ich daran, meine vielen Webseiten und Projekte unter einen Hut zu bringen. Daher kann es durchaus noch vorkommen, dass sich das Aussehen hier von Zeit zu Zeit auch mal ändert ¯&#92;&#95;(ツ)&#95;/¯. Nebenbei lerne ich [Golang](https://golang.org) und versuche meine [Ethical-Hacking-Skills](https://tryhackme.com) zu verbessern.
+Zur Zeit arbeite ich daran, meine vielen Webseiten und Projekte unter einen Hut zu bringen. Daher kann es durchaus noch vorkommen, dass sich das Aussehen hier von Zeit zu Zeit auch mal ändert ¯&#92;&#95;(ツ)&#95;/¯. Wenn du mehr über mich wissen willst, dann schau doch auf meiner [/now](/now)-Seite.
 
 Ich schreibe auch einen [Blog](/blog). Meistens kurze Kommentare mit einem Link, manchmal länger und ausführlich.
 
