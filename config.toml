@@ -2,7 +2,7 @@ baseURL = "https://zn80.net"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "ヾ(＾-＾)ノ ZN80.NET"
+title = "ZN80.NET"
 author = "Carsten Brueggenolte"
 copyright = "Copyright © 2021, Carsten Brueggenolte."
 languageCode = "de-DE"
