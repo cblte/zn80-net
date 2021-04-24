@@ -22,6 +22,7 @@ Dieses hier ist eine lose Sammlung an URLs zu Webseiten die ich regelmäßig nut
 
 - CyberChef <https://gchq.github.io/CyberChef/>
 - Emojipedia <https://emojipedia.org/>
+- Graphiz <https://graphviz.christine.website/>
 - Paste to Markdown <https://euangoddard.github.io/clipboard2markdown/>
 
 ### Verschiedenes
