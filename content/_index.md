@@ -10,7 +10,13 @@ Ich bin eine Person, die gerne an allen möglichen Dingen herum bastelt, die mei
 
 Zur Zeit arbeite ich daran, meine vielen Webseiten und Projekte unter einen Hut zu bringen. Daher kann es durchaus noch vorkommen, dass sich das Aussehen hier von Zeit zu Zeit auch mal ändert ¯&#92;&#95;(ツ)&#95;/¯. Wenn du mehr über mich wissen willst, dann schau doch auf meiner [/now](/now)-Seite.
 
-Ich schreibe auch einen [Blog](/blog). Meistens kurze Kommentare mit einem Link, manchmal länger und ausführlich.
+--- 
+
+Ich schreibe auch einen [Blog](/blog). Meistens kurze Kommentare mit einem Link, manchmal länger und ausführlich. Hier sind meine drei letzten Einträge:
+
+{{< last_posts >}}
+
+---
 
 Du kannst mir auch schreiben. Per [E-Mail](/impressum), über [Twitter](//twitter.com/cblte) oder via [Threema: 2S96RXBJ](//threema.id/2s96rxbj).
 
