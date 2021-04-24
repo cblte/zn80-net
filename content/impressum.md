@@ -29,3 +29,7 @@ Der Webserver schreibt Logdateien mit den Zugriffen und den IP-Adressen der Zugr
 Wenn Video oder Tweets eingebunden werden, dann passiert das mit Hilfe von [embetty](https://www.heise.de/embetty). Datenschutzfreundlich, ohne Cookies, über meine Domain. Bei einem Klick jedoch, ladet ihr Daten von fremden Servern.
 
 Abgesehen davon werden keine Daten erhoben, gespeichert oder ausgewertet.
+
+## HTTPS always on
+
+Diese Seite nutzt überall HTTPS. Wenn du versuchst, dich über HTTP zu verbinden, wirst du automatisch auf HTTPS umgeleitet.
