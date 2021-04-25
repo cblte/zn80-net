@@ -4,7 +4,10 @@ publishDate:  "2021-04-25T14:30:00+02:00"
 tags:  
   - "Was bisher geschah"
   - "100DaysToOffload"
+featured_image: "/images/2021-featured_spring-640.jpg"
 ---
+
+{{< figure src="/images/2021-featured_spring-640.jpg" alt="White flower field" attr="Photo by Alexandru Tudorache on Unsplash" attrlink="https://unsplash.com/photos/JdjdIjzJl94" >}}
 
 Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.
 
