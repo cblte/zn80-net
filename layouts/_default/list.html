@@ -1,41 +1,44 @@
 {{ define "main" }}
+<p>
+  Willkommen bei meinen Blog-Artikeln! Dies ist eine Sammlung von Artikeln, die ich pflege, um Wissen zu teilen, und
+  manchmal Meinungen.
+</p>
+{{ if .Data.Singular }}
+<h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
+<small>
+  <a href="{{ " /blog" | relURL }}">Remove filter</a>
+</small>
+{{ end }}
+
+{{ range (.Paginator).Pages }}
+<article>
+  <a href="{{ .Permalink }}" class="permalink">
+    <h2>{{ .Title }}</h2>
+  </a>
+  {{ .Summary }}
+
+  {{ if .Truncated }}
   <p>
-    Willkommen bei meinen Blog-Artikeln! Dies ist eine Sammlung von Artikeln, die ich pflege, um Wissen zu teilen, und manchmal Meinungen.
+    <a href="{{ .RelPermalink }}">Mehr lesen…</a>
   </p>
-  {{ if .Data.Singular }}
-  <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
-  <small>
-    <a href="{{ "/blog" | relURL }}">Remove filter</a>
-  </small>
   {{ end }}
+</article>
+{{ else }}
+<p>
+  No posts yet
+</p>
+{{ end }}
 
-    {{ range (.Paginator).Pages }}
-    <article>
-      <a href="{{ .Permalink }}" class="permalink"><h2>{{ .Title }}</h2></a>
-      {{ .Summary }}  
+{{ template "_internal/pagination.html" . }}
 
-      {{ if .Truncated }}
-      <p>
-        <a href="{{ .RelPermalink }}">Mehr lesen…</a>
-      </p>
+{{ if .Data.Singular }}
+{{else}}
+<p>
+  <small>
+    {{ range .Site.Taxonomies.tags }}
+    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
     {{ end }}
-    </article>
-    {{ else }}
-    <p>
-      No posts yet
-    </p>
-    {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
-
-  {{ if .Data.Singular }}
-  {{else}}
-    <small>
-      <div>
-        {{ range .Site.Taxonomies.tags }}
-        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
-        {{ end }}
-      </div>
-    </small>
-    {{ end }}
+  </small>
+</p>
+{{ end }}
 {{ end }}
