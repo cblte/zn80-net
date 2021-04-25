@@ -1,7 +1,7 @@
 +++
 title = "Apples Neue Geräte"
 date = "2021-04-20T22:57:15+02:00"
-tags = ["Apple", "iPad", "iMac", "100DayToOffload"]
+tags = ["Apple", "iPad", "iMac", "100DaysToOffload"]
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}**
 +++
