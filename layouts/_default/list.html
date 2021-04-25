@@ -1,5 +1,4 @@
 {{ define "main" }}
-<content>
   <p>
     Willkommen bei meinen Blog-Artikeln! Dies ist eine Sammlung von Artikeln, die ich pflege, um Wissen zu teilen, und manchmal Meinungen.
   </p>
@@ -27,11 +26,8 @@
     </p>
     {{ end }}
 
+  {{ template "_internal/pagination.html" . }}
 
-  <p>
-    {{ template "_internal/pagination.html" . }}
-  </p>
-  
   {{ if .Data.Singular }}
   {{else}}
     <small>
@@ -42,5 +38,4 @@
       </div>
     </small>
     {{ end }}
-</content>
 {{ end }}

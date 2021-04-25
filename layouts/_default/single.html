@@ -1,6 +1,4 @@
 {{ define "main" }}
-
-<content>
   <article class="single">
   {{ if eq .Type "blog" }}{{ if not .Params.menu }}
   <h1>{{ .Title }}</h1>
@@ -19,6 +17,4 @@
     <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
     {{ end }}
   </p>
-
-</content>
 {{ end }}
