@@ -88,7 +88,7 @@ Mittlerweile haben viele der Schauspieler sich von ihren Aussagen distanziert un
 
 {{< tweet 1385657855211098115 >}}
 
-Update: Die Webseite [allesdichtmachen.de](https://allesdichtmachen.de/) ist wieder da. Mit einem Erklärungstext. [Hier](/images/2021-04-screenshot_https_allesdichtmachen_de.png) habe ich auch einen Screenshot der Seite geischert. Danke [Ralf](https://monstropolis.wordpress.de).
+Update: Die Webseite [allesdichtmachen.de](https://allesdichtmachen.de/) ist wieder da. Mit einem Erklärungstext. [Hier](2021-04-screenshot_https_allesdichtmachen_de.png) habe ich auch einen Screenshot der Seite geischert. Danke an [Ralf](https://monstropolis.wordpress.com/) für den Hinweis.
 
 ## Umgestaltung der Webseite
 
