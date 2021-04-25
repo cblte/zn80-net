@@ -77,7 +77,7 @@ Diese App ist eine sehr gute Ergänzung zur CWA. Das ist für uns im Moment nich
 
 > Wahrscheinlichkeitsfaktor 1 zu 1. Wir haben Normalität erreicht, ich wiederhole, wir haben Normalität erreicht. Alles, womit Sie jetzt noch immer nicht fertig werden, ist folglich Ihr Problem (_Per Anhalter durch die Galaxie_)
 
-Ich habe die App heruntergeladen und ausprobiert. Sieht gut aus. Gut finde ich auch die Möglichkeit, Städte als Favoriten zu speichern. Habe gleich die Orte der Eltern, Schwester, Schwiegereltern und von die von Freunden eingespeichert. So kann ich schnell nachgucken, was da gerade gilt. Neugier befriedigt :grin:
+Ich habe die App heruntergeladen und ausprobiert. Sieht gut aus. Gut finde ich auch die Möglichkeit, Städte als Favoriten zu speichern. Habe gleich die Orte der Eltern, Schwester, Schwiegereltern und die von Freunden eingespeichert. So kann ich schnell nachgucken, was da gerade gilt. Neugier befriedigt :grin:
 
 
 ## allesdichtmachen
@@ -94,7 +94,7 @@ Mittlerweile haben viele der Schauspieler sich von ihren Aussagen distanziert un
 
 Ja die große Umgestaltung und Zusammenfassung von mehreren Domains zu einer einheitlichen Webseite. Alles kompakter und aufgeräumter. Nicht so überladen und ordentlich sortiert. 
 
-Es hat schon ein wenig gedauert und doch habe ich mich dazu entschlossen, das ganze Dinge erneut zu überarbeiten. Zwar bin ich vor nicht allzu langer Zeit von Wordpress zu Ghost umgezogen, so richtig zufrieden war ich mit dem System nie. Ghost mag super sein, wenn man sich mit Javascript auskennt und den ganzen Javascript/Nodejs-Stack auf dem Rechner installiert hat. Mit Hugo ist das so viel einfacher.
+Es hat schon ein wenig gedauert und doch habe ich mich dazu entschlossen, die Webseite erneut zu überarbeiten. Zwar bin ich vor nicht allzu langer Zeit von Wordpress zu Ghost umgezogen, so richtig zufrieden war ich mit dem System nie. Ghost mag super sein, wenn man sich mit Javascript auskennt und den ganzen Javascript/Nodejs-Stack auf dem Rechner installiert hat. Mit Hugo ist das so viel einfacher.
 
 ### Hugo - world's fastest static site generator
 
