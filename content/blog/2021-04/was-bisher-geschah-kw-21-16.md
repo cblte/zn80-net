@@ -9,7 +9,7 @@ featured_image: "/images/2021-featured_spring-640.jpg"
 
 {{< figure src="/images/2021-featured_spring-640.jpg" alt="White flower field" attr="Photo by Alexandru Tudorache on Unsplash" attrlink="https://unsplash.com/photos/JdjdIjzJl94" >}}
 
-Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.
+Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das?"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.
 
 Es gab viel Aufregung um Videos in denen Schauspieler Kritik an den Coronamaßnahmen der Bundesregierung äußern. Da viele ihr Video wieder zurückgezogen haben, hat die Aktion wohl nicht den gewünschten Effekt erzielt. 
 
@@ -37,13 +37,13 @@ Das Video über die Apple AirTags von Marques Brownlee: [Apple AirTags Unboxing 
 
 Das Video von Dave2D über die Diebstahlsicherung der AirTags: [Apple Air Tags vs. Thieves](https://www.youtube.com/watch?v=MnQXRfCo7aU)
 
-Ich hätte gerne ein paar deutschsprachige Video verlinkgt, leider habe ich keine gefunden :unamused:.
+Ich hätte gerne ein paar deutschsprachige Video verlinkt, leider habe ich keine gefunden :unamused:.
 
-## Corona Warn App - "Darf ich das"-App - Luca
+## Corona Warn App - "Darf ich das?"-App - Luca
 
 {{< figure src="/images/2021-checkin-airport.jpg" alt="Check-In" attr="Bild von Yong Wang auf Pixabay" attrlink="https://pixabay.com/de/photos/flughafen-tex-frei-madrid-spanien-4735068/" >}}
 
-Endlich hat die Corona Warn App dieses QR-Code Check-In Feature bekommen. Damit lassen sich anonyme Check-in per QR-Code für effiziente Rückverfolgbarkeit von Infektionsketten erstellen. 
+Endlich hat die Corona-Warn-App dieses QR-Code Check-In Feature bekommen. Damit lassen sich anonyme Check-in per QR-Code für effiziente Rückverfolgbarkeit von Infektionsketten erstellen. 
 
 [coronawarn.app blog](https://www.coronawarn.app/de/blog/2021-04-21-corona-warn-app-version-2-0/):
 
@@ -51,7 +51,7 @@ Endlich hat die Corona Warn App dieses QR-Code Check-In Feature bekommen. Damit 
 
 ### Kritik an der Luca-App
 
-Geht doch! Da braucht es die bescheuerte Luca-App nicht mehr. Abgsehen davon, dass die Leute von der Luca-App einfach so gut wie alles falsch gemacht haben, was macn falsch machen kann. Empfehlenswert sind da die letzten Folgen von [Logbuch-Netzpolitik](https://logbuch-netzpolitik.de/):
+Geht doch! Da braucht es die bescheuerte Luca-App nicht mehr. Abgesehen davon, dass die Leute von der Luca-App einfach so gut wie alles falsch gemacht haben, was man falsch machen kann. Empfehlenswert sind da die letzten Folgen von [Logbuch-Netzpolitik](https://logbuch-netzpolitik.de/):
 
 - [LNP385 Luca vs. CrowdNotifier](https://logbuch-netzpolitik.de/)
 - [LNP386 CWA mit Check-in Function](https://logbuch-netzpolitik.de/lnp386-technisches-flair?t=55%3A14%2C1%3A12%3A21)
@@ -63,9 +63,9 @@ Geht doch! Da braucht es die bescheuerte Luca-App nicht mehr. Abgsehen davon, da
 Abgesehen von den verlinkten Kapiteln, empfehle ich, die Folgen in Gänze anzuhören. Die sind gut und die Informationen, die zusätzlich besprochen werden, sind  interessant. Einiges zum Kopfschütteln, einiges zum Schmunzeln. Meiner Meinung sollte LNP in keinem [Podcatcher](/2021-04-podcatcher-uebersicht/) fehlen!
 
 
-### Darf ich das App
+### Die "Darf ich das?"-App
 
-Und dann gibt es da ja noch die neue "[Darf ich das](https://www.darfichdas.info/)"-App:
+Und dann gibt es da ja noch die neue "[Darf ich das?S](https://www.darfichdas.info/)"-App:
 
 >  Was darf man eigentlich, und welche Regeln und Gesetze sind in in deiner Region gerade gültig?
 > 
@@ -82,7 +82,7 @@ Ich habe die App heruntergeladen und ausprobiert. Sieht gut aus. Gut finde ich a
 
 ## allesdichtmachen
 
-Meine erste Version vom [allesdichtmachen](/2021/04/allesdichtmachen/)-Blogpost war schnell dahin geschrieben. Nach einer Nacht drüber schlafen, habe ich mich dann doch etwas kritischer mit dem Thema auseinandergesetzt und meine Aussage korriert.
+Meine erste Version vom [allesdichtmachen](/2021/04/allesdichtmachen/)-Blogpost war schnell dahin geschrieben. Nach einer Nacht drüber schlafen, habe ich mich dann doch etwas kritischer mit dem Thema auseinandergesetzt und meine Aussage korrigiert.
 
 Mittlerweile haben viele der Schauspieler sich von ihren Aussagen distanziert und ihre Videos zurückgezogen. [Stefan Niggemeier](https://twitter.com/niggi/status/1385657855211098115) hat in seinem Thread schön dokumentiert, wer sich wann wofür entschuldigt hat. 
 
@@ -100,7 +100,7 @@ Es hat schon ein wenig gedauert und doch habe ich mich dazu entschlossen, das ga
 
 [Hugo](https://gohugo.io) ist ein statischer Seitengenerator. Du lädst dir das [für dein Betriebssystem nötige Binary](https://github.com/gohugoio/hugo/releases/tag/v0.82.1) herunter und [folgst den Anweisungen im Quickstart-Tutorial](https://gohugo.io/getting-started/quick-start/). Mit ein paar Befehlen in der Kommandozeile hast du so in weniger als zehn Minuten deine Webseite erstellt. :ok_hand: Super! 
 
-Anschließend kannst Du dir ein [fertiges Theme aussuchen](https://themes.gohugo.io/) und einbinden oder Du entwickelst einfach Dein eigenes. Die Dokumentation dazu ist gut und bietet viele Beispiele wie verschiedene Dinge umgesetzt werden können. Falls Du mal nicht weiter weißt, kannst Du dich vertrauensvoll an die [Hugo-Community](https://discourse.gohugo.io/) wenden. 
+Anschließend kannst du dir ein [fertiges Theme aussuchen](https://themes.gohugo.io/) und einbinden oder du entwickelst einfach dein eigenes. Die Dokumentation dazu ist gut und bietet viele Beispiele wie verschiedene Dinge umgesetzt werden können. Falls du mal nicht weiter weißt, kannst du dich vertrauensvoll an die [Hugo-Community](https://discourse.gohugo.io/) wenden. 
 
 Wie das mit Hugo funktioniert und wie ich diese Webseite damit gebaut habe, erkläre ich aber in einem gesonderten Beitrag. Das ist nämlich etwas länger und würde den Rahmen hier sprengen. :smile:
 
@@ -109,7 +109,7 @@ Wie das mit Hugo funktioniert und wie ich diese Webseite damit gebaut habe, erkl
 
 {{< figure src="/images/2021-mailbox.jpg" alt="Mailbox" attrlink="https://unsplash.com/@mbaumi" attr="https://unsplash.com/photos/ZsYPpaeldTM">}}
 
-Zum Schluss habe ich noch eine Empfehlung für Dich: **Bezahle für deine E-Mail-Provider!**. Warum fragst Du dich jetzt? Nun, als Beispiel ein Ausschnitt aus dem [Datenschutz-Dokument von GMX](https://agb-server.gmx.net/datenschutz):
+Zum Schluss habe ich noch eine Empfehlung für dich: **Bezahle für deine E-Mail-Provider!** Warum fragst du dich jetzt? Nun, als Beispiel ein Ausschnitt aus dem [Datenschutz-Dokument von GMX](https://agb-server.gmx.net/datenschutz):
 
 > 8.1. Werbung auf dem GMX Online-Portal
 > 8.1.1.  Zweck der Verarbeitung und Rechtsgrundlage
