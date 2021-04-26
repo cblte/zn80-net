@@ -1,8 +1,10 @@
-+++
-title = "Ein Spieleabend mit Freunden"
-publishDate = "2020-08-04T09:36:00.000Z"
-tags = ["Brettspiele", "Freunde"]
-+++
+---
+title: "Ein Spieleabend mit Freunden"
+publishDate: "2020-08-04T09:36:00.000Z"
+tags: 
+  - "Brettspiele"
+  - "Freunde"
+---
 
 Am Wochenende hatten wir Besuch aus Deutschland. Es war schön, mal wieder ein paar Freunde aus der Heimat bei uns begrüßen zu dürfen.
 
@@ -14,7 +16,7 @@ Ein paar Minuten die Seeluft schnuppern, die Atemwege freimachen und die Füße 
 
 Nach dem Kaffee am Strand sind wir dann noch am Supermarkt vorbei und haben Baguette und neues Eis geholt. Irgendwas fühlt sich falsch an, wenn kein Eiscreme im Haus ist. Zurück zu Hause haben wir dann den Grill angemacht und haben uns lecker Käse-Krakauer und Käse-Bratwurst gegönnt. Dazu einen super leckeren Schichtsalat und lecker [Hertog Jan](https://www.hertogjan.nl/).
 
-{{< figure src="/images/die-legenden-von-andor.jpg" alt="Screenshot von Legenden von Andor Webseite" >}}
+{{< figure src="die-legenden-von-andor.jpg" alt="Screenshot von Legenden von Andor Webseite" >}}
 
 Nachdem wir uns mit Grillgut den Bauch vollgemacht hatten, haben wir drinnen dann [Die Legenden von Andor](https://legenden-von-andor.de/) aufgebaut.
 
