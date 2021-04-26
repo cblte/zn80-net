@@ -4,6 +4,8 @@ publishDate = "2020-10-18T14:55:00.000Z"
 tags = ["100DaysToOffload", "Brot backen", "Apple Event"]
 +++
 
+{{< figure src="/images/was-bisher-geschah.jpg" alt="Logo - Was bisher geschah" >}}
+
 Die Woche 42 war eine Home-Office-Woche. Schön zu Hause zu sitzen und später aufstehen. Das ist ab und zu auch nicht verkehrt. Allerdings habe ich festgestellt, dass es mit jedem Tag etwas später geworden ist. Fehlende Selbstdisziplin? Vielleicht, vielleicht aber auch nicht.
 
 <!--more-->
@@ -40,7 +42,7 @@ Zum Brotlaib habe ich dann auf das untere Blech eine halbe Tasse Wasser geschüt
 
 Unser Backofen hier ist ziemlich dicht und ziemlich heiß. Daher ist der erste Versuch ein wenig zu knusprig geworden und die Kruste ist etwas zu dick und etwas hart. Aber auch wenn es nicht so toll aussieht, schmecken tut es gut und knuspert schön.
 
-{{< figure src="/images/2020-10-erster-versuch-im-brot-backen.jpg" alt="Mein erster Versuch ein Brot zu backen." caption="Mein erster Versuch ein Brot zu backen" >}}
+{{< figure src="erster-versuch-im-brot-backen.jpg" alt="Mein erster Versuch ein Brot zu backen." caption="Mein erster Versuch ein Brot zu backen" >}}
 
 Den zweiten Teil kann ich leider noch nicht probieren, denn [das Brot klebt in der Auflaufform fest](https://twitter.com/cblte/status/1317777676975939586). Das mit dem einölen war vielleicht keine so gute Idee ¯\*(ツ)*/¯. Hätte besser eine ordentliche Menge Mehl nehmen sollen. Wenn das Brot abgekühlt ist, versuche ich es dann mal aus der Form zu bekommen. Irgendwie wird das schon klappen.
 

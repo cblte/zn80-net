@@ -14,7 +14,7 @@ Das iPhone Pro ist ebenfalls ein wirklich schickes Smartphone mit ordentlich vie
 
 Wenn in zwei oder drei Jahren der Austausch vom 11er ansteht, Apple das *iPhone mini* dann immer noch gibt, könnte das eine wirkliche Alternative sein. Wobei? Ich weiß nicht. Habe heute mal das 5er und das 7er aufgeladen und noch mal in der Hand gehabt. So wirklich groß sind die ja nicht und die Tastatur ist auch ganz schön klein. Na ja, bis es so weit ist, vergeht ja noch ein wenig Zeit.
 
-{{< figure src="/images/2020-10-homepod-mini.jpg" alt="HomePod mini weiß und schwarz" caption="HomePod mini weiß und schwarz" >}}
+{{< figure src="homepod-mini.jpg" alt="HomePod mini weiß und schwarz" caption="HomePod mini weiß und schwarz" >}}
 
 ### HomePod mini
 

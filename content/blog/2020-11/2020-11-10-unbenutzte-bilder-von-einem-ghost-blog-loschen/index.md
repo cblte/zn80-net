@@ -18,17 +18,17 @@ Auf dem [Uberspace](https://uberspace.de) kann man das Tool ganz einfach install
 
 Um das Tool jetzt einzusetzen, benötigst du noch zwei Schlüssel. Diese generiert man sich in **Settings** unter dem Menüpunkt **Integrations. **
 
-{{< figure src="/images/2020-11-ghost-integrations.jpg" alt="Ghost Integration" >}}
+{{< figure src="ghost-integrations.jpg" alt="Ghost Integration" >}}
 
 Ich habe das hier für mcih schon erstellt, du musst in deinem Blog auf **Add custom integration** klicken. Dann einen Namen vergeben und mit Save speichern. 
 
 Das sollte dann so aussehen:
 
-{{< figure src="/images/2020-11-ghost-integrations-details.jpg" alt="Ghost Integration" >}}
+{{< figure src="ghost-integrations-details.jpg" alt="Ghost Integration" >}}
 
 In der Kommandozeile wechselst du dann in das Verzeichnis von deiner Ghost Installation und führst den Befehl `ghost-purge-images display --content-key=1234567890 --admin-key=0987654321s` aus. Die Zahlen musst du natürlich durch deine Schlüssel aus der oben erstellen **Integration** nehmen. 
 
-{{< figure src="/images/2020-11-ghost-purge-terminal-display.jpg" alt="Ghost Purge Terminal Output" >}}
+{{< figure src="ghost-purge-terminal-display.jpg" alt="Ghost Purge Terminal Output" >}}
 
 **ghost-purge-images** mit Parameter **display** zeigt die möglichen Kandidaten 
 Den gleichen Befehl kannst du dann noch mal mit dem Parameter **purge** ausführen, um die Bilder auch wirklich zu löschen. 

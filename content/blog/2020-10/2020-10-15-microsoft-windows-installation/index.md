@@ -4,7 +4,7 @@ publishDate = "2020-10-15T06:00:00.000Z"
 tags = ["100DaysToOffload", "Software"]
 +++
 
-{{< figure src="/images/2020-10-windows-installation.jpg" alt="Windows 10 Installation" >}}
+{{< figure src="windows-installation.jpg" alt="Windows 10 Installation" >}}
 
 Also, ich habe ja schon viel erlebt, aber dieses Microsoft Windows und die Fragen bei der Installation sind ja mal nur nervig. Ich will weder einen Online Modus, noch einen Sprachassistenten mit Namen Cortana. Auch will ich nicht irgendwelche Daten irgendwo hinsenden. Was glauben die eigentlich wer die sind?
 

@@ -50,7 +50,7 @@ Am Dienstag dann das Event auf, dass sehr viele schon sehnsüchtig gewartet habe
 
 Ein paar Benchmarks haben es diese Woche aber schon in die Liste von Geekbench geschafft. Der M1 beeindruckt, zumindest auf dem Papier und in Zahlen und schlägt bisher alles, was man so vergleichbaren MacBooks vorgefunden hat. 
 
-{{< figure src="/images/2020-11-macbook-m1-test.png" alt="Screenshots der Benchmark-Übersicht von Geekbench.com" caption="Ziemlich beeindruckend, oder?" >}}
+{{< figure src="macbook-m1-test.png" alt="Screenshots der Benchmark-Übersicht von Geekbench.com" caption="Ziemlich beeindruckend, oder?" >}}
 
 ### macOS Big Sur ist da
 

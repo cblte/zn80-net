@@ -21,7 +21,7 @@ Es wird lang, also anschnallen und festhalten :)
 
 ### Der Anschlag in Wien
 
-{{< figure src="/images/2020-11-wien-jacek-dylag-unsplash.jpg" alt="Wien von Jacek Dylag" >}}
+{{< figure src="wien-jacek-dylag-unsplash.jpg" alt="Wien von Jacek Dylag" >}}
 
 Der [Terroranschlag in Wien](https://de.wikipedia.org/wiki/Terroranschlag_in_Wien_2020) war überhaupt nicht in Ordnung und ich frage mich immer: warum eigentlich? Warum muss man Hass und Zwietracht sähen, warum muss man anderen Menschen Angst machen und warum muss man anderen dermaßen auf den Sack gehen?
 
@@ -41,7 +41,7 @@ Den ganzen Wahnsinn der Bild wurde im BILDblog zusammengefasst:
 
 ### Wahlen in den USA
 
-{{< figure src="/images/2020-11-usa-wahlen.png" alt="Quelle: cnn.com" >}}
+{{< figure src="usa-wahlen.png" alt="Quelle: cnn.com" >}}
 
 Da will ich gar nicht so viel zu schreiben. Der Herr Trump poltert herum, beschuldigt alle möglichen Dinge als Betrug und verteufelt die Demokraten. Dazu schreit er mehrfach in die Welt hinaus, dass die Demokraten den Republikaner die Wahl stehlen würden und das man das Zählen stoppen sollte. Blöd nur für ihn, dass die einzelnen Staaten alle unterschiedliche Regelungen haben, bis wann Stimmen eingehen dürfen und dann noch gezählt werden können. In Pennsylvania zum Beispiel dürfen alle Stimmen gezählt werden, die noch am Wahltag abgeschickt wurden und bis zum Freitag eingehen. Die Auszählung wird also noch ein wenig dauern.
 
@@ -86,12 +86,12 @@ Die beiden Themen könnten sich hier schon fast zu einer Standardüberschrift en
 
 Python habe ich leider wieder nicht so viel geschafft wie ich wollte. Habe es aber jetzt auf die tägliche To-do-Liste gesetzt damit ich da mal vorankomme. Aber die kommenden zwei Wochen Home-Office geben mir vielleicht genug Motivation, mich damit wieder zu beschäftigen.
 
-{{< figure src="/images/2020-11-tryhackme-blue.png" alt="TryHackMe Room Blue" >}}
+{{< figure src="tryhackme-blue.png" alt="TryHackMe Room Blue" >}}
 
 
 Bei TryHackMe allerdings bin ich ein ganzes Stück weitergekommen. Was womöglich auch einer der Gründe dafür war, warum ich mit dem Python-Training nicht so vorangekommen bin wie ich wollte.
 
-{{< figure src="/images/2020-11-tryhackme-erfolg.png" alt="TryHackMe Room Blue Achievment" >}}
+{{< figure src="tryhackme-blue-erfolg.png" alt="TryHackMe Room Blue Achievment" >}}
 
 Diese Woche habe ich die Räume [TryHackMe | Blue](https://tryhackme.com/room/blue) und [TryHackMe | ToolsRus](https://tryhackme.com/room/toolsrus) durchgearbeitet. Bei Blue geht es um das Ausnutzen von Schwachstellen in Windows und bei ToolsRus um die Benutzung und Vertiefung der Tools [dirbuster](https://tools.kali.org/web-applications/dirbuster), [hydra](https://www.ethicalhackingtool.com/brute-force-attack-tool/) ([What Is THC Hydra? Basic Overview](https://www.concise-courses.com/what-is-hydra/)), [nmap](https://nmap.org/), [nikto](https://tools.kali.org/information-gathering/nikto) ([How to Use Nikto](https://www.ehacking.net/2020/02/how-to-use-nikto-for-scanning-vulnerabilities-of-any-website-in-kali-linux.html)) und [metasploit](https://www.metasploit.com/). Alles interessante Tools und hat schon ein wenig Spaß gemacht, sich in die zur Verfügung gestellten Maschinen „zu hacken“. Ist ein bisschen wie Puzzeln für IT’ler.
 
@@ -99,7 +99,7 @@ Diese Woche habe ich die Räume [TryHackMe | Blue](https://tryhackme.com/room/bl
 
 Und hier nun die schönen Dinge der Woche.
 
-{{< figure src="/images/2020-11-apple-event.png" alt="Apple Event 10. November: One More Thing" >}}
+{{< figure src="apple-event-nov-2020.png" alt="Apple Event 10. November: One More Thing" >}}
 
 Neben den ganzen Politik-Wahnsinn habe ich mich nebenher schlau gemacht, was die aktuellen MacBooks so für Geräte sind und wie sie in den Benchmarks gegeneinander abschneiden. Außerdem gab es eine Einladung zur Apple Konferenz am Dienstag, dem 10. November. Laut den Gerüchten soll es ja den oder die neuen [Apple Computer mit der neuen Prozessorarchitektur von ARM](https://www.heise.de/news/ARM-Macs-voraus-Apple-setzt-weiteres-Special-Event-an-4945803.html) geben. Der Apple Silicon wird die PC-Welt schon ziemlich umkrempeln und ich glaube, auch ein wenig revolutionieren. Intel und AMD werden zwar Anfangs ein wenig zu kämpfen haben, aber ein Ende dieser beiden Firmen sehe ich nicht. Es wird auch weiterhin Intel- und AMD-Chips geben. Dennoch wird Apple mit den ARM basierten Prozessoren ordentlich für Wirbel sorgen.
 
@@ -107,7 +107,7 @@ Doch das Logo der Einladung lädt zu Spekulationen ein. Ein [findiger Nutzer auf
 
 ### HomePod mini
 
-{{< figure src="/images/2020-11-homepad-mini.png" alt="HomePod mini von Apple" caption="HomePod mini von Apple" href="https://www.apple.com/de/homepod-mini" >}}
+{{< figure src="homepad-mini.png" alt="HomePod mini von Apple" caption="HomePod mini von Apple" href="https://www.apple.com/de/homepod-mini" >}}
 
 Ich wollte sie ja bestellen. Doch leider war ich um 14:30 Ortszeit wohl viel zu spät. Die Lieferzeit betrug zu diesem Zeitpunkt schon mehr als 6 Wochen. Da habe ich mir gedacht, nein, bei der langen Wartezeit kannst du auch in den örtlichen Elektronikmarkt gehen und die HomePod mini's hier vor Ort kaufen. Damit tue ich dem Einzelhandel einen Gefallen, kann ein wenig Geld sparen und entlaste unsere Postboten. Die haben dieser Tage eh schon viel zu tun. Mit Weihnachten vor der Tür wird das Paketaufkommen auch nicht weniger, werden doch sehr viele dieses Jahr ihre Weihnachtsgeschenke eher per Post verschicken.
 

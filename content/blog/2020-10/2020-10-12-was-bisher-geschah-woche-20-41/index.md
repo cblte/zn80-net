@@ -12,7 +12,7 @@ Neben der [Hello Fresh](https://www.hellofresh.de/) Box, worüber ich ja schon g
 
 Was ich aber diese Woche wieder einmal ausprobiert habe ist, dass ich wieder die Nassrasur ausprobieren möchte. Ich hatte noch eine unbenutzt Klinge von [Boldking](https://www.boldking.com/de) gefunden und war doch sehr über das Ergebnis überrascht. Es gibt da so Stellen am Hals wo man mit den Trockenrasierer einfach nicht gut dran kommt.
 
-{{< figure src="/images/2020-10-boldking-probepaket.jpg" alt="Boldking Probepaket" caption="Boldking Probepaket">}}
+{{< figure src="boldking-probepaket.jpg" alt="Boldking Probepaket" caption="Boldking Probepaket">}}
 
 Also habe ich mir das Probepaket noch mal bestellt. Enthalten sind die normalen Klingen, Rasierschaum, Seife, Aftershave und Gesichtspflege. Als Bonus ist noch ein Deoroller enthalten. Die Produkte riechen gut, aber nicht zu aufdringlich. Mal schauen wie ich mit den normalen Klingen zurechtkomme. Mittlerweile haben sie noch zwei weitere im Sortiment.
 

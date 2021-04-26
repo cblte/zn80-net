@@ -9,7 +9,7 @@ Mit sehr viel Spannung und Aufregung habe auch ich die Keynote gestern Abend ver
 
 ## 13" M1 MacBook Air
 
-{{< figure src="/images/2020-11-macbook-air-specs.jpg" alt="MacBook Air Specs" >}}
+{{< figure src="macbook-air-specs.jpg" alt="MacBook Air Specs" >}}
 
 
 Eigentlich hatte ich mich ja schon dazu entschieden mein MacBook Air durch ein neues **MacBook Pro i5 2.0GHz** zu ersetzen, kam Apple dann mit dem neuen MacBook Air um die Ecke. Keine Lüfter, 8 Kerne, mehr Akku-Laufzeit, mehr Grafikpower und so weiter. Super dachte ich mir! Kaufe ich mir kein MacBook Pro mit i5 sondern das neue **[M1 MacBook Air](https://www.apple.com/de/macbook-air/).** Bam! Und das für einen quasi Schnäppchenpreis ab 1100 Euro. 
@@ -20,7 +20,7 @@ Der [Mac mini](https://www.apple.com/de/mac-mini/) ist ja jetzt nicht so mein Ge
 
 ## 13" M1 MacBook Pro
 
-{{< figure src="/images/2020-11-macbook-pro-specs.jpg" alt="MacBook Pro Specs" >}}
+{{< figure src="macbook-pro-specs.jpg" alt="MacBook Pro Specs" >}}
 
 Den zum Schluss hat Apple noch mal richtig ausgeholt und auch ein neues [13" M1 MacBook Pro](https://www.apple.com/de/macbook-pro-13/) vorgestellt. Mit noch mehr Akku-Laufzeit, noch mehr Power und besseren Mikrofonen. 
 
@@ -32,7 +32,7 @@ Denn seien wir mal ehrlich. Wenn in den beiden Geräten der gleich Chip steckt, 
 
 Was ich aber weiß ist, dass ich schon mal gerne das ein oder andere Spiel auf dem MacBook gespielt hätte, und auch wenn das neue MacBook Air den gleichen Chip hat, bin ich davon überzeugt, dass das MacBook Pro hier besser abschneiden wird. Denn je kühler ein Chip ist, desto weniger wird er gebremst und arbeitet besser. Und da mit dem M1 nun all die Dinge aus (oder sagen wir die meisten Apps) auch auf macOS nun verfügbar sind, wird das spannend. 
 
-{{< figure src="/images/2020-11-apps-auf-mac-mini.png" alt="Apple.com Mac mini Apps" link="https://www.apple.com/de/mac-mini/" >}}
+{{< figure src="apps-auf-mac-mini.png" alt="Apple.com Mac mini Apps" link="https://www.apple.com/de/mac-mini/" >}}
 
 Aber wie lange die Entwickler benötigen, um ihre Software anzupassen, kann man ja auch noch nicht sagen. Aber ist das wirklich so wichtig? Keine Ahnung. Big Sur kommt mit Rosetta 2 und Apple hat die Ansage gemacht, dass während der Übergangszeit sich alle Apps normal verhalten werden. Das wird sich zeigen. 
 
@@ -44,11 +44,11 @@ Da es bisher noch recht viele offene Fragen und nur Vermutungen zum Leistungsunt
 
 Alle Konfigurationen haben 16 GB RAM und 512 GB SSD (planen für die Zukunft)
 
-{{< figure src="/images/2020-11-mbair-8-7-16gb-512gb.jpg" alt="MacBook Air 8-7 16GB und 512GB SSD" caption="MB Air 8 CPU-Cores, 7 GPU-Cores für 1548,90 Euro" >}}
+{{< figure src="mbair-8-7-16gb-512gb.jpg" alt="MacBook Air 8-7 16GB und 512GB SSD" caption="MB Air 8 CPU-Cores, 7 GPU-Cores für 1548,90 Euro" >}}
 
-{{< figure src="/images/2020-11-mbair-8-8-16gb-512gb.jpg" alt="MacBook Air 8-8 16GB und 512GB SSD" caption="MB Air 8 CPU-Cores, 8 GPU-Cores für 1587,90 Euro" >}}
+{{< figure src="mbair-8-8-16gb-512gb.jpg" alt="MacBook Air 8-8 16GB und 512GB SSD" caption="MB Air 8 CPU-Cores, 8 GPU-Cores für 1587,90 Euro" >}}
 
-{{< figure src="/images/2020-11-mbpro-8-8-16gb-512gb.jpg" alt="MacBook Pro 8-8 16GB und 512GB SSD" caption="MB Pro 8 CPU-Cores, 8 GPU-Cores für 1860,85 Euro" >}}
+{{< figure src="mbpro-8-8-16gb-512gb.jpg" alt="MacBook Pro 8-8 16GB und 512GB SSD" caption="MB Pro 8 CPU-Cores, 8 GPU-Cores für 1860,85 Euro" >}}
 
 Der große Unterschied, wie oben erwähnt, sind die 270 Euro für einen Lüfter und bessere Mikrofone. Apple hat schon immer *leicht* überhöhte Preise verlangt, aber so? Nun ja, es wird sich zeigen wie die drei Geräte in den Tests abschneiden, die nicht von Apple gemacht wurden. 
 
