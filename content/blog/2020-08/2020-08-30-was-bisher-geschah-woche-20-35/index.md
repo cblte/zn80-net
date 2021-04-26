@@ -1,14 +1,16 @@
-+++
-title = "Was bisher geschah – Woche 20-35"
-publishDate = "2020-08-30T09:49:00.000Z"
-tags = ["100DaysToOffload"]
-+++
+---
+title: "Was bisher geschah – Woche 20-35"
+publishDate: "2020-08-30T09:49:00.000Z"
+tags: ["100DaysToOffload", "Was bisher geschah"]
+---
 
-{{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher geschah">}}
+{{< figure src="was-bisher-geschah.jpg" alt="Was bisher geschah">}}
 
 Einen schönen guten Morgen. Obwohl, so schön ist er gar nicht, denn es regnet in strömen, mal mehr oder weniger. Eine Verbesserung der Wetterlage zur vorherigen Woche gab es damit also leider nicht.
 
 Diese Woche haben wir gleich zwei Freunde besucht. Am Anfang der Woche waren wir in Deutschland. Es war schön, diese auch mal wieder von Angesicht zu Angesicht zu sehen, anstelle immer nur durch einen Bildschirm hindurch. Mit gebürtigem Abstand und der nötigen Vorkehrungen entsprechend.
+
+<!--more-->
 
 Nebenbei habe ich mich endlich mal meinen Termin beim Arzt wahrgenommen und mich um mein Ohr gekümmert. Da ist immer so ein leichter Druck drauf, der irgendwie nicht weggeht.  Außerdem habe ich mich informiert, was es so an Vorsorgeuntersuchungen gibt wenn man die 40 überschreitet. Für das Ohr habe ich jetzt Nasenspray und eine Nasenspülung erhalten. Bisher schon ein paar mal benutzt, aber eine wirkliche Besserung habe ich noch nicht feststellen können.
 
