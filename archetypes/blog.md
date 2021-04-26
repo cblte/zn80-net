@@ -1,10 +1,13 @@
-+++
-title = "{{ replace .Name "-" " " | title }}"
-date = "{{ .Date }}"
-tags = []
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: "{{ .Date }}"
+tags: 
+{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "- \"%s\"\n" $term }}{{ end }}{{ end }
+
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
-+++
+draft: true
+---
 
 Insert Text here
 
