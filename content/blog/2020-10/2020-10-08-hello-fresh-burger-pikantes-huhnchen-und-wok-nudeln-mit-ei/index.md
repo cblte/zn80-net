@@ -10,7 +10,7 @@ Wie versprochen, oder auch nicht, hier die Bilder der drei letzten Essen von [He
 
 ### Burger met pittige groene pepper en piccalilly
 
-{{< figure src="/images/2020-10-hellofresh-hamburger.jpg" alt="Burger met pittige groene pepper en piccalilly" >}}
+{{< figure src="hellofresh-hamburger.jpg" alt="Burger met pittige groene pepper en piccalilly" >}}
 
 Am Dienstag gab es einen [Hamburger mit grünem Pfeffer und einer Piccalilly-Soße](https://www.hellofresh.nl/recipes/burger-met-pittige-groene-peper-en-piccalilly-5fb51b9bc8c90404092fd952) ([was ist Piccalilly-Soße?](https://www.kochwiki.org/wiki/Piccalilly)). 
 
@@ -18,7 +18,7 @@ Das Fleisch von Hello Fresh war sehr frisch, hat in der Pfanne aber ziemlich ges
 
 ### Pikante Aziatisch kipgehakt in schuitjes van little gem
 
-<{{< figure src="/images/2020-10-hellofresh-reis-mit-gehacktem-huhn.jpg" alt="Pikante Aziatisch kipgehakt in schuitjes van little gem" >}}>
+<{{< figure src="hellofresh-reis-mit-gehacktem-huhn.jpg" alt="Pikante Aziatisch kipgehakt in schuitjes van little gem" >}}>
 
 Gestern, Mittwoch, gab es [pikantes asiatisches Hühnchen mit Reis und Gurkensalat](https://www.hellofresh.nl/recipes/pikant-aziatisch-kipgehakt-in-schuitjes-van-little-gem-5f5a353ccc03d2268b37f614). 
 
@@ -26,7 +26,7 @@ Auf den leckeren, pappigen Reis kommen in Salatblattschalen das gehackte Hähnch
 
 ### Snelle Wokschotel met gekruide kipfiletreepjes
 
-{{< figure src="/images/2020-10-hellofresh-wokschotel-mit-huhn.jpg" alt="Snelle Wokschotel met gekruide kipfiletreepjes" >}}
+{{< figure src="hellofresh-wokschotel-mit-huhn.jpg" alt="Snelle Wokschotel met gekruide kipfiletreepjes" >}}
 
 Heute, Donnerstag, gab es leckere [Nudeln mit gewürzten Hähnchenbruststreifen](https://www.hellofresh.be/recipes/snelle-wokschotel-met-gekruide-kipfiletreepjes-5f58e1eef71bc06bd32cbb3d).
 
