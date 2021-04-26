@@ -7,7 +7,9 @@ tags = ["100DaysToOffload", "Gedanken"]
 
 Gestern haben wir mal etwas "neues" ausprobiert: Grillgemüse! "So neu ist das ja gar nicht" wird da der ein oder andere bestimmt sagen, doch ehrlich gesagt, haben wir das so in dieser Form und Menge noch nie gemacht. Daher war das schon "neu" für uns.
 
-{{< figure src="/images/zn80-net-2020-08-grillgemuese.jpg" alt="Grillgemüse auf dem Lotus Grill" >}}
+<!--more-->
+
+{{< figure src="grillgemuese.jpg" alt="Grillgemüse auf dem Lotus Grill" >}}
 
 Neben den Gemüsespießen gab es normale Kartoffeln und in Scheiben geschnittene süße Kartoffeln, Zucchini, Paprika, Aubergine und eine ganze Menge Pilze. Das alles war eingelegt in einer Mischung aus Sesamöl und verschiedenen Kräutern. Und auch wenn man das nicht glauben mag, das war wirklich lecker. Und satt sind wir auch geworden.
 
