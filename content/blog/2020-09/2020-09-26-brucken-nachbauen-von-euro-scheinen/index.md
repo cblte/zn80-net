@@ -10,7 +10,7 @@ Doch was machen die Niederländern?
 
 <!--more-->
 
-{{< figure src="/images/2020-09-spijkenisse-bruecken-euro-scheine.jpg" alt="Spijkenisse Brücken nachbauen von Euro-Scheinen" >}}
+{{< figure src="spijkenisse-bruecken-euro-scheine.jpg" alt="Spijkenisse Brücken nachbauen von Euro-Scheinen" >}}
 
 Die Niederländer allerdings sind ein ziemlich schlaues Völkchen, und die Leute der niederländischen Stadt Spijkenisse sind noch mal ein Stück schlauer. Denn in der Stadt von Spijkenisse hat man einfach alle Brücke der Euro-Scheine nachgebaut und behauptet nun einfach, dass die Ideen alle aus ihrer Stadt kommen würden.
 
