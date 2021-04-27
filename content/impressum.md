@@ -33,3 +33,7 @@ Abgesehen davon werden keine Daten erhoben, gespeichert oder ausgewertet.
 ## HTTPS always on
 
 Diese Seite nutzt überall HTTPS. Wenn du versuchst, dich über HTTP zu verbinden, wirst du automatisch auf HTTPS umgeleitet.
+
+## My Public SSH Keys
+
+<https://zn80.net/ssh-public-keys.asc>
