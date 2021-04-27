@@ -1,15 +1,15 @@
 +++
-title = "Resources"
-slug = "resources"
+title = "Notes"
+slug = "notes"
 menu = "main"
 weight = 50
 +++
 
-## Cool Things On The Internet
+## Notizen
 
-Dieses hier ist eine lose Sammlung an URLs zu Webseiten die ich regelmäßig nutze. Vielleicht ist ja auch etwas für dich dabei.
+Dies hier ist eine lose Sammlung an Notizen, URLs zu Webseiten und sonstigem Zeug, welches ich regelmäßig nutze. Vielleicht ist ja auch etwas für dich dabei.
 
-- [Meine Firefox Add-ons](/meine-firefox-add-ons)
+- [Meine Firefox Add-ons](/note/meine-firefox-add-ons)
 
 ### Awesome Lists
 
