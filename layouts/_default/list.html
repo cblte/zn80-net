@@ -1,8 +1,7 @@
 {{ define "main" }}
-<p>
-  Willkommen bei meinen Blog-Artikeln! Dies ist eine Sammlung von Artikeln, die ich pflege, um Wissen zu teilen, und
-  manchmal Meinungen.
-</p>
+
+{{ .Content }}
+
 {{ if .Data.Singular }}
 <h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
 <small>
@@ -10,26 +9,25 @@
 </small>
 {{ end }}
 
-{{ range (.Paginator).Pages }}
-<article>
-  <a href="{{ .Permalink }}" class="permalink">
-    <h2>{{ .Title }}</h2>
-  </a>
-  {{ .Summary }}
-
-  {{ if .Truncated }}
-  <p>
-    <a href="{{ .RelPermalink }}">Mehr lesen…</a>
-  </p>
+{{ range .Pages.GroupByDate "2006-01" }}
+<ul class="blog-posts">
+  <h3>{{ .Key }}</h3>
+  {{ range (where .Pages "Type" "blog") }}
+  <li>
+    <span><i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+        </time>
+      </i></span>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ else }}
+  <li>
+    No posts yet
+  </li>
   {{ end }}
-</article>
-{{ else }}
-<p>
-  No posts yet
-</p>
+</ul>
 {{ end }}
-
-{{ template "_internal/pagination.html" . }}
 
 {{ if .Data.Singular }}
 {{else}}
