@@ -8,7 +8,7 @@ images = [" /images/2021-04-apple-event-2021.jpg"]
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}**
 +++
 
-{{< figure src="/images/2021-04-apple-event-2021.jpg" alt="Apple Spring Event 2021 iPad Pro" caption="Apple Spring Event 2021 iPad Pro with M1-Chip" >}}
+{{< figure src="apple-event-2021.jpg" alt="Apple Spring Event 2021 iPad Pro" caption="Apple Spring Event 2021 iPad Pro with M1-Chip" >}}
 
 Apple hat heute beim Spring-Event neue Geräte vorgestellt. Es gibt nun einen [24" iMac](https://www.apple.com/de/imac-24/) in vielen schönen neuen Farben. Blau gefällt mir ja besonders gut. Das iPhone 12 jetzt auch in Lila und ein iPad Pro mit krass gutem Display. Dazu gesellen sich ein Apple TV in 4k und die lang erwarteten AirTags. 
 
