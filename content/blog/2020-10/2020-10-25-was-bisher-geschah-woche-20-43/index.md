@@ -16,7 +16,7 @@ Heute Nacht haben wir die Uhren eine Stunde zurückgestellt und so eine Stunde m
 
 ### Mechanische Tastaturen
 
-![mechanische Tastaturen](/images/2020-10-keyboard-uebersicht.jpg)
+{{< figure src="keyboard-uebersicht.jpg" alt="Mechanische Tastatur" caption="diverse mechanische Tastaturen" >}}
 
 Diese Woche habe ich mich über mechanische Tastaturen informmiert. Meine bisherige [ISKU+ Force FX von Roccat](https://www.amazon.de/Tastatur-Layout-drucksensitiver-Tastenzone-RGB-Tastenbeleuchtung/dp/B01MY497MY) ist zwar noch ganz gut, aber die ersten Tasten fangen an zu quietschen. Und ganz besonders betroffen ist die Leertaste. Zusätzliche entwickeln einige Tasten mittlerweile ein eigenartiges Eigenleben. STRG, ALT und einige andere Tasten bleiben manchmal *kleben*. Dann muss ich die Taste wiederholt drücken, um die Funktion zu deaktivieren. Also habe ich mich nach Alternativen umgeschaut.
 
