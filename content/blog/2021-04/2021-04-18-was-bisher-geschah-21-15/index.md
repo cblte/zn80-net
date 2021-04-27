@@ -40,7 +40,7 @@ In Version 4 haben sie in Ghost viele Dinge eingebaut, um den Blog oder die Webs
 
 [Hugo](https://gohugo.io) ist ein Generator für statische Webseiten. Man nehmen einen ganzen Haufen an Texten und Dateien, ein Theme wie die Seite aussehen soll und jagt das durch Hugo durch. Am Ende kommen dann viele statische HTML Seiten heraus die man ohne großen Aufwand auf jedem Webserver hosten kann.
 
-{{< figure src="/images/2021-04-hugo-screenshot.png" alt="GoHugo" caption="Screenshot gohugo.io Webseite" >}}
+{{< figure src="hugo-screenshot.png" alt="GoHugo" caption="Screenshot gohugo.io Webseite" >}}
 
 _Hugo_ ist für mich halt super, weil ich genau weiß, wo was gespeichert wird, wie ich was wo ablegen muss damit es funktioniert und bei einem Update passiert halt kein Schnick-Schnack, den ich nicht beeinflussen kann. Hinzu kommt, dass statische Seiten nicht gehackt werden können. Wie auch? Es gibt kein Login-Formular, kein Script das irgendetwas bei Seitenaufruf generiert.
 
@@ -53,7 +53,7 @@ Backups sind ebenfalls super einfach. Aller Sourcecode liegt in einem Github-Rep
 
 Hugo ist außerdem schnell, verdammt schnell sogar. In meinem Test habe ich meine exportierten Blogbeiträge einfach 10 mal in das `Content`-Verzeichnis kopiert. Um aus den über 1800 Dateien eine voll funktionierende Webseite mit Tags, Archive, Seiten-Navigation und mehr zu generieren, braucht Hugo keine 3 Sekunden.
 
-{{< figure src="/images/2021-04-hugo-site-generation.png" alt="Hugo Site Generation dauert nur ein paar Sekunden" caption="Hugo benötigt nur ein paar Sekunden für die Webseiten Generierung" >}}
+{{< figure src="hugo-site-generation.png" alt="Hugo Site Generation dauert nur ein paar Sekunden" caption="Hugo benötigt nur ein paar Sekunden für die Webseiten Generierung" >}}
 
 ### Ich mag es gerne einfach
 
