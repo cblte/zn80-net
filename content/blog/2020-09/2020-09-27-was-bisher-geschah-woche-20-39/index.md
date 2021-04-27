@@ -1,8 +1,15 @@
-+++
-title = "Was bisher geschah – Woche 20-39"
-publishDate = "2020-09-27T11:34:00.000Z"
-tags = ["Was Bisher Geschah", "100DaysToOffload"]
-+++
+---
+title: "Was bisher geschah – Woche 20-39"
+publishDate: "2020-09-27T11:34:00.000Z"
+tags: 
+ - "Was Bisher Geschah"
+ - "100DaysToOffload"
+ - "CyberSecurity"
+ - "FOSS"
+ - "SysAdmin"
+---
+
+{{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher Geschah Logo">}}
 
 Diese Woche habe ich im Home Office neben dem *bekämpfen* einer leichten Erkältung mit Schnupfen und Husten, einen Teil meiner Papierwelt aufgeräumt. Dabei habe ich versucht, so viel Papier wie möglich einzuscannen und zu digitalisieren. Dabei habe ich mehrere Smartphone Scanner Apps ausprobiert und mich nach langer Recherche und dem studieren mehrerer  Privacy Policies, für die App [Scanner Pro von Readdle](https://readdle.com/de/scannerpro) entschieden.
 
@@ -16,7 +23,7 @@ Und was war noch?
 
 ### Fediverse
 
-Das Fediverse. Ein Ort voller merkwürdiger Dinge und Wunder. Das ist spannend und interessant und diese Woche habe ich mich etwas mehr damit beschäftigt und versucht, neue Kontakte zu knüpfen und Leute mit gleichen Interessen kennenzulernen. Ich möchte versuchen, mir ein Netzwerk mit Menschen aufzubauen, im Bereich [#FOSS](https://blog.zn80.net/tag:FOSS), [#CyberSecurity](https://blog.zn80.net/tag:CyberSecurity), [#SysAdmin](https://blog.zn80.net/tag:SysAdmin) um zu lernen und um mich auszutauschen, bzw. nett zu unterhalten.
+Das Fediverse. Ein Ort voller merkwürdiger Dinge und Wunder. Das ist spannend und interessant und diese Woche habe ich mich etwas mehr damit beschäftigt und versucht, neue Kontakte zu knüpfen und Leute mit gleichen Interessen kennenzulernen. Ich möchte versuchen, mir ein Netzwerk mit Menschen aufzubauen, im Bereich [#FOSS](/tag/foss), [#CyberSecurity](/tag/cybersecurity), [#SysAdmin](/tag/sysadmin) um zu lernen und um mich auszutauschen, bzw. nett zu unterhalten.
 
 Was mich aber in den ersten Tagen wirklich beeindruckt hat ist der Umgangston. Twitter kannste zur Zeit ja auch nicht wirklich aushalten. Ich habe auch wesentlich mehr Zuspruch und Rückmeldungen auf meine Beiträge und Fragen erhalten. Auf Twitter war das in der letzten Zeit nicht mehr so der Fall. Vielleicht liegt es aber auch daran, dass ich seit Jahren den selben Leute folge und eigentlich nur noch Links zum Blog poste. Was nicht heitßt, dass ich mich dort nicht mehr aktiv rumtreiben werden. Mal mehr, mal weniger.
 
@@ -40,11 +47,11 @@ Bei der [Polizei in Mühlheim an der Ruhr](https://www.tagesschau.de/regional/no
 
 Also mal ganz ehrlich ja, ich kann hier kein Mitleid mitempfinden. Überhaupt nicht.
 
-### Horizon: New Dawn
+### Horizon: Zero Dawn
 
-{{< figure src="/images/2020-09-horizon-new-dawn.jpg" alt="New Horizon" >}}
+{{< figure src="horizon-zero-dawn.jpg" alt="Horizon Zero Dawn" caption="Horizon Zero Dawn">}}
 
-Neben all dem Scheiss, habe ich aber dennoch ein wenig Zeit gefunden mich mit [Aloy durch die Welt von Horizon:New Dawn](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/) zu kämpfen. Ein wirklich tolles Spiel. Sehr viele Liebe zum Detail mit einer tollen, sehr interessante Story und einer noch mehr beeindruckenden Grafik. Doch leider sind die Rechner hier ein wenig *zu schwach auf der Brust*, um mehr als die Grafikeinstellung Mittel zuzulassen.
+Neben all dem Scheiss, habe ich aber dennoch ein wenig Zeit gefunden mich mit [Aloy durch die Welt von Horizon:Zero Dawn](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/) zu kämpfen. Ein wirklich tolles Spiel. Sehr viele Liebe zum Detail mit einer tollen, sehr interessante Story und einer noch mehr beeindruckenden Grafik. Doch leider sind die Rechner hier ein wenig *zu schwach auf der Brust*, um mehr als die Grafikeinstellung Mittel zuzulassen.
 
 Ich hoffe mal, dass Watch Dogs: Legion und Cyberpunk 2077 nicht so die Grafikkarten-Killer sein werden. Denn ich möchte mir eigentlich ungern in diesem Jahr noch eine neue Grafikkarte kaufen, wo ich doch auf das neue MacBook Air spare.
 
