@@ -9,7 +9,7 @@ featured_image: "/images/2021-featured_spring-640.jpg"
 
 Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das?"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.
 
-{{< figure src="/images/2021-featured_spring-640.jpg" alt="White flower field" attr="Photo by Alexandru Tudorache on Unsplash" attrlink="https://unsplash.com/photos/JdjdIjzJl94" >}}
+{{< figure src="featured_spring-640.jpg" alt="White flower field" attr="Photo by Alexandru Tudorache on Unsplash" attrlink="https://unsplash.com/photos/JdjdIjzJl94" >}}
 
 Es gab viel Aufregung um Videos in denen Schauspieler Kritik an den Coronamaßnahmen der Bundesregierung äußern. Da viele ihr Video wieder zurückgezogen haben, hat die Aktion wohl nicht den gewünschten Effekt erzielt. 
 
