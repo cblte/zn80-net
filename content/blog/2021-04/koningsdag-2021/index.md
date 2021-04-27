@@ -11,7 +11,7 @@ draft: false
 
 Und alle ticken aus! :cry:
 
-König Willem-Alexander den Konigsdag mit seiner Familie auf dem [High Tech Campus in Eindhoven](https://www.koninklijkhuis.nl/agenda/2021/04/27/koningsdag-2021) begangen. Mit Abstand, Regelkonform und so. Ein Vorbild sein! 
+König Willem-Alexander hat den Konigsdag mit seiner Familie auf dem [High Tech Campus in Eindhoven](https://www.koninklijkhuis.nl/agenda/2021/04/27/koningsdag-2021) begangen. Mit Abstand, Regelkonform und so. Ein Vorbild sein! 
 
 {{< tweet 1386978077712990208 >}}
 
