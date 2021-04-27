@@ -15,9 +15,14 @@ Diese Woche war ziemlich ereignisreich. Die Schwiegereltern waren zu Besuch und 
 ## Radfahren, Apfelkuchen und brasilianisch Rodizio
 
 Nachdem wir am [Mittwoch in Amsterdam](https://blog.zn80.net/ausprobiert-sixt-share-mit-bmw-i3-und-jaguar-i-pace) waren, haben wir es den Donnerstag etwas ruhiger angehen lassen. Nach dem ausgiebigen Frühstück haben wir eine ausgedehnte, langsame Radtour unternommen und sind am Spätnachmittag im [Ausflugslokal Meijendel](https://denhaag.com/de/meijendel) eingekehrt. Bei leckerem Apfelkuchen mit Sahne lässt sich es gut Pause machen.
-![Scheveningen Strand](/content/images/2020/11/2020-09-scheveningen-strand.jpeg)Scheveningen Strand
+
+{{< figure src="scheveningen-strand.jpeg" alt="Scheveningen Strand" caption="Scheveningen Strand">}}
+
 Anschließend ging es weiter durch die Dünen in Richtung Scheveningen Pier. Dort sind wir die neue Strandpromenade entlang gelaufen. Sehr beeindruckend was die Stadt in den letzen 6 Monaten so hingezaubert hat. Im Winter war das alles noch Baustelle und mit Bauzaun abgesperrt. Doch jetzt sind da einige neue Geschäfte und Restaurants drin und im Hintergrund kann man ein weißes Gebäude erkennen. Das ist auch neu, allerdings konnte man es noch nicht betreten und es stand auch nicht dran, was da mal reinkommt. Lassen wir uns überraschen.
-![Kurhaus von Scheveningen](/content/images/2020/11/2020-09-scheveningen-kurhaus.jpeg)Scheveningen Kurhaus
+
+{{< figure src="scheveningen-kurhaus.jpeg" alt="Kurhaus von Scheveningen" caption="Kurhaus von Scheveningen">}}
+
+
 Nach dem langen Spaziergang auf der Promenade und dem Pier sind wir ins [Rodizio](https://www.rodizio.nl/) eingekehrt, lecker brasilianisch Essen. Rodizio funktioniert so, dass man seinen Marker am Tisch auf Grün dreht und immer dann, wenn ein Kellner mit einem Spieß voller leckerer gegrillter Fleischspezialitäten vorbeikommt, einem davon etwas abschneidet. Super! Aber es gibt nicht nur Steak, Schwein, Hähnchen, Pute, Würstchen, sondern alles auch noch mal in Bacon eingerollt und auch gegrillte Ananas mit Zimt und Zucker. Es lohnt sich! *All you can eat* für einen angemessenen Preis. Hatte das Glück, Gutscheine über [Social Deal](https://www.socialdeal.nl/) zu bekommen.
 
 Nebendran das schöne Kurhaus mit dem tollen Springbrunnen. Super Essen, super Aussicht, lecker Bier, ein wirklich toller Abend.
@@ -25,11 +30,15 @@ Nebendran das schöne Kurhaus mit dem tollen Springbrunnen. Super Essen, super A
 ## Innenstand von Delft und Radtour
 
 Am nächsten Tag, Freitag Vormittag, sind wir mit dem Bus nach Delft gefahren. Meiner Meinung nach eine der schönsten Innenstädte die wir bisher in den Niederlanden gesehen haben.
-![Das Rathaus von Delft](/content/images/2020/11/2020-09-delft-rathaus.jpeg)Rathaus in Delft
+
+{{< figure src="delft-rathaus.jpeg" alt="Das Rathaus von Delft" caption="Das Rathaus von Delft" >}}
+
 *Ich habe es versucht, es gerade zu fotografieren. Doch irgendwie kommt es immer schief drauf. Egal wie man es ausrichtet.*
 
 Viele kleine und große Geschäfte, alles nah bei einander und nicht so überfüllt und überlaufen wie in Den Haag oder Amsterdam. Vor allem die nähe der Geschäfte und der Tolle Platz an der Niewe Kerk mit dem Rathaus von Delft sind einen Besuch wert. Wer dann noch Delfter Porzellan kaufen möchte, kommt voll auf seine Kosten.
-![3000km mit Fahrrad gefahren](/content/images/2020/11/2020-09-fahrrad-3000km-ueberschritten.jpeg)Die 3000km Marke überschritten.
+
+{{< figure src="fahrrad-3000km-ueberschritten.jpeg" alt="3000km mit Fahrrad gefahren" caption="Die 3000km Marke überschritten" >}}
+
 Im Anschluss an den Besuch in Delft sind wir dann Nachmittags mit dem Rad durch das [Midden-Delfland](https://de.wikipedia.org/wiki/Midden-Delfland) geradelt und mittendrin, tada!, die 3000 km Marke geknackt. Ich finde, das ist schon eine ganz ordentliche Leistung seit April 2019, wenn man bedenkt, dass ich in den 10  Jahren zuvor nicht mal 1000 km mit dem Rad geschafft habe. Aber das Radfahren ist hier so allgegenwärtig und durch die vielen Radwege so sicher, dass es einfach Spaß macht und man häufig auch viel schneller am Ziel ist.  
 
 ## Das Wochenende

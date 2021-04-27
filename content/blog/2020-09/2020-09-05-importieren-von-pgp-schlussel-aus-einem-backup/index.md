@@ -1,8 +1,11 @@
-+++
-title = "Importieren von PGP Schlüssel aus einem Backup"
-publishDate = "2020-09-05T10:06:00.000Z"
-tags = ["100DaysToOffload", "GnuPG", "How-to"]
-+++
+---
+title: "Importieren von PGP Schlüssel aus einem Backup"
+publishDate: "2020-09-05T10:06:00.000Z"
+tags: 
+  - "100DaysToOffload"
+  - "GnuPG"
+  - "How-to"
+---
 
 Bevor ich meine Laptops platt gemacht habe, habe ich alle Heimverzeichnisse auf einer externen Platte gesichert. Ist halt wichtig und so. Dazu noch ein verschlüsseltes Backup bei einem externen Anbieter. Denn ein Backup ist kein Backup! Und kein Backup, kein Mitleid. 
 
@@ -22,7 +25,9 @@ Der erste Teil export die geheimenen Schlüssel aus dem Backup-Schlüsselbund (K
 Zwischendurch sollte **Pinentry** hoch kommen und nach den Passwörtern fragen die für den Export der Schlüssel benötigt werden.
 
 Wenn alles geklappt hat, sollte das ungefähr so aussehen:
-![GPG Export of private keys from a backup keyring into the current keyring](/images/2020-09-gpg-export.png)
+
+{{< figure src="gpg-export.png" alt="GPG Export of private keys from a backup keyring into the current keyring" caption="GPG Export of private keys from a backup keyring into the current keyring" >}}
+
 
 ---
 

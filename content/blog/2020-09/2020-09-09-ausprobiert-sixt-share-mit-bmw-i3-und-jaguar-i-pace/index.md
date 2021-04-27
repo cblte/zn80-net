@@ -9,8 +9,8 @@ Heute haben wir den Tag in Amsterdam verbracht. Das war wirklich schön, zuminde
 <!--more-->
 
 Vorab: beim Schreiben ist mir aufgefallen, dass das hier mehr ein Auto-Bericht geworden ist, als ein Bericht über Amsterdam. Ich hoffe, dass nehmt ihr mir jetzt nicht übel.
-![Amsterdam Palast](https://i.zn80.net/blog/2020-09-amsterdam-palast.jpg)
-[Palais op de Dam](https://de.wikipedia.org/wiki/Paleis_op_de_Dam)
+
+{{< figure src="amsterdam-palast.jpg" alt="Foto vom Amsterdam Palast" caption="[Palais op de Dam](https://de.wikipedia.org/wiki/Paleis_op_de_Dam)">}}
 
 Das letzte Mal, als wir in Amsterdam waren, sind wir erst mit der Tram von uns zu Hause bis zum Bahnhof *Hollands Spoor* gefahren, kostete ca. 2 Euro pro Person. Von da aus dann mit der [NS Bahn](https://ns.nl) nach Amsterdam Centraal, was ca. 13 Euro kostet. Entspricht also grob überschlagen knapp 15 Euro pro Person pro Strecke. Insgesamt haben wir an dem Tag also knapp 60 Euro nur für Tram und Bahn ausgegeben. Wenn man das mal auf 4 Leute hochrechnet, sind das schon 120 Euro. Mit [Sixt Share](https://www.sixt.nl/share/#/) – auf Empfehlung eines Arbeitskollegen – sollte das nun günstiger werden.
 
@@ -33,7 +33,10 @@ Von außen sieht der i-Pace schon sehr groß aus, von innen macht er dann nicht 
 Ich als großer Mensch habe echte Probleme gehabt, den Rückspiegel so einzustellen, dass ich hinten aus dem kleinen Fenster heraus etwas erkennen konnte. Die kleinen Fenster hinten links und rechts sind nicht viel besser und bieten irgendwie sehr wenig Überblick über das, was neben dem Fahrzeug passiert. Die Mittelkonsole ist so komisch geformt, dass, wenn man das Knie/Bein anlehnt um entspannt zu fahren, immer gegen eine blöde Kante drückt, die auf Dauer sehr unangenehm ist und man nicht wirklich entspannt fahren kann.
 
 Das ganze Benutzerinterface erinnert mich an ein alter Android Smartphone. Es ist träge und viele Dinge sind hinter unnötigen Untermenüs versteckt. Irgendwie nichts für mich. Auch ist am Lenkrad der Tempomat rechts und die Lautstärkereglegung links. Das ist so ungewohnt, aber liegt vielleicht daran, dass der Jaguar aus England kommt. *zwinker*
-![Fahrradstation in Amsterdam am Hauptbahnhof in der nähe der Fähren](https://i.zn80.net/blog/2020-09-amsterdam-fahrrad-station.jpg)
+
+{{< figure src="amsterdam-fahrrad-station.jpg" alt="Fahrradstation in Amsterdam am Hauptbahnhof in der nähe der Fähren" caption="Fahrradstation in Amsterdam am Hauptbahnhof in der nähe der Fähren">}}
+
+
 ## Amsterdam
 
 Alles in Allem war es ein toller Tag in Amsterdam. Wir haben gut gegessen, sind viel gelaufen und haben einiges gesehen. Zwar nur von außen, aber das muss in diesen Tagen halt auch mal reichen. Die Zeiten werden besser und dann holen wir das mit der Grachtenfahrt, der Touri-Tour und dem Besuch des ein oder anderen Museums oder Bauwerk auch noch nach.

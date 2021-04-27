@@ -1,12 +1,15 @@
-+++
-title = "Schwiegereltern zu Besuch"
-publishDate = "2020-09-07T10:37:00.000Z"
-tags = ["100DaysToOffload", "Gedanken", "Besuch"]
-+++
+---
+title: "Schwiegereltern zu Besuch"
+publishDate:  "2020-09-07T10:37:00.000Z"
+tags: 
+  - "100DaysToOffload"
+  - "Gedanken"
+  - "Besuch"
+---
 
 Guten Morgen liebe Welt da draußen! Die Schwiegereltern waren zu Besuch und wir haben viel erlebt.
 
-![Strand von im Maräz in Katwijk](/images/2020-09-strand-kijkduin.jpg)
+{{< figure src="strand-kijkduin.jpg" alt="Strand von Kijkduin im März" caption="Strand von Kijkduin im März">}}
 
 <!--more-->
 
