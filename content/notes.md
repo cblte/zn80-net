@@ -1,5 +1,5 @@
 +++
-title = "Notes"
+title = "Notizen"
 slug = "notes"
 menu = "main"
 weight = 50
