@@ -1,7 +1,6 @@
 +++
 title = "Meine Firefox Add-ons"
 publishDate = "2020-08-17T20:00:00.000Z"
-slug = "/meine-firefox-add-ons"
 tags = ["100DaysToOffload", "Security", "Plugins", "FireFox", "Privacy"]
 image = "firefox-browser.jpg"
 +++
