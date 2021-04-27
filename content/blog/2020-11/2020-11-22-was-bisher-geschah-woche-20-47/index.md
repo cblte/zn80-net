@@ -14,7 +14,7 @@ Nichtsdestotrotz, gibt es trotzdem noch etwas zu erzählen. Fangen wir also glei
 
 ## Fahrzeug-Zulassungen erneuert
 
-{{< figure src="/images/2020-11-skoda-octavia.jpg" alt="Skoda Octavia" >}}
+{{< figure src="skoda-octavia.jpg" alt="Skoda Octavia" >}}
 
 Wie jedes Jahr um diese Zeit war es nötig, die Zulassungen für unsere beiden KFZ zu erneuern. Einmal im Jahr heißt es dann immer, Zulassungspapiere zusammensuchen, Versicherungskarte kopieren und die 240 km in Richtung Zulassungsstelle fahren. Aber nur, wenn du einen Termin hast. 
 
@@ -32,7 +32,7 @@ Neben einem großen Weihnachtswichtel für die Treppe, habe ich im Gartencenter 
 
 ## Ich habe immer noch kein MacBook mit M1 bestellt
 
-{{< figure src="/images/2020-11-apple-m1-chip.png" alt="Apple M1 Chip" attr="apple.com" attrlink="https://www.apple.com" caption="caption text">}}
+{{< figure src="apple-m1-chip.png" alt="Apple M1 Chip" attr="apple.com" attrlink="https://www.apple.com" caption="caption text">}}
 
 Die ersten Reviews sind da, wobei man mittlerweile ja schon von einer Flut an Videos sprechen kann, und sie sind durchweg sehr positiv. Egal ob es um Video- oder Musikbearbeitung geht oder die Arbeit mit Microsoft Office. Selbst (eingeschränkt) Gaming ist sogar sehr gut möglich. Also insgesamt hat Apple wirklich gehalten, was sie versprochen haben. Natürlich gibt es auch einiges zu meckern. Zum Beispiel über die Kamera und darüber das nur 2 Ports vorhanden sind. Was man aber nicht vergessen darf ist, dass dieses die ersten Geräte sind, die Apple mit ihrem neuen Apple Silicon ausgestattet hat und vorerst die Basis-Konfigurationen ersetzen sollen. Für die wirklichen **Pro-Geräte** kommen ja erst noch. 
 
@@ -51,7 +51,7 @@ Also, Apple hat nicht gelogen und auch nicht zu viel versprochen. Hier und da gi
 
 ## Synology C2 Backups
 
-{{< figure src="/images/2020-11-synology-c2.png" alt="Synology Hyper Backup" >}}
+{{< figure src="synology-c2.png" alt="Synology Hyper Backup" >}}
 
 Seit letzter Woche sichert meine Synology unsere Daten auch in der Cloud. Automatisiert und verschlüsselt. Für knapp 25 Euro im Jahr, bekomme ich 300 GB Speicher bei Synology C2, dem Cloud Speicherdienst von Synology. Über das Synology DSM können die Backups mit der App *Hyper Backup* einfach und zügig eingerichtet werden.
 
@@ -59,7 +59,7 @@ Die Benutzerverzeichnisse und die Fotobibliothek werden jetzt regelmäßig gesic
 
 Als Rotationsplan habe ich mich für Smart Recycle entschieden. Das erschien mir für die Benutzerverzeichnisse am sinnvollsten. Die Fotos hingegen ändern sich nicht so häufig, daher gibt es dort keine Rotation. 
 
-{{< figure src="/images/2020-11-synology-c2-assistent.png" alt="Synology C2 Datensicherungs-Assistent" >}}
+{{< figure src="synology-c2-assistent.png" alt="Synology C2 Datensicherungs-Assistent" >}}
 
 Einfache Einrichtung, verschlüsselt, verschiedene Backup-Pläne und ein beliebig wählbarer Zeitpunkt sind nur einige der Vorteile. Eine Sorge weniger!
 
