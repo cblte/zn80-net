@@ -1,5 +1,6 @@
 ---
 title: "Kontoführungsgebühren"
+slug: "kontofuehrungsgebuehren"
 date: "2021-04-29T19:36:48+02:00"
 tags: 
 - "100DaysToOffload"
