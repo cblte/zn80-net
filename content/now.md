@@ -12,5 +12,3 @@ Inspiriert durch [@nownownow](https://nownownow.com/), liste ich Dinge auf, die 
 - Mit dem Sparen durchzuhalten, um mir das neue MacBook Pro zu kaufen
 
 
-Zuletzt aktualisiert: 23. April 2021
-
