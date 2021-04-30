@@ -10,11 +10,19 @@
  {{ end }}{{ end }}
 
   {{ .Content }}
-  </article>
 
-  <p>
+  {{ if and (eq .Kind "page") ($.GitInfo) }}
+  <p class="lastmod">
+    Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
+  </p>
+  {{ end }}
+  
+  <p class="tags">
     {{ range (.GetTerms "tags") }}
     <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
     {{ end }}
   </p>
+ 
+</article>
 {{ end }}
+
