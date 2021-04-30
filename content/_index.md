@@ -16,7 +16,7 @@ Ich schreibe auch einen [Blog](/blog). Meistens nur kurze Kommentare mit einem L
 
 {{< last_posts >}}
 
-### Kontact
+### Kontakt
 
 Du kannst mir auch schreiben. Per [E-Mail](/impressum), über [Twitter](//twitter.com/cblte) oder via [Threema: 2S96RXBJ](//threema.id/2s96rxbj).
 
