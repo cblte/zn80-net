@@ -15,3 +15,7 @@ date: "2021-04-27"
 - Graphiz <https://graphviz.christine.website/>
 - Paste to Markdown <https://euangoddard.github.io/clipboard2markdown/>
 
+## File hoster
+
+- The Null Pointer <https://ttm.sh/>
+- Everything is temporary <https://temp.sh/>
