@@ -1,7 +1,6 @@
 {{ define "main" }}
-  <article class="single">
   {{ if eq .Type "blog" }}{{ if not .Params.menu }}
-  <h1>{{ .Title }}</h1>
+  <h1 class="single">{{ .Title }}</h1>
   <span class="datetime">
     <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
       {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
@@ -24,7 +23,5 @@
       {{ end }}
     </p>
   {{ end }}
- 
-</article>
 {{ end }}
 
