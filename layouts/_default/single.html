@@ -16,9 +16,9 @@
   </p>
   {{ end }}
   
-  {{ if (.GetTerms "tags") }}Tags: 
+  {{ if (.GetTerms "tags") }}
   <p class="tags">
-      {{ range (.GetTerms "tags") }}
+    Tags: {{ range (.GetTerms "tags") }}
       <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
       {{ end }}
     </p>
