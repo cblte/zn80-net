@@ -23,5 +23,10 @@
       {{ end }}
     </p>
   {{ end }}
+
+  {{ if eq .Type "blog" }}
+    {{ partial "comments" . }}
+  {{ end }}
+
 {{ end }}
 
