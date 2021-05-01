@@ -12,6 +12,7 @@ date: "2021-04-27"
 
 - Bearblog <https://bearblog.dev> - A privacy-first, no-nonsense, super-fast blogging platform
 - Mataroa <https://mataroa.blog/> - Clean blogging platform. Just write.
+- Telegraph <https://telegra.ph/>
 
 
 ## Sonstiges
