@@ -9,15 +9,15 @@
 
 {{ range .Pages.GroupByDate "2006-01" }}
 <ul class="blog-posts">
-  <h3>{{ .Key }}</h3>
+  <h2>{{ .Key }}</h2>
   {{ range (where .Pages "Type" "blog") }}
   <li>
     <span><i>
-        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+        <time datetime='{{ .Date.Format "2006-01-02" }}'>
           {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
         </time>
       </i></span>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .Permalink }}" rel="bookmark" title="{{.Title}}">{{ .Title }}</a>
   </li>
   {{ else }}
   <li>
@@ -32,7 +32,7 @@
 <p>
   <small>
     {{ range .Site.Taxonomies.tags }}
-    <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink }}" rel="tag">#{{ .Page.Title }}</a>&nbsp;
     {{ end }}
   </small>
 </p>
