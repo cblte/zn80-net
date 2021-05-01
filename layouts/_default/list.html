@@ -8,8 +8,8 @@
 {{ end }}
 
 {{ range .Pages.GroupByDate "2006-01" }}
-<ul class="blog-posts">
   <h2>{{ .Key }}</h2>
+  <ul class="blog-posts">
   {{ range (where .Pages "Type" "blog") }}
   <li>
     <span><i>
@@ -24,7 +24,7 @@
     No posts yet
   </li>
   {{ end }}
-</ul>
+  </ul>
 {{ end }}
 
 {{ if .Data.Singular }}
