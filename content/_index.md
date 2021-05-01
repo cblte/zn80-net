@@ -1,5 +1,5 @@
 +++
-title = "ZN80.net"
+title = "Gedanken eines Nerds und Informatikers"
 +++
 
 # Hi, ich bin Carsten 👋
