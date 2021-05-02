@@ -98,3 +98,7 @@ Aufgeschoben ist nicht aufgehoben und so werden wir das Übernächste in Angriff
 Was ist dir so die Woche passiert? Hast du das Update auf 14.5 schon gemacht? Oder auch schon die AirTags bestellt oder vielleicht ein neues iPhone oder den schicken iMac? Lass uns drüber reden. Schreib mir doch eine E-Mail. Gerne auch verschlüsselt, aber bitte an die richtige Adresse 🙏.
 
 <!--more-->
+
+---
+
+Noch nicht genug? Dann schau doch mal bei [Monstropolis](https://monstropolis.wordpress.com/), [dn15](https://dn15.de/) oder [HappyBuddha](https://happybuddha1975.de/) vorbei. Viel Spaß!
