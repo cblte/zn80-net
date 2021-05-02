@@ -1,5 +1,6 @@
 ---
-title: "Was Bisher Geschah Woche 21 17"
+title: "Was Bisher Geschah – Woche 21-17"
+slug: "was-bisher-geschah-woche-21-17"
 date: "2021-05-02T12:57:08+02:00"
 tags: 
 - "100daystooffload"
