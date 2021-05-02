@@ -71,7 +71,7 @@ Und [250kb.club](https://250kb.club) schreibt:
 
 Im ersten Moment klingt das alles ziemlich aufwendig und anstrengend. Allerdings muss ich sagen, dass es mir richtig Spaß gemacht hat, hier und da zu optimieren. Nebenbei konnte ich mein Wissen über CSS und Bildkompression verbessern und viele neue [Tools und Webseiten](/sammelsurium) entdecken. 
 
-Ich war so in der Lage von ürsprünglichen 800kb auf 80kb zu drücken. Und das ist doch mal richtig gut! Ehrlicherweise muss ich erwähnen, dass dieses nur für die Hauptseite gilt 😇. Die einzelnen Blogbeiträge sind größer. 
+Ich war so in der Lage von ursprünglichen 800kb auf 80kb zu drücken. Und das ist doch mal richtig gut! Ehrlicherweise muss ich erwähnen, dass dieses nur für die Hauptseite gilt 😇. Die einzelnen Blogbeiträge sind größer. 
 
 Zusätzlich habe ich neue Bekanntschaften geschlossen und angeregte Diskussionen per E-Mail geführt. Was mich zum nächsten Thema bringt.
 
