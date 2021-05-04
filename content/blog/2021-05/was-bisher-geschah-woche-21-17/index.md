@@ -103,3 +103,5 @@ Was ist dir so die Woche passiert? Hast du das Update auf 14.5 schon gemacht? Od
 ---
 
 Noch nicht genug? Dann schau doch mal bei [Monstropolis](https://monstropolis.wordpress.com/), [dn15](https://dn15.de/) oder [HappyBuddha](https://happybuddha1975.de/) vorbei. Viel Spaß!
+
+Das hier ist Beitrag 82 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
