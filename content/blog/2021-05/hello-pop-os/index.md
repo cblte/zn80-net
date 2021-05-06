@@ -16,7 +16,7 @@ Heute habe ich POP!\_OS auf dem Rechner installiert. Was ich nach der einfachen 
 
 [Pop!_OS](https://pop.system76.com/) ist ein modernes Linux Betriebssystem für MINT (STEM) und Kreative. Unter der Haube Ubuntu, oben drauf moderne und sichere Open-Source-Software. 
 
-Pop!_OS gibt es aktuell in der Version 20.10 und 20.04 LTS (Long Term Support). Außerdem gibt es speziell für Computer mit NVIDIA Grafiken von jeder Version ein Image,bei dem die NVIDIA Grafikkartentriber schon vorinstalliert sind. 
+Pop!_OS gibt es aktuell in der Version 20.10 und 20.04 LTS (Long Term Support). Außerdem gibt es speziell für Computer mit NVIDIA Grafiken von jeder Version ein Image,bei dem die NVIDIA Grafikkartentreiber schon vorinstalliert sind. 
 
 Nach dem Herunterladen der Image-Datei benötigen wir noch [balenaEtcher)(https://www.balena.io/etcher/) oder [UNetbootin](https://unetbootin.github.io/) um aus dem Image einen bootfähigen USB-Stick zu erstellen.
 
