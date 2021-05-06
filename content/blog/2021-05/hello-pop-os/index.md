@@ -5,6 +5,7 @@ date: 2021-05-04
 tags:
 - Linux
 - POP!_OS
+- 100DaysToOffload
 ---
 
 {{< figure src="images/hallo_pop_os.png" alt="Hallo, Pop!_OS" caption="Hallo, Pop!_OS">}}
@@ -102,4 +103,4 @@ Ich bin zufrieden! Und du, verwendest du schon Linux oder willst es mal versuche
 
 <!--more-->
 
-Das hier ist Beitrag 82 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 83 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
