@@ -1,6 +1,6 @@
 ---
-title: "Pop!_OS Tweaks"
-slug: "pop-os-tweaks"
+title: "Pop!_OS Tweaks - Fixing System Freeze"
+slug: "pop-os-tweaks-fixing-system-freeze"
 date: "2021-05-06T20:58:44+02:00"
 tags: 
 - "100daystooffload"
