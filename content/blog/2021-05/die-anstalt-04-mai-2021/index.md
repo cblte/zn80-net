@@ -20,6 +20,11 @@ Direktlink Videos:
 - [mittlere Qualität (453 MB)][mq] 
 - [hohe Qualität (916 MB)][hq]
 
+Neben der eigentlichen Sendung, gibt es von [Claus von Wagner](https://twitter.com/clausvonwagner/status/1390615813825179653) auch einen langen Twitter-Thread mit noch mehr Hintergrund-Informationen:
+
+{{< tweet 1390615813825179653 >}}
+
+Thread als [PDF-Backup](thread-by-clausvonwagner-1390615813825179653.pdf) / [PNG-Backup](thread-by-clausvonwagner-1390615813825179653.png)
 
 [nq]: https://downloadzdf-a.akamaihd.net/mp4/zdf/21/05/210504_sendung_dan/5/210504_sendung_dan_808k_p11v15.mp4
 [mq]: https://downloadzdf-a.akamaihd.net/mp4/zdf/21/05/210504_sendung_dan/5/210504_sendung_dan_1628k_p13v15.mp4
