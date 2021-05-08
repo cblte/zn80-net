@@ -28,7 +28,7 @@ Sobald es also so warm wird das man wieder draußen sitzen kann, spätestens doc
 
 Diese Datenbank hat es wirklich in sich. Dabei geht ist nicht darum, wie alt die Daten sind, sondern, dass sie in einem großen, riesigen und leicht zugänglichen Art und Weise aufbereitet sind.
 
-Die Datenbank enthält über 3.2 Milliarden einzigartige E-Mail und Passwort Kombinationen. Dabei geht es nicht darum, dass diese Daten Zugang zu einem E-Mail-Postfach gewähren, sondern es sind Login-Daten zu bekannten Webseiten wie LinkedIn, Netflix,Exploit.it, Bitcoin und mehr.
+Die Datenbank enthält über 3.2 Milliarden einzigartige E-Mail und Passwort Kombinationen. Dabei geht es nicht darum, dass diese Daten Zugang zu einem E-Mail-Postfach gewähren, sondern es sind Login-Daten zu bekannten Webseiten wie LinkedIn, Netflix, Exploit.it, Bitcoin und mehr.
 
 Ich kann wirklich nur dazu anraten, sich einen Passwortmanager anzuschaffen, damit man einigermaßen den Überblick über seine ganzen Accounts und Logins behält. Auch sollte man sich von Zeit zu Zeit mal **wirklich die Zeit nehmen** und alte Accounts die man nicht mehr braucht, zu löschen!
 
@@ -65,6 +65,8 @@ Immerhin kann ich mich jetzt schon mal durch Höhlen bewegen und das auf mehrere
 ## Diablo 4 und Diablo 2
 
 Blizzard hat mit neuen Trailer die Spannung auf Diablo 4 ein weiteres Mal erhöht. Mit dem Trailer für die Jägerin zeigen sie wieder einmal, wie man so etwas macht. Wenn man mal vom Inhalt absieht, die Trailer die Blizzard sind qualitativ echt gut und machen Laune auf mehr!
+
+{{< figure src="images/diablo-2-resurrected.jpeg" alt="Diable 2 Resurrected" >}}
 
 Außerdem gab es die Woche mit der Ankündigung Diablo 2 neu aufzulegen, eine weitere tolle Ankündigung. Auch wenn für [Diablo 2 Resurrected](https://diablo2.blizzard.com/de-de/) wohl noch mal 40 Euro fällig werden, werde ich mir das mit sehr großer Wahrscheinlichkeit zulegen.
 
