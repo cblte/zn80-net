@@ -16,9 +16,9 @@ Hallo und willkommen zu einer neuen Wochenausgabe von "Was Bisher Geschah".
 
 Das aufregendste Ereignis diese Woche war, dass ich einen neuen Arbeitslaptop erhalten habe. Also, eigentlich habe ich zwei Geräte bekommen. Das erste Gerät hat nur Ärger gemacht. Abstürze, [BlueScreen-of-Death](https://de.wikipedia.org/wiki/Bluescreen_(Windows)), Sound- und Tastatur-Probleme. Nach dem dritten Ticket hat man sich dann meiner erbarmt und mir ein anderes Gerät gegeben. Das ist zwar nicht die aktuelle Generation, hat auch seine Probleme, aber immerhin besser als das schlecht konfigurierte Teil vorher.
 
-Bisher habe ich keine Probleme. Sound funktioniert und keine zusätzlichen Effekte. Was unteranderem daran liegen könnte, dass auf diesem Geräte das Konfigurationsprogramm für die Soundkarte installiert ist. Tastatur klappt auch und bisher keine Aussetzer. Einen BSoD habe ich während der erneuten Einrichtung auch nicht gehabt. Daumen drücken, dass alles gut funktioniert.
+Bisher habe ich keine Probleme. Sound funktioniert und keine zusätzlichen Effekte. Was unter anderem daran liegen könnte, dass auf diesem Geräte das Konfigurationsprogramm für die Soundkarte installiert ist. Tastatur klappt auch und bisher keine Aussetzer. Einen BSoD habe ich während der erneuten Einrichtung auch nicht gehabt. Daumen drücken, dass alles gut funktioniert.
 
-Eines macht mir dennoch ein wenig Sorgen. Arbeitskollegen haben von sich aufblähenden Batterien berichtet. Hoffen wir mal, das ich davon verschont bleibe. Im MacBook Air ist die Batterie nun etwas mehr als acht Jahre alt und verrichtet einwandfrei ihre Arbeit. Aber was will man von einem Laptop in Plastikgehäuse schon erwarten?
+Eines macht mir dennoch ein wenig Sorgen. Arbeitskollegen haben von sich aufblähenden Batterien berichtet. Hoffen wir mal, das ich davon verschont bleibe. In meinem privaten MacBook Air ist die Batterie nun etwas mehr als acht Jahre alt und verrichtet einwandfrei ihre Arbeit.
 
 ## Linux Pop!_OS
 
@@ -36,7 +36,7 @@ Was ich auch ausprobiert habe, ist dass Spielen unter Linux. Hier kann man sich 
 
 {{< figure src="images/pop-shop-steam-flatpak.jpeg" alt="Pop!_Shop Steam" caption="Pop!_Shop Steam" >}}
 
-Steam macht es einem sehr einfach unter Linux. Nach der Anmeldung kann man seine Spielbibliothek durchforsten und installieren, was unter Linux nativ zur Verfügung steht. Durch einen Klick auf den kleinen Tux in der Suchleiste, lässt sich nach kompatiblen Linux Spielen filtern.
+Steam macht es einem sehr einfach unter Linux. Nach der Anmeldung kann man seine Spielbibliothek durchforsten und installieren, was unter Linux nativ zur Verfügung steht. Durch einen Klick auf den kleinen Tux in der Suchleiste lässt sich nach kompatiblen Linux Spielen filtern.
 
 Für alle Spiele, die nicht nativ unter Linux laufen, bietet Steam die Proton-Umgebung an. Das ist Steams Version von Wine und ermöglicht es, Windowsprogramme und Spiele unter Linux zu starten. Ohne zu übertreiben, ich bin wirklich überrascht wie gut und transparent das funktioniert.
 
