@@ -31,3 +31,5 @@ Du möchtest praktisch erlernen, wie man im digitalen Alltag weniger Spuren hint
 [Online-Crypto-Seminar vom 25. November bis zum 3. Dezember 2020 | Digitalcourage](https://digitalcourage.de/blog/2020/online-crypto-seminar-25-november-3-dezember-2020)
 
 <!--more-->
+
+Das hier ist Beitrag 42 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com  um mehr Informationen über die Challenge zu erfahren.

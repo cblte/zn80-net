@@ -14,3 +14,5 @@ Da war [die Ansprache von Joe Biden](https://youtu.be/a49j90calso) schon sehr vi
 So und nun ist aber genug. Das wird so oder so keine saubere Wahl. Denn wenn der amtierende Präsident von vornherein damit droht, die Auszählung vor Gericht anzufechten, dann ist da nicht mehr viel von Demokratie.
 
 <!--more-->
+
+Das hier ist Beitrag 41 der #100DaysToOffload Herausforderung. Besuche  https://100daystooffload.com  um mehr Informationen über die Challenge zu erfahren.
