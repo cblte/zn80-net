@@ -1,7 +1,7 @@
 +++
 title = "Wer war noch mal Wattpad"
 publishDate = "2020-08-23T20:00:00.000Z"
-tags = ["Gedanken"]
+tags = ["100DaysToOffload"]
 +++
 
 Und wieder ein Account gekündigt – tschüss Wattpad
