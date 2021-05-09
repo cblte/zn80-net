@@ -1,6 +1,7 @@
 ---
-title: "Linux Tweaks"
+title: "Fixing NVMEs Issues"
 date: "2021-05-05"
+category: Linux Tweaks
 ---
 
 ## Fixing NVMe Issues in Linux
