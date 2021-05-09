@@ -2,6 +2,10 @@
 lastmod: "2020-11-09T17:46:09.000Z"
 publishDate: "2020-11-09T11:21:00.000Z"
 title: Hintertüren in Messenger
+tags:
+- 100DaysToOffload
+- Netzpolitik.org
+- Digitalcourage
 ---
 
 Ich bin nicht immer einer Meinung mit Felix von Leitner von [blog.fefe.de](http://blog.fefe.de), aber das was er [hier](http://blog.fefe.de/?ts=a157d173) und [hier](http://blog.fefe.de/?ts=a157c1a0) über die Hintertüren in Messenger schreibt, geht mal gar nicht! Und damit meine ich die [Dinge die unsere EU-Vertreter gerade so verabschieden und beschließen](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/648784/IPOL_STU(2020)648784_EN.pdf) (siehe Punkt 5.1 European Cloud/European Internet). 

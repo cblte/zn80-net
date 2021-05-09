@@ -2,6 +2,7 @@
 publishDate: "2020-11-05T14:23:00.000Z"
 tags:
 - Gedanken
+- 100DaysToOffload
 title: Genug Trump für heute
 ---
 
