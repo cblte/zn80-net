@@ -2,7 +2,9 @@
 title: Setting Alt-Tab behavior in gnome-shell
 date: 2021-05-09
 category: Linux Tweaks
-tags: gnome, gnome-shell
+tags: 
+- gnome
+- gnome-shell
 draft: true
 ---
 
