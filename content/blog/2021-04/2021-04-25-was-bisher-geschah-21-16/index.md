@@ -131,4 +131,5 @@ Bleibt gesund und bis nächste Woche.
 
 Wie gewohnt kannst du diese Beiträge auch per E-Mail abonnieren. [Klick hier um dich  einzutragen](https://www.tinyletter.com/blognzn80).
 
-Das hier ist Beitrag 80 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 80 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
+

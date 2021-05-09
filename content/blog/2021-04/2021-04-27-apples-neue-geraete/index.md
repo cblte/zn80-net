@@ -41,4 +41,4 @@ Die Keynote zum [Spring Event 2021](https://www.apple.com/de/apple-events/april-
 
 ---
 
-Das hier ist Beitrag 79 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 77 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

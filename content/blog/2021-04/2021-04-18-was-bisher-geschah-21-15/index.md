@@ -123,4 +123,4 @@ So wirklich warm wird es ja immer noch nicht Ein kurzer Ausreißer am Dienstag, 
 
 ---
 
-Das hier ist Beitrag 78 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 76 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

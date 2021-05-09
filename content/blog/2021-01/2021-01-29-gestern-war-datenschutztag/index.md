@@ -29,4 +29,4 @@ Ich glaube, der Absatz hier beschreibt das Problem gut. Falles es Hintertüren g
 
 ---
 
-Das hier ist Beitrag 66 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 67 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

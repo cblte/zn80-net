@@ -26,4 +26,4 @@ Link >> [Personalausweis ohne Fingerabdrücke beantragen! #PersoOhneFinger | Dig
 
 ---
 
-Das hier ist Beitrag 69 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 70 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

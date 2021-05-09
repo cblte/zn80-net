@@ -51,17 +51,16 @@ Leseempfehlung:
 
 [The New York Times - To Be Tracked or Not! Apple Is Now Giving Us the Choice](https://www.nytimes.com/2021/04/26/technology/personaltech/apple-app-tracking-transparency.html)
 
-
 ## 512kb.club und 250kb.club
 
-Während der Umgestaltung meiner Webseite und dem Zusammenfassen von Content der über mehrere Domains verstreut war, bin ich auf den [512kb.club](https://512kb.club) und [250kb.club](https://250kb.club) gestoßen. 
+Während der Umgestaltung meiner Webseite und dem Zusammenfassen von Content der über mehrere Domains verstreut war, bin ich auf den [512kb.club](https://512kb.club) und [250kb.club](https://250kb.club) gestoßen.
 
-Die beiden Seiten haben sich zum Ziel gesetzt, eine Liste an Webseiten zu pflegen, die der Anforderung entsprechen, dass die Hauptseite eine bestimmte Größe nicht überschreitet. 
+Die beiden Seiten haben sich zum Ziel gesetzt, eine Liste an Webseiten zu pflegen, die der Anforderung entsprechen, dass die Hauptseite eine bestimmte Größe nicht überschreitet.
 
 [512kb.club](https://512kb.club) schreibt:
 
 > The internet has become a bloated mess. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
-> 
+>
 > When online newspapers like The Guardian are over 4MB in size, you know there’s a problem. Why does an online newspaper need to be over 4MB in size? It’s crazy.
 
 Und [250kb.club](https://250kb.club) schreibt:
@@ -70,19 +69,19 @@ Und [250kb.club](https://250kb.club) schreibt:
 > Lets do something about it!
 > The 250kb Club is a collection of web pages that focus on performance, efficiency and accessibility.
 
-Im ersten Moment klingt das alles ziemlich aufwendig und anstrengend. Allerdings muss ich sagen, dass es mir richtig Spaß gemacht hat, hier und da zu optimieren. Nebenbei konnte ich mein Wissen über CSS und Bildkompression verbessern und viele neue [Tools und Webseiten](/sammelsurium) entdecken. 
+Im ersten Moment klingt das alles ziemlich aufwendig und anstrengend. Allerdings muss ich sagen, dass es mir richtig Spaß gemacht hat, hier und da zu optimieren. Nebenbei konnte ich mein Wissen über CSS und Bildkompression verbessern und viele neue [Tools und Webseiten](/sammelsurium) entdecken.
 
-Ich war so in der Lage von ursprünglichen 800kb auf 80kb zu drücken. Und das ist doch mal richtig gut! Ehrlicherweise muss ich erwähnen, dass dieses nur für die Hauptseite gilt 😇. Die einzelnen Blogbeiträge sind größer. 
+Ich war so in der Lage von ursprünglichen 800kb auf 80kb zu drücken. Und das ist doch mal richtig gut! Ehrlicherweise muss ich erwähnen, dass dieses nur für die Hauptseite gilt 😇. Die einzelnen Blogbeiträge sind größer.
 
 Zusätzlich habe ich neue Bekanntschaften geschlossen und angeregte Diskussionen per E-Mail geführt. Was mich zum nächsten Thema bringt.
 
 ## Verschlüsselte E-Mails
 
-Es soll einfach sein. Die Schlüsselverwaltung muss übersichtlich sein. Dennoch hatte ich teilweise das Gefühl, dass ich irgendwie die Kontrolle verloren habe. Anders ausgedrückt: Teils, teils konnte ich nicht feststellen, mit welchen Schlüssel ich welche E-Mail versendet habe und welchen Schlüssel ich nutzen muss, eine ankommende E-Mail zu entschlüsseln 😱. Liegt es vielleicht an mir und ich bin einfach zu doof dafür? 
+Es soll einfach sein. Die Schlüsselverwaltung muss übersichtlich sein. Dennoch hatte ich teilweise das Gefühl, dass ich irgendwie die Kontrolle verloren habe. Anders ausgedrückt: Teils, teils konnte ich nicht feststellen, mit welchen Schlüssel ich welche E-Mail versendet habe und welchen Schlüssel ich nutzen muss, eine ankommende E-Mail zu entschlüsseln 😱. Liegt es vielleicht an mir und ich bin einfach zu doof dafür?
 
-Auf der Webseite habe ich den 🔐[Schlüssel](/impressum) für die E-Mail-Adresse hinterlegt, die im Impressum steht. Das ist aber nicht die E-Mail, von der ich normalerweise meine E-Mails verschicke. So kam es, dass mir einige mit verschlüsselten E-Mails geantwortet haben, die mit dem Schlüssel von der Webseite verschlüsselt waren. 
+Auf der Webseite habe ich den 🔐[Schlüssel](/impressum) für die E-Mail-Adresse hinterlegt, die im Impressum steht. Das ist aber nicht die E-Mail, von der ich normalerweise meine E-Mails verschicke. So kam es, dass mir einige mit verschlüsselten E-Mails geantwortet haben, die mit dem Schlüssel von der Webseite verschlüsselt waren.
 
-[Mailbox.org](https://mailbox.org) scheint da durcheinander zu kommen. Der Mailbox-Guard konnte keine dieser E-Mails entschlüsseln und zeigte nur einen Fehler an. Am MacBook habe ich dann versucht, den verschlüsselten Text per Hand zu entschlüsseln. Anhang im Editor geöffnet und über die Services die Entschlüsselung versucht. Klappte leider auch nicht, da GnuPG keinen passenden Schlüssel gefunden hat. Der private Schlüssel von Mailbox.org und von der Webseite sind aber vorhanden. 
+[Mailbox.org](https://mailbox.org) scheint da durcheinander zu kommen. Der Mailbox-Guard konnte keine dieser E-Mails entschlüsseln und zeigte nur einen Fehler an. Am MacBook habe ich dann versucht, den verschlüsselten Text per Hand zu entschlüsseln. Anhang im Editor geöffnet und über die Services die Entschlüsselung versucht. Klappte leider auch nicht, da GnuPG keinen passenden Schlüssel gefunden hat. Der private Schlüssel von Mailbox.org und von der Webseite sind aber vorhanden.
 
 Seit der Integration der Enigmail-Funktionen in Thunderbird, werden die Schlüssel intern in Thunderbird gespeichert und ich hätte noch einen weiteren Schlüsselbund. Das kommt für also auch nicht infrage.
 
@@ -104,4 +103,4 @@ Was ist dir so die Woche passiert? Hast du das Update auf 14.5 schon gemacht? Od
 
 Noch nicht genug? Dann schau doch mal bei [Monstropolis](https://monstropolis.wordpress.com/), [dn15](https://dn15.de/) oder [HappyBuddha](https://happybuddha1975.de/) vorbei. Viel Spaß!
 
-Das hier ist Beitrag 82 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 83 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
