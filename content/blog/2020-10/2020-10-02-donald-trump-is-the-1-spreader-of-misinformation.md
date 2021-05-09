@@ -1,5 +1,6 @@
 +++
 title = "Donald Trump is the #1 Spreader of Misinformation"
+slug= "donald-trump-is-the-1-spreader-of-misinformation"
 publishDate = "2020-10-02T11:49:00.000Z"
 tags = ["Linkpost", "Video"]
 +++

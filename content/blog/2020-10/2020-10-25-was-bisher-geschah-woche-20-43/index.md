@@ -93,4 +93,4 @@ Wenn du das hier lesen solltest und die langen Beiträge lieber per E-Mail nach 
 
 ---
 
-Das hier ist Beitrag 36 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 36 der [#100DaysToOffload](/tag/100daystooffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

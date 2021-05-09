@@ -15,4 +15,4 @@ Um den neuen Akku zu kalibrieren, soll man den Akku einmal komplett aufladen und
 
 ---
 
-Das hier ist Beitrag 34 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
+Das hier ist Beitrag 35 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.
