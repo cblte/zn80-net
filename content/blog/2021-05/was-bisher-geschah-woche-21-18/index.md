@@ -6,7 +6,7 @@ tags:
 - "100DaysToOffload"
 - "Was Bisher Geschah"
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
-draft: false
+draft: true
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher geschah" >}}
