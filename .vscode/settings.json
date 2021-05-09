@@ -1,12 +1,14 @@
 {
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
     "[markdown]": {
-        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrap": "bounded",
         "editor.wordWrapColumn": 80,
-        "editor.wordBasedSuggestions": false
+        "editor.wordBasedSuggestions": false,
     },
     "cSpell.words": [
         "errorlist",
         "helptext"
-    ]
+    ],
+    "editor.wrappingIndent": "indent",
+    "editor.rulers": [80,120]
 }
