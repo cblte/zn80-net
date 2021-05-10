@@ -1,5 +1,5 @@
 baseURL = "https://zn80.net"
-theme = 'hugo-bearblog'
+theme = 'zn80'
 
 # Basic metadata configuration for your blog.
 title = "ZN80.NET"
