@@ -20,6 +20,12 @@ ignoreErrors = ["error-disable-taxonomy"]
   blog = "/:year/:month/:slug/"
   tags = "/tag/:slug"
 
+[markup]
+  [markup.highlight]
+    style = "borland"
+    tabWidth = 4
+    lineNos = true
+    
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
   description = "Carstens Blog. Gedanken eines Nerds und Informatikers"
