@@ -12,7 +12,7 @@ Data Dateien werden im `data` Verzeichnis abglegt und werden in den Templates ü
 Im Verzeichnis `data` legst du dateien im format `json`,`toml` oder `yaml` ab.  Das Format und der Inhalt ist dir überlassen. Als Beispiel habe ich hier eine Bookmark-Liste. Diese Datei könnte sich hier befinden: `data/bookmarks/windows.yaml`.
  
 
-``` yaml
+```yaml
 name: Windows Bookmarks
 links:
 - title: Windows 10 Ameliorated
@@ -28,7 +28,7 @@ Du könnenkannst mehrere Dateien im Verzeichnis `data` ablegen. Um den Inhalt al
 
 Inhalt der Datei `layout/shortcodes/bookmarks.html`:
 
-``` html 
+```html 
 {{ $file := index .Site.Data.bookmarks }}
 {{ range sort $file "name" "asc" }}
   <h2>{{ .name }}</h2>
@@ -44,7 +44,7 @@ Inhalt der Datei `layout/shortcodes/bookmarks.html`:
 {{ end }}
 ```
 
-Der Shortcode hierfür ist einfach nur `{{< bookmarks >}}`
+Der Shortcode hierfür ist einfach nur `bookmarks `
 
 ## Nur eine Datei einbinden
 
@@ -52,7 +52,7 @@ Willst du nur eine bestimmte Datei per Shortcode einbinden, geht das so:
 
 Inhalt der Datein `layouts/shortcode/bookmark.html`:
 
-``` html
+```html
 {{ $file := index .Site.Data.bookmarks ( .Get 0 ) }}
 {{ with $file }}
   <ul>
@@ -67,5 +67,5 @@ Inhalt der Datein `layouts/shortcode/bookmark.html`:
 {{ end }}
 ```
 
-Der Shortcode für dieses Beispiel ist `{{< bookmark windows >}}`
+Der Shortcode für dieses Beispiel ist `bookmark windows`
 
