@@ -1,5 +1,6 @@
 ---
 title: How to use Hugo data files
+date: 2021-05-12
 category: hugo
 ---
 
