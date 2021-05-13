@@ -6,6 +6,7 @@ tags:
 - "100DaysToOffload"
 - "Was Bisher Geschah"
 draft: false
+100dto: 87
 ---
 
 {{< figure src="images/alexander-schimmeck-bsZgFVWFPh0-unsplash.jpg" alt="Was bisher geschah" >}}
@@ -53,10 +54,5 @@ Nächste Woche habe ich ein paar Tage frei und so wie das Wetter aussieht, haben
 Und dann? Dann endlich wieder grillen und ein kaltes Bier im Garten unter freiem Himmel trinken! Vorausgesetzt es regnet oder stürmt mal gerade nicht.
 
 Einen schönen Start in die Woche!
-<!--more-->
-
----
 
 Noch nicht genug? Dann schau doch mal bei [Monstropolis](https://monstropolis.wordpress.com/), [dn15](https://dn15.de/) oder [HappyBuddha](https://happybuddha1975.de/) vorbei. Viel Spaß!
-
-Das hier ist Beitrag 86 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

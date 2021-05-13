@@ -2,6 +2,7 @@
 title = "Grillgemüse und kalte Socken"
 publishDate = "2020-08-11T20:00:00.000Z"
 tags = ["100DaysToOffload", "Gedanken"]
+100dto = 6
 +++
 
 
@@ -20,7 +21,3 @@ Heute Morgen habe ich dann den Rest aus dem Kühlschrank geholt und mit dem Emsa
 Auf der Arbeit angekommen habe ich mich dann umgezogen und habe freudig festgestellt, dass die Socken neben der Lock&Lock-Dose gelegen haben und dadurch schön kalt waren. Du kannst dir gar nicht vorstellen wie angenehmen kalte Socken sind, wenn man gerade bei 25 Grad die 12 km zur Arbeit geradelt ist.
 
 Ich finde ja, es sollte in jedem Büro so einen Socken-Kühlschrank geben. Natürlich nur mit frischen, gewaschenen Socken. Das wäre doch mal was.
-
----
-
-Das hier ist Beitrag 6 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

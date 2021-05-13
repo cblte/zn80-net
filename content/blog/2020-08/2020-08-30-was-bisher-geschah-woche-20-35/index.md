@@ -2,6 +2,7 @@
 title: "Was bisher geschah – Woche 20-35"
 publishDate: "2020-08-30T09:49:00.000Z"
 tags: ["100DaysToOffload", "Was bisher geschah"]
+100dto: 13
 ---
 
 {{< figure src="was-bisher-geschah.jpg" alt="Was bisher geschah">}}
@@ -43,7 +44,3 @@ Mit [Carbon](https://carbon.now.sh/) habe ich diese Woche einen tollen Service g
 > Gemini is a new, collaboratively designed internet protocol, which explores the space inbetween gopher and the web, striving to address (perceived) limitations of one while avoiding the (undeniable) pitfalls of the other.
 
 Gopher ist mir zu alt, aber Gemini klingt vielversprechend und ist einen Blick wert. Auf Youtube gibt es mit [What is Gopher?](https://www.youtube.com/watch?v=QGCSYyH2r6k) und [What is Gemini?](https://www.youtube.com/watch?v=DoEI6VzybDk) von [James Tomasino](https://www.youtube.com/channel/UCbTp1BYjpuhDRG5OmgIT8iw) zwei tolle Videos die einem einen kleinen, tieferen Einblick in die alternative zu HTTP und Co geben.
-
----
-
-Das hier ist Beitrag 13 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

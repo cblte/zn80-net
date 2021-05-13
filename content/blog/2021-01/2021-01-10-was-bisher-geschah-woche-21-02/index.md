@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 21-02
+100dto: 62
 ---
 
 Guten Morgen aus dem nasskalten Den Haag. Im Moment regnet es zwar nicht, aber so wirklich will man sich auch nicht vor die Tür wagen. Es ist nass, kalt und total ungemütlich. Also draußen. Hier drinnen ist schön warm und gemütlich. Sitze auf der Couch und genieße mit einem guten Kaffee meinen letzten Urlaubstag bevor es ab Morgen wieder ins Büro geht. 
@@ -82,7 +83,3 @@ Fast jede Woche habe ich 2020 einen Newsletter mit den aktuellen Video- und Podc
 Link >> [Die besten Video- und Podcastpiqs 2020](https://www.piqd.de/piqd/die-besten-video-und-podcastpiqs-2020)
 
 Einen schönen Sonntag wünsche ich euch.
-
----
-
-Das hier ist Beitrag 62 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

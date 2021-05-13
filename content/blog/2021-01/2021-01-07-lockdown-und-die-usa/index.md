@@ -5,6 +5,7 @@ slug: lockdown-und-die-usa
 tags:
 - 100DaysToOffload
 title: Lockdown und die USA
+100dto: 61
 ---
 
 {{< figure src="pexels-miguel-montejano-1152831" alt="We are closed" caption="Foto von [Miguel Montejano](https://www.pexels.com/de-de/foto/entschuldigung-wir-sind-geschlossen-1152831/)" >}}
@@ -35,7 +36,3 @@ Wie einige vielleicht auf Twitter gelesen haben, habe ich mich über die Böller
 Gestern Abend habe ich noch gedacht "Jetzt geht es richtig rund. Das wird vielleicht nicht unblutig enden. Fast jeder trägt doch eine Waffe! Hoffentlich geht das gut." Heute Morgen auf den Seiten der Tagesschau und von der DW dann ein wenig Erleichterung. [Leider sind dennoch vier Menschen ums Leben gekommen.](https://www.tagesschau.de/ausland/kapitol-gestuermt-119.html) Aber Joe Biden ist bestätigt und Trump hat gesagt, er sichere einen geordneten Machtwechsel zu. Ob das stimmt, wird sich zeigen. Oft genug gelogen hat er ja. Nach den Bildern von gestern, ist das jedoch sehr zu begrüßen. 
 
 In diesem Sinne. Trotz der schlechen Nachrichten, einen schönen Tag noch.
-
----
-
-Das hier ist Beitrag 61 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

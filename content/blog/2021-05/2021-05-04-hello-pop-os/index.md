@@ -6,6 +6,7 @@ tags:
 - Linux
 - POP!_OS
 - 100DaysToOffload
+100dto: 85
 ---
 
 {{< figure src="images/hallo_pop_os.png" alt="Hallo, Pop!_OS" caption="Hallo, Pop!_OS">}}
@@ -99,7 +100,3 @@ Bisher muss ich sagen, bin ich super zufrieden. Das System ist schnell, die Fest
 Als nächstes muss ich noch meinen Passwortmanager installieren und meine E-Mail-Konten einrichten. Ob ich Thunderbird nochmal eine Change gebe? Ich weiß nicht. Geary scheint als E-Mail-Programm eigentlich völlig ausreichend zu sein. Falls doch mal etwas verschlüsseltes eintreffen sollte, kann ich das immer noch in der Konsole oder im Texteditor entschlüsseln.
 
 Ich bin zufrieden! Und du, verwendest du schon Linux oder willst es mal versuchen?
-
-<!--more-->
-
-Das hier ist Beitrag 84 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

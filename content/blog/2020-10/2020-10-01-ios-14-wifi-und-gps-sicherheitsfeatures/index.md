@@ -2,6 +2,7 @@
 title = "iOS 14 WiFi und GPS Sicherheitsfeatures"
 publishDate = "2020-10-01T11:47:00.000Z"
 tags = ["100DaysToOffload", "Datenschutz", "Privacy"]
+100dto = 25
 +++
 
 Nein, ich will heute nicht über die ganzen [Homescreens](https://twitter.com/search?q=%23ios14homescreen) reden, sondern über die Features, die Apple in iOS 14 eingebaut, die aber wohl den wenigsten aufgefallen sind.
@@ -22,7 +23,3 @@ Das zweite coole neue Feature lässt dich genau festlegen, welche App sich in de
 Der Zugriff auf Geräte in deinem lokalen Netzwerk beschreibt die Fähigkeit von Apps, sich in deinem Netzwerk umzuschauen und zu sehen, welche weiteren Geräte sich noch so in dem Netzwerk befinden, in dem du gerade angemeldet bist. Ein Beispiel wäre zum Beispiel ein Sonos Soundsystem oder der Zugriff auf ein NAS. Aber alle anderen Apps brauchen das eigentlich nicht.
 
 Also erst einmal den Zugriff verweigern. Einschalten kann man es dann immer noch.
-
----
-
-Das hier ist Beitrag 25 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

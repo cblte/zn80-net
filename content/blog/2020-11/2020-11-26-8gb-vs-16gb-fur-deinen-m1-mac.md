@@ -6,6 +6,7 @@ tags:
 - MacBookAIr
 - Apple
 title: 8GB vs. 16GB für deinen M1 Mac
+100dto: 49
 ---
 
 Die Reviews sind da. Die Jungs von [Max Tech](https://www.youtube.com/channel/UCptwuAv0XQHo1OQUSaO6NHw) waren die ersten mit ihrem Review und viele weiter ziehen jetzt so langsam hinterher. 
@@ -46,7 +47,3 @@ Wie oben schon erwähnt, sind die SSDs heutzutage nicht mehr mit denen von vor 7
 Aber mehr RAM ist halt einfach mehr RAM und wenn wirklich viele Tabs geöffnet sind, und ich habe wirklich sehr viele Tabs offen, dann macht sich das schon bemerkbar.
 
 Aber wenn wir mal ehrlich sind, so viele Arbeitsspeicher hungrigen Apps habe ich nicht mal. Daher dürfte das 8GB Modell wohl doch ausreichen? Ich denke nicht. Ich habe immer noch den Anwendungsfall, dass ich ein oder zwei virtuelle Maschinen brauche, die sich schon so 3-4 GB RAM genehmigen.
-
----
-
-Das hier ist Beitrag 49 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com  um mehr Informationen über die Challenge zu erfahren.

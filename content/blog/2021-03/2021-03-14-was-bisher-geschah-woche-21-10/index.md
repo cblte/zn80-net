@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah - Woche 21-10
+100dto: 75
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}
@@ -75,7 +76,3 @@ Und noch mehr zu lesen gibt es beim [fröhlichen Buddha Jürgen](https://happybu
 Das war es auch schon. Nicht viel wie man sieht. Eigentlich wollte ich noch den Garten sauber gemacht habe, aber Sturm, Regen und eine kurze Kältefront haben das verhindert. Warten wir noch ein paar Tage bis die Temperaturen über 15 Grad steigen. Dann kann ich auch endlich mal wieder mein Auto waschen. Hat es das doch dringen nötig.
 
 Einen schönen Sonntag noch.
-
----
-
-Das hier ist Beitrag 74 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

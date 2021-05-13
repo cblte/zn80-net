@@ -9,6 +9,7 @@ tags:
 - Impfungen
 - Weihnachten
 - Chaos Computer Club
+100dto: 58
 ---
 
 Weihnachten ist vorbei und Silvester steht vor der Tür. Geknallt wird immer mehr und gestern, trotz Sturm und Regen, so laut wie nie. Es scheint, dass alles was an Silvester nicht mehr erlaubt ist, wird nun im Vorfeld verheizt.
@@ -76,7 +77,3 @@ Kompakt und verständlich. Das trifft auf diesen Podcast wirklich zu. Nicht so s
 ## Ende?
 
 Noch nicht ganz. Das Jahr hat noch ein paar Tage und mein Jahresrückblick fehlt ja auch noch. Wie oben schon geschrieben, ist er in der Mache, aber noch nicht ganz fertig. Daher verabschiede ich mich für heute und wünsche euch noch einen schönen Rest vom Sonntag. Wir lesen uns in ein paar Tagen wieder. Machts gut und auf Wiedersehen.
-
----
-
-Das hier ist Beitrag 58 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

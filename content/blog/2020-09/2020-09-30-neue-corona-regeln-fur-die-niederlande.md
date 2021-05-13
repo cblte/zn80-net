@@ -2,6 +2,7 @@
 title = "Neue Corona-Regeln für die Niederlande"
 publishDate = "2020-09-30T11:38:00.000Z"
 tags = ["100DaysToOffload", "Niederlande"]
+100dto = 24
 +++
 
 Die Niederlande sind weiterhin (wahrscheinlich) das einzige Land in Europa wo es keine wirklich strengen Regeln zur Eindämmung des Corona-Virus gibt. Abgesehen von der Pflicht, einen Mund-Nasen-Schutz in öffentlichen Verkehrsmitteln zu tragen, gab es bisher keine sonderlichen Einschränken. Ok, Abstand halten und so, aber das haben nur wenige wirklich versucht und die meisten haben es quasi einfach ignoriert. Gestern dann diese Meldung:
@@ -20,6 +21,3 @@ Ansonsten bleiben wir aus Sicht von NRW und des RKI Risikogebiet und dürfen vor
 
 Ich wünsche mir nur, dass es nicht so wird wie in Hamm, wo eine ganze Stadt unter der Dummheit, der Ignoranz und dem Egoismus weniger leiden muss.
 
----
-
-Das hier ist Beitrag 24 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

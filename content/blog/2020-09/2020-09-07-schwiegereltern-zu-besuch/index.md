@@ -5,6 +5,7 @@ tags:
   - "100DaysToOffload"
   - "Gedanken"
   - "Besuch"
+100dto: 17
 ---
 
 Guten Morgen liebe Welt da draußen! Die Schwiegereltern waren zu Besuch und wir haben viel erlebt.
@@ -20,7 +21,3 @@ Nach einen super leckeren Hühnchen-Curry gestern Abend, haben wir einen kleinen
 Jetzt gibt es erstmal ein anständiges Frühstück mit Rührei, Lachs und leckeren Brötchen. Anschließend werden wir uns auf die Drahtesel schwingen und die Landschaft in Richtung Kijkduin und Meer erkunden.
 
 Und damit einen schönen Montag und einen guten Start in die Woche!
-
----
-
-Das hier ist Beitrag 17 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

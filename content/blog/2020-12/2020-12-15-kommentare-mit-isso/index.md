@@ -7,6 +7,7 @@ tags:
 - 100DaysToOffload
 - Kommentare
 title: Kommentare mit Isso
+100dto: 54
 ---
 
 Moin moin und Hallo. 
@@ -19,8 +20,4 @@ Also, ich freue mich auf rege Diskussionen und Kommentare. Vielen Dank.
 
 Update: 2021-05-01: Kommentare abgeschaltet.
 
----
-
-Das hier ist Beitrag 54 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
-
-Bild von [Gerd Altmann](https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4746811) - [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4746811)
+_Bild von [Gerd Altmann](https://pixabay.com/users/geralt-9301/)_

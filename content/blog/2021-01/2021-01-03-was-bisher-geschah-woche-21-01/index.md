@@ -9,6 +9,7 @@ tags:
 - 100DaysToOffload
 - Was Bisher Geschah
 title: Was bisher geschah – Woche 21-01
+100dto: 60
 ---
 
 Ich wünsche euch allen ein frohes neues Jahr! Hoffentlich seit ihr entspannt und gesund ins Jahr gestartet. Hier gab es leider sehr wenig Schlaf und es war so gar nicht entspannt. Von Mittags an gab es Böller und in weiter bis naher Entfernung wurde die niederländische Tradition "Carbid-Schießen" gepflegt. Meiner Meinung nach eine völlig sinnlose Knallerei die so viel Lärm verursacht, dass man die Vibration unter den Füßen spürt und sich selbst die Fische in der hintersten Ecke vom Aquarium verstecken. Der Kauf der Airpods Pro hat sich, zumindest aus Sicht meiner Frau, unheimlich gelohnt. Die haben mit ANC schon sehr dazu beigetragen, dass es sich halbwegs aushalten ließ. 
@@ -86,6 +87,3 @@ Der Shit-Der-Woche: Die neue *"Terms of Use von Instagram"*, erschreckend humorv
 
 Das war es dann auch schon für diese Woche. Es gibt bestimmt noch mehr, aber das muss für heute reichen. Habe ich etwas vergessen? Dann hinterlasse doch einen Kommentar oder schreibe mir eine Nachricht. Du kannst aber auch diese längeren Beiträge per [E-Mail abonnieren](https://tinyletter.com/zn80net). 
 
----
-
-Das hier ist Beitrag 60 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

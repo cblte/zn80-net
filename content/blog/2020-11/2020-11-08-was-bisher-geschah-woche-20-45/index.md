@@ -7,6 +7,7 @@ tags:
 - Monstropolis
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-45
+100dto: 41
 ---
 
 Einen schönen Sonntag wünsche ich dir. Hier ist mein Wochenrückblick der 45 KW und der 40. [#100DaysToOffload](/tag/100DaysToOffload) Beitrag. Noch 10 Beiträge und die Hälfte ist geschafft. Gar nicht mal so schlecht wie ich finde.
@@ -126,7 +127,5 @@ Beide Blogs laden zum Lesen ein. Viel Spaß und schöne Grüße an dieser Stelle
 In diesem Sinne, einen schönen Sonntag noch! Genießt das schöne Wetter und tragt Maske und haltet Abstand.
 
 ---
-
-Das hier ist Beitrag 40 der #100DaysToOffload Herausforderung. Besuche  [https://100daystooffload.com](https://100daystooffload.com/)  um mehr Informationen über die Challenge zu erfahren.
 
 p.s.: ich arbeite an einer besseren Gestaltung dieses Blogs. Da mir doch einige Leser ans Herz gelegt haben, wieder mehr Bilder zu verwenden. Daher haltet noch ein wenig durch, ich habe da was in Arbeit. Dauert aber noch ein wenig :)

@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-49
+100dto: 52
 ---
 
 Das Jahr neigt sich so langsam dem Ende zu und bei mir stellt sich ein Gefühl von Urlaub ein. Heute ist auch schon der zweite Advent. Eine weihnachtliche Vorfreude oder Stimmung will sich bis jetzt jedoch, noch gar nicht so richtig einstellen. Egal welche Nachrichtenseite man öffnet, es wird nur von Corona und Einschränkungen und neuen Zahlen berichtet. 
@@ -63,7 +64,3 @@ Kleines Update hinterher: Du hast Langeweile? Du hast ein eigenes Auto? Du wohns
 ---
 
 Und damit entlasse ich euch nun in den zweiten Advent. Es gaebe bestimmt noch viel, viel mehr, aber dass soll es für heute gewesen sein. Wenn du allerdings noch mehr Beschäftigung und Beschallung brauchst, dann schau doch bei [Monstropolis](https://monstropolis.wordpress.com/) oder beim [fröhlichen Buddha](https://happybuddha1975.de/) vorbei.
-
----
-
-Das hier ist Beitrag 52 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

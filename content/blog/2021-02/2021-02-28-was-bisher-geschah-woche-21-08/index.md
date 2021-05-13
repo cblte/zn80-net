@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah - Woche 21-08
+100dto: 74
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}
@@ -75,7 +76,3 @@ Da kommen Erinnerungen hoch sag ich dir. An durchgezockte Nächte mit Freunden a
 ---
 
 Damit einen guten Start in die Woche und einen schönen Sonntag noch. Genießt das schöne Wetter.
-
----
-
-Das hier ist Beitrag 73 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

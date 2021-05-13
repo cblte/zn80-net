@@ -5,6 +5,7 @@ tags:
 - 100DaysToOffload
 - Newsletter
 title: Was bisher geschah – Woche 20-48
+100dto: 51
 ---
 
 Diese Woche habe ich im Büro verbracht. "Wurde auch mal wieder Zeit", hat meine Frau gesagt. Meinen Chef hat es bestimmt auch gefreut. Ja, es war gut aus dem Homeoffice mal wieder herauszukommen. Auch wenn man sich von seinen Mitmenschen ja etwas fern halten soll, so sind soziale Kontakte wichtig und es tat gut, mal wieder seine Kollegen und Freund in Echt zu sehen.
@@ -74,7 +75,3 @@ Zum Abschluss habe ich noch einen kleinen Comic für euch.
 {{< tweet 1329750177473851393 >}}
 
 Gut das es mir nicht so ergangen ist. Euch vielleicht? Egal! Ich wünsche euch einen guten Start in die Woche. Gut das ich bald Urlaub habe.
-
----
-
-Das hier ist Beitrag 51 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

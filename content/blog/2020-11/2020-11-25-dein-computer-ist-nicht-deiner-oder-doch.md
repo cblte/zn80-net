@@ -5,6 +5,7 @@ slug: dein-computer-ist-nicht-deiner-oder-doch
 tags:
 - 100DaysToOffload
 title: Dein Computer ist nicht deiner, oder doch?
+100dto: 47 
 ---
 
 In meiner Timeline und in meinem News-Reader bin ich in den letzten Tagen immer mal wieder über den Artikel [Your Computer Isn't Yours von Jeffrey Paul](https://sneak.berlin/20201112/your-computer-isnt-yours/) gestoßen.
@@ -70,7 +71,3 @@ Mit Sicherheit nicht. [Apple hat jetzt aber wohl genut Shit-Storm abbekommen](ht
 > *Früher waren es Apple Computer, aber jetzt ist es der Computer von Apple.*
 
 Ich wünsche mir nur, dass der Mac ein Mac bleibt und nicht zu einem ultra-geschlossenes System wie iOS oder iPad OS mutiert. 
-
----
-
-Das hier ist Beitrag 47 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

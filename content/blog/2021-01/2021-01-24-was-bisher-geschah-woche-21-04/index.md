@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 21-04
+100dto: 65
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher geschah" >}}
@@ -98,7 +99,3 @@ In Urk ist es zu Ausschreitungen gekommen und die *Riot Police *musste gerufen w
 ## Skating on Black Ice
 
 Und mit diesem Video entlasse ich euch in den Sonntag. Krasser Sound sag ich nur. 
-
----
-
-Das hier ist Beitrag 65 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

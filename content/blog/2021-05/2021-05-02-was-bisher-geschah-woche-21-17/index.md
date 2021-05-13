@@ -10,6 +10,7 @@ tags:
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
 draft: false
+100dto: 84
 ---
 
 {{< figure src="images/maypole-1329290_640.jpg" caption="Bild von [ASSY](https://pixabay.com/de/photos/maibaum-geschm%C3%BCckte-birke-tradition-1329290/) auf Pixabay" alt="Bild von ASSY auf Pixabay" >}}
@@ -97,10 +98,6 @@ Aufgeschoben ist nicht aufgehoben und so werden wir das Übernächste in Angriff
 
 Was ist dir so die Woche passiert? Hast du das Update auf 14.5 schon gemacht? Oder auch schon die AirTags bestellt oder vielleicht ein neues iPhone oder den schicken iMac? Lass uns drüber reden. Schreib mir doch eine E-Mail. Gerne auch verschlüsselt, aber bitte an die richtige Adresse 🙏.
 
-<!--more-->
-
 ---
 
 Noch nicht genug? Dann schau doch mal bei [Monstropolis](https://monstropolis.wordpress.com/), [dn15](https://dn15.de/) oder [HappyBuddha](https://happybuddha1975.de/) vorbei. Viel Spaß!
-
-Das hier ist Beitrag 83 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

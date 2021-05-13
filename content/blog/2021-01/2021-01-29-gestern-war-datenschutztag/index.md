@@ -5,6 +5,7 @@ slug: gestern-war-datenschutztag
 tags:
 - 100DaysToOffload
 title: Gestern war Datenschutztag
+100dto: 67
 ---
 
 {{< figure src="silas-kohler-C1P4wHhQbjM-unsplash.jpg" alt="Photo by Silas Köhler" caption="Photo by [Silas Köhler](https://unsplash.com/@silas_crioco)" >}}
@@ -26,7 +27,3 @@ Wie die Kommunikationsanbieter ProtonMail, Threema, Tresorit und Tutanota in ihr
 Link >> [Verschlüsselung - Sichere Kommunikationsanbieter warnen vor Hintertüren](https://netzpolitik.org/2021/verschluesselung-sichere-kommunikationsanbieter-warnen-vor-hintertueren/)
 
 Ich glaube, der Absatz hier beschreibt das Problem gut. Falles es Hintertüren geben wird, ist keine der modifizierten Verschlüsselungen mehr sicher. Ich frage mich ja auch, wie denn die EU-Länder in Zukunft dann kommunizieren wollen? Verwenden die dann anderen Messenger oder Telekommunikationsdienste?
-
----
-
-Das hier ist Beitrag 67 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

@@ -2,6 +2,7 @@
 title = "Hello Fresh – Burger, pikantes Hühnchen und Wok-Nudeln mit Ei"
 publishDate = "2020-10-08T12:15:00.000Z"
 tags = ["100DaysToOffload", "Hello Fresh"]
+100dto = 28
 +++
 
 Wie versprochen, oder auch nicht, hier die Bilder der drei letzten Essen von [Hello Fresh](https://www.hellofresh.nl/). Es gab Burger, asiatische Hühnchen und etwas schnelles aus dem Wok.
@@ -41,7 +42,3 @@ Diese Woche hatten die 4 Gerichte mit je 2 Portionen. Ohne Extras oder Sonderwü
 Ich finde, das ist alles in allem ein guter Preis. Dazu kommt die in meinen Augen umweltfreundliche Verpackung. Nur vereinzelt sind einige Zutaten in Folie/Kunststoff verpackt. Ob das jetzt auch etwas für dich ist, musst du selber entscheiden.
 
 Guten Appetit ;–)
-
----
-
-Das hier ist Beitrag 28 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

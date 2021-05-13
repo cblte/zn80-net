@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 21-15"
 publishDate = "2021-04-18"
 tags = ["100DaysToOffload", "Was bisher geschah"]
+100dto = 77
 +++
 
 Ein paar Wochen sind vergangen, seit dem ich den letzten Beitrag geschrieben habe. Auf der einen Seite war ich einfach zu faul, auf der anderen Seite war ich einfach Internet müde.
@@ -120,7 +121,3 @@ Von [padeluun](https://twitter.com/padeluun/status/1383554877322719236) empfohle
 Es gäbe zwar noch einiges mehr zu berichten, aber dass muss für heute reichen. Ich hoffe auch mal, dass ich es schaffe wieder etwas regelmäßiger zu schreiben.
 
 So wirklich warm wird es ja immer noch nicht Ein kurzer Ausreißer am Dienstag, aber das war es dann auch schon. Damit nun einen guten Start in die Woche. Haltet die Ohren steif!
-
----
-
-Das hier ist Beitrag 76 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

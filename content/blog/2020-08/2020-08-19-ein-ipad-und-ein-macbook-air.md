@@ -2,6 +2,7 @@
 title = "Ein iPad und ein MacBook Air"
 publishDate = "2020-08-19T04:00:00.000Z"
 tags = ["100DaysToOffload", "MacBookAIr", "Apple"]
+100dto = 10
 +++
 
 Endlich. Nachdem sich meine Frau ihr neues [iPad](https://www.apple.com/de/ipad-pro/) gegönnt hat, darf ich endlich mein MacBook Air zurückhaben. Was für eine Erleichterung nicht mehr soviel mit Windows arbeiten zu müssen. Eine anständige Tastatur und ein super Touchpad.
@@ -12,4 +13,4 @@ Und auch wenn das [MacBook Air6,2](https://everymac.com/systems/apple/macbook-ai
 
 ---
 
-Das hier ist Beitrag 10 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren. Photo by [Daniel Romero](https://unsplash.com/@rmrdnl?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/macbook-air?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+Photo by [Daniel Romero](https://unsplash.com/@rmrdnl) on [Unsplash](https://unsplash.com/s/photos/macbook-air)

@@ -3,6 +3,7 @@ publishDate: "2020-11-02T20:19:00.000Z"
 tags:
 - 100DaysToOffload
 title: NaBloPoMo National Blog Posting Month
+100dto: 38
 ---
 
 Der [NaBloPoMo](https://www.startupinstitute.com/blog/its-national-blog-posting-month) ist der *National Blog Posting Month*. Kannte ich bisher auch nicht, aber finde ich gut. Allerdings nehme ich ja schon an der [#100DaysToOffload](https://zn80.net/tag/100DaysToOffload) Challenge teil und ich bin mir gerade nicht so sicher, ob sich das nicht ein wenig überschneidet.
@@ -16,7 +17,3 @@ Nichtsdestotrotz finde ich die Idee schon super und will versuchen, auch wenn ic
 Eines noch: bevor das in SPAM im [E-Mail-Verteiler](https://tinyletter.com/zn80net) ausartet (den kann übrigens jeder abonnieren), werde ich diese Links nicht jeden Tag per E-Mail verschicken. Die Links zu den Beiträgen kommen erst am Wochenende mit der E-Mail vom *Was bisher geschah* Beitrag. Ja, ich glaube, das könnte so funktionieren.
 
 Was du davon hältst, würde mich wirklich interessieren. [Schreib mir das doch einfach mal](/contact). Ich würde mich sehr darüber freuen.
-
----
-
-Das hier ist Beitrag 38 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

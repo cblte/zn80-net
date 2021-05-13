@@ -8,6 +8,7 @@ tags:
 - VeraCrypt
 - Digitalcourage
 title: Passwörter und Dateiverschlüsselung
+100dto: 48
 ---
 
 Heute Abend hat der erste von insgesamt [4 Vorträgen rund um das Thema Online-Crypto](https://digitalcourage.de/blog/2020/online-crypto-seminar-25-november-3-dezember-2020) stattgefunden. Organisiert werden die 4 Vorträge von der [Digitalcourage](https://digitalcourage.de/hochschulgruppe-bielefeld)-Hochschulgruppe Bielefeld. 
@@ -70,7 +71,3 @@ Was ich noch erwähnenswert finde ist, dass in KeePassXC und auch in Bitwarden, 
 ## Spurenarmes und anonymes Surfen
 
 Das ist der Vortrag, der morgen stattfinden wird und an dem ich auch auf jeden fall teilnehmen will. Vielleicht sehen wir uns ja morgen im Chat. Bis dahin, einen schönen und angenehmen Abend / Tag noch. 
-
----
-
-Das hier ist Beitrag 48 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com  um mehr Informationen über die Challenge zu erfahren.

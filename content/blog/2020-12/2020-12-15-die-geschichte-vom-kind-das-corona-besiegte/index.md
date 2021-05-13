@@ -6,6 +6,7 @@ tags:
 - 100DaysToOffload
 - Corona
 title: Die Geschichte vom Kind, das Corona besiegte
+100dto: 55
 ---
 
 Eine tolle Kurzgeschichte die uns Mut machen sollte. Uns daran erinnert, dass es manchmal die einfachen Dinge im Leben sind, die funktionieren und das Richtige bewirken. 
@@ -13,7 +14,3 @@ Eine tolle Kurzgeschichte die uns Mut machen sollte. Uns daran erinnert, dass es
 > Ein Mutmachmärchen das aktueller nicht sein könnte. Übersetzt von P. Ignasi Peguera aus Wien (c) magdalena schauer. (Quelle: [Ordensgemeinschaften.at](https://www.ordensgemeinschaften.at/artikel/5441-geschichten-die-mut-machen-ein-virus-namens-corona))
 
 Auf der Webseite der [Ordensgemeinschaft ](https://www.ordensgemeinschaften.at/artikel/5441-geschichten-die-mut-machen-ein-virus-namens-corona)gibt es eine Version in hoher Auflösung zum Teilen und Ausdrucken. 
-
----
-
-Das hier ist Beitrag 55 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-41"
 publishDate = "2020-10-12T14:12:00.000Z"
 tags = ["Was Bisher Geschah", "100DaysToOffload"]
+100dto = 29
 +++
 
 Neben der [Hello Fresh](https://www.hellofresh.de/) Box, worüber ich ja schon geschrieben habe, ist eigentlich nicht wirklich viel passiert. Obwohl das ja jeder auch immer irgendwie ein wenig anders sieht, nicht war?
@@ -45,7 +46,3 @@ Ich habe diese Woche ein paar Videos über [Watch Dogs: Legion](https://www.ubis
 Eines der ausführlichsten Videos was ich gesehen habe,  ist das von [Quest Mode: Watch Dogs Legion GamePlay – The Ultimate Review](https://www.youtube.com/watch?v=k9MDMx4RChA). Für ein wenig Gameplay und ein paar Spoiler kann ich das [Video von BlackPantha Watch Dogs: Legion Early Gameplay](https://www.youtube.com/watch?v=gDHy8ExhRFM) empfehlen.
 
 Bevor ich jedoch mit *Watch Dogs: Legion* beginnen möchte, würde ich gerne Horizon beenden. Jedoch ist die Welt von Horizon so groß und spannend, dass ich befürchte, wenn ich mich nicht ran halte, dann schaffe ich nicht mal die Hauptstory von Horizon vor dem 29. Oktober, wenn *Watch Dogs: Legion*  erscheint.
-
----
-
-Das hier ist Beitrag 29 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

@@ -7,6 +7,7 @@ tags:
 - Linkpost
 - 100DaysToOffload
 draft: false
+100dto: 82
 ---
 
 Und alle ticken aus! :cry:
@@ -24,7 +25,3 @@ Wie aber auch erwartet, sind ein Teil der Niederländer ebenfalls voll aus dem H
 {{< tweet 1387019223696818176 >}}
 
 Was soll man dazu noch sagen? :disappointed: :cry:
-
-<!--more-->
-
-Das hier ist Beitrag 81 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

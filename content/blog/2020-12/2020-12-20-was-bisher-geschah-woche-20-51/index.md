@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-51
+100dto: 56
 ---
 
 {{< figure src="advent-candles-5798830_1280.jpg"  alt="Weihnachtskerzen" caption="[Bild von Myriams-Fotos auf Pixabay](https://pixabay.com/de/photos/advent-kerzen-kerzen-weihnachten-5798830/)" >}}
@@ -57,7 +58,3 @@ Dieses Jahr haben wir uns dazu entschlossen, auch die Weihnachtsbox von HelloFre
 Und damit sind wir am Ende. Viel ist diese Woche also nicht passiert. Die vielen Links spare ich mir für heute und reiche die vielleicht morgen oder so noch nach. Urlaub ist schließlich Urlaub. Lasst uns auf Weihnachten warten und darauf hoffen, das Silvester hoffentlich etwas ruhiger und mit weniger Knall als letztes Jahr über die Bühne geht. Leider wird es wohl viele Leute geben, die aus Protest böllern werden. Hoffen wir das Beste, dass es nicht so viele werden und es sich in der Nachbarschaft dann doch in Grenzen hält. 
 
 In diesem Sinne einen schönen vierten Advent und einen guten Start in die Woche. Bleibt gesund und tragt bitte einen Mund-Nasen-Schutz. Danke 
-
----
-
-Das hier ist Beitrag 56 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-40"
 publishDate = "2020-10-04T11:50:00.000Z"
 tags = ["100DaysToOffload", "Was Bisher Geschah", "TryHackMe", "Rassismus"]
+100dto = 26
 +++
 
 Einen wunderschönen Sonntagnachmittag. Heute etwas später als sonst, aber nicht vergessen. Neben Corona und Tryhackme, bin ich bestürzt über die Probleme mit Rassismus in der Polizei. Aber angeblich ist da ja keines.
@@ -57,7 +58,3 @@ Und zwar hat Samsung eigenmächtig auf bereits gekauften Fernseher im Nachhinein
 ---
 
 So, und nun wünsche ich Dir noch einen schönen Sonntag und einen guten Start in die Woche. Ich wünsche mir für die kommende Woche auf jeden Fall besser Wetter und etwas weniger Regen. Ich würde gerne mal wieder mit dem Rad zur Arbeit fahren.
-
----
-
-Das hier ist Beitrag 26 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

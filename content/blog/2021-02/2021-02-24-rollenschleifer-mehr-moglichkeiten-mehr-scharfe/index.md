@@ -5,6 +5,7 @@ tags:
 - Rollschleifer
 title: Rollschleifer. Mehr Möglichkeiten. Mehr Schärfe.
 slug: rollschleifer-mehr-moeglichkeiten-mehr-schaerfe
+100dto: 73
 ---
 
 {{< figure src="images/screenshot-horl-de.jpg" alt="HORL Webseite" >}}
@@ -25,6 +26,3 @@ Jetzt heißt es aber noch ein paar Tage abwarten bis der [HORL 2 Rollschleifer](
 
 [HORL | Rollschleifer | Die zweite Generation Schärfe](https://www.horl.com/de_de)
 
----
-
-Das hier ist Beitrag 72 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

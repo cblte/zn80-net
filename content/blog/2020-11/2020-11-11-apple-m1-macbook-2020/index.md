@@ -3,6 +3,7 @@ publishDate: "2020-11-11T14:17:05.000Z"
 tags:
 - 100DaysToOffload
 title: Apple M1 MacBook 2020
+100dto: 43
 ---
 
 Mit sehr viel Spannung und Aufregung habe auch ich die Keynote gestern Abend verfolgt. Ich habe mich wirklich zurückgehalten und dieses Jahr noch keinen Kauf getätigt. Also habe ich wie viele Andere auf die gestrige [Apple Keynote](https://www.apple.com/apple-events/november-2020/) gewartet und bin super überrascht worden.
@@ -57,7 +58,3 @@ Wenn ich auch zum Pro tendieren, habe ich jetzt fast 8 Jahre mit einem MacBook A
 ## Noch mehr Informationen
 
 Noch mehr Informationen findest du, falls du es nicht schon selber gefunden hast, auf den Webseiten von: [MacLife.de](https://www.maclife.de/newsticker/2020/46), [TheVerge](https://www.theverge.com/apple-event), [MacRumors](https://www.macrumors.com/2020/11/10/apple-november-event-recap/), [T3N](https://t3n.de/news/m1-macbooks-mehr-highlights-apple-event-1336654/),[CNET](https://www.cnet.com/news/macbook-air-gets-apples-m1-chip-longest-battery-life-ever-fanless-body-starting-at-999/), [Heise.de](https://www.heise.de/news/MacBook-Air-mit-M1-Apple-krempelt-Tastatur-um-4954181.html), [Golem.de](https://video.golem.de/pc-hardware/25247/apple-stellt-das-macbook-air-m1-vor-herstellervideo.html) und vielen weiteren.
-
----
-
-Das hier ist Beitrag 43 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche  [https://100daystooffload.com](https://100daystooffload.com/)  um mehr Informationen über die Challenge zu erfahren.

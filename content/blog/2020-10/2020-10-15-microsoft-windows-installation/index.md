@@ -2,6 +2,7 @@
 title = "Microsoft Windows Installation"
 publishDate = "2020-10-15T06:00:00.000Z"
 tags = ["100DaysToOffload", "Software"]
+100dto = 32
 +++
 
 {{< figure src="windows-installation.jpg" alt="Windows 10 Installation" >}}
@@ -19,7 +20,3 @@ Ein Benutzerkonto sollte lokal sein, und dann, wenn ich denn will, noch zusätzl
 Und dann dieser Blödsinn mit dem Übermitteln von Diagnosedaten. Das kann man ja nicht mal abstellen! Gleich erstmal im Internet suchen, wo und wie man das abstellen kann. Frechheit!
 
 Schrecklich, dieses Microsoft Windows...
-
----
-
-Das hier ist Beitrag 32 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

@@ -4,6 +4,7 @@ publishDate: "2020-11-01T15:05:00.000Z"
 tags:
 - Was Bisher Geschah
 - 100DaysToOffload
+100dto: 37
 ---
 
 Die 44 KW ist fast vorbei und mit ihr eine Woche Büroarbeit. Diese war zum Teil recht anstrengend, da in den zwei Wochen zuvor relativ viel aufgelaufen war was es abzuarbeiten galt. Auch wenn es nur eine sitzende Tätigkeit vor dem Rechner ist, kann das arbeiten mit riesigen Excel-Tabellen schon ziemlich anstrengend sein. Vor allem dann, wenn es gefühlt 10 Versionen gibt und man höllisch aufpassen muss, welcher Datensatz nun der richtige und neuste ist und man nicht aus Versehen alte Daten verwendet.
@@ -71,7 +72,3 @@ Und weil ich jetzt so viel geschrieben habe und es heute auch wieder nur am Regn
 ---
 
 Wenn du das hier lesen solltest und die langen Beiträge lieber per E-Mail nach Hause bekommen möchtest, dann kannst du dich auch in den E-Mail-Verteiler  [https://tinyletter.com/zn80net](https://tinyletter.com/zn80net)  eintragen.
-
----
-
-Das hier ist Beitrag 37 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/)  um mehr Informationen über die Challenge zu erfahren.

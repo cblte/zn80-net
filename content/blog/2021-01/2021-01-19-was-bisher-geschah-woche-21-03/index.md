@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 21-03
+100dto: 63
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher geschah" >}}
@@ -108,7 +109,3 @@ Link >> [Retouren-Glück - Gekauft. Zurück!](https://www1.wdr.de/mediathek/audi
 Meine Frau hat ein Foto vom Schnee gemacht und es gleich mit der Bekanntschaft in Deutschland geteilt. Die Bekannten in Winterberg haben sich glaube ich ein wenig veräppelt gefühlt. Gegen die Schneelandschaft dort kommen wir hier mit unseren paar Flocken wahrlich nicht an. Wenn es jedoch mehr schneien würde, würde es vermutlich die Niederländer aber auch ein wenig überfordern. 
 
 Und so hatten wir ein paar Tage schönes Wetter, ein wenig Regen und tatsächlich auch ein wenig Schnee. Abgesehen davon, ist jetzt erstmal wieder länger ausschlafen angesagt. Der Weg ins Büro ist nämlich die nächsten Wochen sehr viel kürzer!
-
----
-
-Das hier ist Beitrag 63 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

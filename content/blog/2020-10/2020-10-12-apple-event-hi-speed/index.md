@@ -2,6 +2,7 @@
 title = "Apple Event: Hi, Speed."
 publishDate = "2020-10-12T20:00:00.000Z"
 tags = ["100DaysToOffload", "Apple", "Apple Event", "iPhone"]
+100dto = 30
 +++
 
 Das Apple Event ist vorbei und wir bekommen, wie schon vorausgesagt, ein neues iPhone mit [5G Technologie](https://de.wikipedia.org/wiki/5G), Keramik-Glas und einem neuen Design. Und was soll ich euch sagen? Mit dem Design und diesem Keramik-Schild haben sie mich ja fast gehabt. Dennoch wird es erstmal kein neues Telefon geben, haben wir doch erst im Dezember '19 unsere *iPhone 11* gekauft. Wohlgemerkt nachdem ich über 4 Jahre mit einem 7er unterwegs was.
@@ -29,7 +30,3 @@ Jetzt aber warte ich erstmal noch die Reviews vom Gerät ab, dass kann man ja au
 Das einzige, was mich interessiert ist: kommt der A14 auch in die neuen Apple Mac oder wird der erste Apple Computer mit Apple Silicon einen neuen, noch schnelleren und besseren Chip als den A14 erhalten? Vielleicht einen A14M oder einen A14S? Keine Ahnung.
 
 Irgendwann im November soll es noch ein Event geben. Warten wir also noch ein klein wenig.
-
----
-
-Das hier ist Beitrag 30 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

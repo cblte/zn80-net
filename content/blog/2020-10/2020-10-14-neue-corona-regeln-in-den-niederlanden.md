@@ -2,6 +2,7 @@
 title = "Neue Corona Regeln in den Niederlanden"
 publishDate = "2020-10-14T14:42:00.000Z"
 tags = ["100DaysToOffload", "Gedanken"]
+100dto = 31
 +++
 
 Goverment.nl schreibt:
@@ -21,7 +22,3 @@ Sport hingegen ist noch erlaubt, in keinen Gruppen bis 4 Personen, Gyms und Co b
 Reisen ist auch einzuschränken und wenn man unbedingt in Urlaub fahren will, oder noch kann, dann solle man möglichst nicht die Urlaubsresidenz verlassen. Falls doch, Menschenansammlungen vermeiden, was viele schlichtweg einfach ignorieren. Gestern beim Frisör haben wir beide eine Maske getragen. Völlig in Ordnung. Auf dem Weg dorthin jedoch habe ich mich wie Frogger gefühlt. Alles und jedem musste ausweichen. Schwierig. Und dann wird man auch noch ständig im Supermarkt angeschubst, weil die Leute meinen, sich mit dem Einkaufswagen Platz zu verschaffen. Da ist das mit dem Abstand halten gar nicht so einfach, wenn man selbst ausweichen will, aber um einen herum sich die meisten einen Dreck um den Abstand scheren.
 
 Wir sind wieder da, wo wir vorher schon mal waren. Warum das so ist? Nun ja, das liegt halt stark daran, dass sie viele einfach nicht an das Abstandsgebot halten und ihre Masken nicht tragen, zumindest nicht dort, wo es sinnvoll und angebracht ist.
-
----
-
-Das hier ist Beitrag 31 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

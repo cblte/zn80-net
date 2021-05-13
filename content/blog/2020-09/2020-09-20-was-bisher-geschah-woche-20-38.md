@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-38"
 publishDate = "2020-09-20T10:58:00.000Z"
 tags = ["100DaysToOffload", "Was Bisher Geschah", "Private", "Apple", "iPad AIr"]
+100dto = 21
 +++
 
 In dieser Woche gab es außer dem Apple Event am Dienstag und der Erklärung von Zuid- und Noord-Holland zum Risikogebiet eigentlich nicht viel neues.
@@ -35,7 +36,3 @@ Diese Woche gibt es keinen so wirklich Aufreger. Abgesehn von Corona gibt es ja 
 Meine neue Kalender.app ist [miCal](http://micalapp.com/de). Ist kostenpflichtig (€ 2,29 aktuell) und ist wirklich gut. Eine klare Kaufempfehlung! Ich hatte ja erst Fantastical wieder installiert und auch Calenders, die Kalender-App von Readdle. Beide Apps sind gut, jedoch telefonieren sie ein bißchen zu viel nach Hause.
 
 miCal ist von einem deutschen Unternehmen aus München entwicklet und bietet vieles, was die Kalender.app von Apple nicht bietet. Allen voran eine wesentlich bessere Übersicht und Ansicht des Tages, der Woche, des Monats.
-
----
-
-Das hier ist Beitrag 21 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

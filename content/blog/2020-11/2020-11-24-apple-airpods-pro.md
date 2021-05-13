@@ -5,6 +5,7 @@ slug: apple-airpods-pro
 tags:
 - 100DaysToOffload
 title: Apple AirPods Pro
+100dto: 46
 ---
 
 Heute habe ich mir im Elektronikmarkt um die Ecke spontan ein die [AirPods Pro](https://www.apple.com/de/airpods-pro/) im *Black-Friday-Week-irgendwas-Angebot* geshoppt. Warum? Keine Ahnung! Vielleicht, weil ich einfach was kaufen wollte. Klingt jetzt vielleicht ein wenig dekadent, kann sein, allerdings hatte ich in den letzten Wochen aber ein wenig ausgemistet und ein paar gebrauchte Dinge verkauft, so das mein PayPal Konto ein wenig Guthaben aufwies.
@@ -21,7 +22,3 @@ Klein und handlich sind sie. Passen gut in die Ohren und das Verbinden mit dem i
 [AirPods Pro: Aktive Geräuschunterdrückung und Transparenzmodus](https://support.apple.com/de-de/HT210643)
 
 Muss jetzt nur aufpassen, dass ich auch immer mal wieder auf den [Transparenz-Modus](https://support.apple.com/de-de/HT210643) umschalte, damit ich meine Umwelt und auch meine Frau wieder hören kann.
-
----
-
-Das hier ist Beitrag 46 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

@@ -6,6 +6,7 @@ tags = ["Apple", "iPad", "iMac", "100DaysToOffload"]
 images = [" /images/2021-04-apple-event-2021.jpg"]
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}**
+100dto = 78
 +++
 
 {{< figure src="apple-event-2021.jpg" alt="Apple Spring Event 2021 iPad Pro" caption="Apple Spring Event 2021 iPad Pro with M1-Chip" >}}
@@ -37,8 +38,3 @@ Da ich die Dinge super praktisch finde, werden ich auf jeden Fall ein vierer Pac
 ### Keynote
 
 Die Keynote zum [Spring Event 2021](https://www.apple.com/de/apple-events/april-2021/) gibt es bei Apple auf der Webseite.
-
-
----
-
-Das hier ist Beitrag 77 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

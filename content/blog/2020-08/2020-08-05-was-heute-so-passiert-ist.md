@@ -3,6 +3,7 @@ title = "Was heute so passiert ist 1"
 publishDate = "2020-08-05T18:00:00.000Z"
 lastmod  = "2020-11-05T20:13:35.000Z"
 tags = ["100DaysToOffload"]
+100dto = 2
 +++
 
 Heute Nachmittag bin ich noch an der Wohnung von unserem neuen Kollegen vorbeigefahren, um kurz Hallo zu sagen. Da dieser jedoch noch ein wenig im Umzugsstress war, habe ich den Besuch auch so kurz wie möglich gehalten.
@@ -14,7 +15,3 @@ Allerdings konnte ich ihm noch einen großen Gefallen tun und habe beim Chef noc
 Jetzt hat er noch vier Tage Zeit um seine Sachen in Ruhe auszupacken und das Haus einzurichten. Das tut ihm gut und ist mit Sicherheit auch eine riesen Entlastung für seine Frau, die sich nun voll um die Kinder kümmern kann. Gute Tat für heute :–)
 
 p.s.: Schöner Nebeneffekt, bin heute 30 km mit dem Rad gefahren.
-
----
-
-Das hier ist Beitrag 2 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

@@ -7,7 +7,7 @@ tags:
 - Threema
 - Signal
 - iMessage
-100dto: 87
+100dto: 88
 ---
 
 {{< figure src="whatsapp-account-deletion.jpg" alt="WhatsApp Account Deletion" >}}

@@ -8,6 +8,7 @@ tags:
 - VeraCrypt
 - Crypto Wars
 title: Sicher und Anonym im Internet surfen
+100dto: 50
 ---
 
 Vorgestern Abend fand der zweite von vier Vorträgen der [Hochschulgruppe Bielefeld | Digitalcourage](https://digitalcourage.de/hochschulgruppe-bielefeld) aus Bielefeld statt. Das Thema war **Spurenarmes und anonymes Surfen** und drehte sich hauptsächlich um den Einsatz von Firefox mit ein paar guten Add-ons und der Benutzung des Tor-Browsers.
@@ -116,7 +117,3 @@ Hier sind alle Links, die ich während des Vortrags gesammelt habe.
 - Das Tor zur Anonymität [Link](https://anoxinon.media/blog/tor/)
 - The Ultimate Guide to the Tor Browser [Link](https://pixelprivacy.com/resources/tor-browser-guide/)
 - VPN Overview: Wie sicher ist Tor [Link](https://vpnoverview.com/de/privatsphaere/anonym-surfen/wie-sicher-ist-tor/)
-
----
-
-Das hier ist Beitrag 50 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-37"
 publishDate = "2020-09-13T10:28:00.000Z"
 tags = ["100DaysToOffload", "Radfahren", "Was Bisher Geschah", "Scheveningen", "Bundeswehr"]
+100dto = 19
 +++
 
 September 13, 2020
@@ -56,7 +57,3 @@ Meine bessere Hälfte ist im Zuge der Diskussionen um die *Genderesierung* auf e
 Dem Text kann ich mich nur anschließen und bin ebenfalls der Meinung, dass es unnötig ist. Es gibt wirklich dringendere Baustellen in der Bundeswehr, um die man sich kümmern sollte. Die Gorch Fock, den Panzer Leopard 2, den Hubschrauber Tiger, das Transportflugzeug A400M, das Sturmgewehr G36 und allen voran die persönliche Ausrüstung der Kammeraden_innen (siehe auch [Deutsche Welle](https://www.dw.com/de/die-baustellen-der-bundeswehr/g-49711828)).
 
 Außerdem finde ich es ziemlich dreist, so eine Entscheidung einfach über den Kopf der eigenen “Belegschaft” hinweg zu treffen. [Die große Mehrheit der Frauen in der Bundeswehr findet das nicht gut](https://www.dbwv.de/aktuelle-themen/blickpunkt/beitrag/ob-die-frauen-wollen-oder-nicht-bmvg-plant-einfuehrung-weiblicher-dienstgrade) und würde sich dadurch eher noch benachteiligt sehen. Wahrscheinlich auch dadurch, dass nicht alle Dienstgrade, sondern nur ein kleiner Teil *gegendert* werden soll.
-
----
-
-Das hier ist Beitrag 19 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

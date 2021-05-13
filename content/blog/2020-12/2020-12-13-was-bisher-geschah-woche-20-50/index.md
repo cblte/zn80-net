@@ -6,6 +6,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-50
+100dto: 53
 ---
 
 Heute ist der dritte Advent, und damit sind es nur noch 12 Tage bis Weihnachten. Das wird jetzt schnell gehen. Glaubt mir. 
@@ -111,7 +112,3 @@ Einen schönen dritten Advent noch!
 Und damit entlasse ich euch nun in den dritten Advent. Es gäbe bestimmt noch viel, viel mehr, aber dass soll es für heute gewesen sein. Wenn du allerdings noch mehr Beschäftigung und Beschallung brauchst, dann schau doch bei [Monstropolis](https://monstropolis.wordpress.com/) oder beim [fröhlichen Buddha](https://happybuddha1975.de/) vorbei.
 
 Bild von [congerdesign](https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4646421) von [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4646421)
-
----
-
-Das hier ist Beitrag 53 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

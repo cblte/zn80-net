@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-34"
 publishDate = "2020-08-22T08:58:00.000Z"
 tags = ["Was Bisher Geschah", "100DaysToOffload", "w2034"]
+100dto = 11
 +++
 
 Diese Woche war warm, nass und kalt. Naja, kalt in dem Sinne, dass es nicht mehr 25°C und mehr sind. Und der Wind hat wieder stark zugenommen. Jetzt gerade ist es ordentlich windig und vorm Haus sammelt sich schon wieder das Laub. Dabei sah das die Woche so schön sauber aus, denn die Stadt war mit Reinigungsfahrzeugen unterwegs und hat mal ordentlich Unkraut beseitigt.
@@ -20,7 +21,3 @@ Auf der Arbeit allerdings tragen mittlerweile wirklich alle einen Mund-Nasen-Sch
 
 Wer über all das aber nicht soviel nachdenken will ¯_\(ツ)_/¯ , dem empfehle ich die neue [Folge 413 der Fanboys](https://www.fanboys.fm/413-2/) sowie die aktuelle Folge von [Radio Bremen: Wischmeyers Stundenhotel – Unvorbereitet vorbereitet](https://pca.st/wfip1o06).
 
-
----
-
-Das hier ist Beitrag 11 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

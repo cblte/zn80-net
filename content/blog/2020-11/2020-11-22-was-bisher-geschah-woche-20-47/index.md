@@ -4,6 +4,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah - Woche 20-47
+100dto: 45
 ---
 
 Diese Woche fing nicht so erfreulich an. Am Samstag hatte ich leichte Rückenschmerzen und am Sonntag dann schon, dass ich den Vormittag auf der Couch verbracht habe. Nach Rücksprache mit einem Arbeitskollegen der wesentlich mehr Sport treibt als ich, habe ich dann regelmäßig Rückenübungen gemacht. Dadurch wurde es auch etwas besser und ich bin guter Hoffnung, dass sie diese Woche gänzlich verschwinden. Falls dem nicht so ist, werde ich trotz Voltaren und Wärmekissen dann wohl doch mal den Arzt aufsuchen. 
@@ -82,7 +83,3 @@ Quelle: [https://www.facebook.com/bosettisarah/posts/4030198037009176](https://w
 ---
 
 So, nun aber genug für heute. Ich habe kalte Finger und das Essen ist gleich fertig. Daher machen wir für heute Schluss und die Link-Liste hebe ich mir für einen anderen Tag auf. In diesem Sinne, machts gut und bleibt gesund.
-
----
-
-Das hier ist Beitrag 45 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/)  um mehr Informationen über die Challenge zu erfahren.

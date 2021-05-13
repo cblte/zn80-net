@@ -5,6 +5,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah - Woche 21-06
+100dto: 72
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}
@@ -49,7 +50,4 @@ Wir haben es endlich geschafft. [Star Trek The Next Generation](https://www.star
 Tja, und das war es dann aber auch schon. Die Woche ist rum, ab morgen wieder Homeoffice und Fernlerngänge von O'Reilly. Mal schauen, was ich mir die kommende Woche so angucken darf und werde. Jetzt aber werde ich mich noch "kurz" um meine [Utility Science-Pakete](https://wiki.factorio.com/Utility_science_pack/de) kümmern, die Roboter-Produktion starten und dabei mein Glas Wein austrinken. Allzu lange soll es nicht mehr werden, denn der Wecker morgen klingelt wieder früher.
 
 In diesem Sinne: einen guten Start in die Woche wünsche ich dir. Bis bald.
-
----
-
-Das hier ist Beitrag 71 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
+über die Challenge zu erfahren.

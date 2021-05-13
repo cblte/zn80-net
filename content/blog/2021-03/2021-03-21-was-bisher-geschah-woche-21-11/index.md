@@ -8,6 +8,7 @@ tags:
 - Golang
 - Kopfhörer
 title: Was bisher geschah - Woche 21-11
+100dto: 76
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}
@@ -49,7 +50,3 @@ Ansonsten ist nicht wirklich nichts passiert. Die Kinder von unseren Nachbarn si
 Laut Wetterbericht soll es zum Wochenende hin fast 15 Grad warm werden. Da könnte man sich glatt zu einer kleinen Fahrradtour zum Strand hinreisen lassen. Seit gestern, den 20. März, haben wir ja auch offiziell Frühling. Da kann sich Petrus mal von seiner guten Seite zeigen und ein wenig Sonne schicken.
 
 Eine schöne und angenehme Woche wünsche ich euch.
-
----
-
-Das hier ist Beitrag 75 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

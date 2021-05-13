@@ -8,6 +8,7 @@ tags:
 - "linux"
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
 draft: false
+100dto: 86
 ---
 
 Ich finde Pop!_OS immer noch gut 🙂, doch habe ich seit gestern leider sporadischen und zufälligen Abstürzen zu kämpfen. Wenn ich zum Beispiel den Brave-Browser starte, dauert es keine 60 Sekunden, bis das System komplett eingefroren ist. In VSCodium ist das System zwar auch ab und an kurz eingefroren, allerdings nur für ein paar Sekunden. Auf der Suche nach einer Lösung für mein Problem bin ich leider nirgends fündig geworden.
@@ -29,7 +30,3 @@ Man könnte anstatt der `5500` eine `0` eintragen, aber vielleicht klappt es ja 
 🤞 Fingers-Crossed 🤞, dass es jetzt funktioniert und ich ausnahmsweise keinen eingefrorenen Desktop habe.
 
 Falls ich das Problem aber partout nicht in den Griff bekommen sollte, werde ich mich wohl oder über mal bei [Manjaroa](https://manjaro.org/) oder [Archcraft](https://archcraft-os.github.io/) umsehen.
-
-<!--more-->
-
-Das hier ist Beitrag 85 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.

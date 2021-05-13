@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-33"
 publishDate = "2020-08-14T14:00:00.000Z"
 tags = ["100DaysToOffload"]
+100dto = 7
 +++
 
 Der erste Beitrag war ja noch mit Die Woche (KW32) betitelt, allerdings finde ich diesen hier auch ganz nett. Hat ein wenig etwas von Geschichten erzählen, oder?
@@ -23,7 +24,3 @@ Ach ja, und da waren da ja noch die angeblichen Unwetter. Also wenn ihr mich fra
 So, mein Bier ist gleich leer und wirklich mehr gibt es eigentlich auch nicht. Morgen werde ich nach über 4 Wochen mal wieder die Autos waschen. Bin ich doch heute mit dem Auto zur Arbeit und habe festgestellt, dass sich sehr viel Staub auf dem schönen blauen Lack niedergelassen hat. Da kann ich so nicht belassen!
 
 Links gibt es heute noch nicht. Die hebe ich mir für Sonntag auf.
-
----
-
-Das hier ist Beitrag 7 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

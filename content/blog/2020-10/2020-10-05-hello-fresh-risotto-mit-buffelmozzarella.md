@@ -2,6 +2,7 @@
 title = "Hello Fresh: Risotto mit Büffelmozzarella"
 publishDate = "2020-10-05T11:57:00.000Z"
 tags = ["100DaysToOffload", "Hello Fresh"]
+100dto = 27
 +++
 
 Heute haben wir das erste Gericht von unserer ersten [Hello Fresh](https://www.hellofresh.nl/) Bestellung gekocht: Risotto mit Büffelmozzarella.
@@ -31,7 +32,3 @@ Es war also etwas mehr vorhanden als benötigt, was aber nicht schlimm ist. Die 
 Nachdem ich alles in kleine Stückchen geschnippelt habe, kam dann alles in den Topf mit etwas Öl, Butter und Brühe. Dabei nicht vergessen, viel zu rühren! Wobei eigentlich nicht viel, dafür aber ständig. Risotto Reis brennt halt schnell an.
 
 Das Risotto war fertig, als der Reis das Wasser aufgesogen und der Büffelmozzarella geschmolzen war. Matschig, pampig, lecker!
-
----
-
-Das hier ist Beitrag 27 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

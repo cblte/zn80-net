@@ -2,6 +2,7 @@
 title = "Risikogebiet Zuid- und Noord-Holland"
 publishDate = "2020-09-17T10:25:00.000Z"
 tags = ["100DaysToOffload", "Corona", "Bundesländer"]
+100dto = 20
 +++
 
 Seit gestern haben sich diverse Regeln geändert, die erneut einige Einschnitte in die Bewegungsfreiheit nach Deutschland mit sich bringen. Und da wir selbst direkt betroffen sind, wir wohnen nun mal in Den Haag, 8km von Scheveningen entfernt, sind alles unsere Pläne für die kommenden Wochen quasi hinfällig. Mein Geburtstagsgeschenk und der Wein werden also noch eine Weile bei meinen Eltern auf mich warten müssen.
@@ -37,7 +38,3 @@ Da hier in Scheveningen und Umgebung auch sehr, sehr viele Deutsche Kennzeichen 
 - Thüringen: [https://www.tmasgff.de/covid-19/quarantaeneverordnung](https://www.tmasgff.de/covid-19/quarantaeneverordnung)
 
 Die Corona-Pandemie wird uns noch eine ganze Weile begleiten. Ich hoffe, dass du und deine Nächsten gesund bleiben.
-
----
-
-Das hier ist Beitrag 20 der [#100DaysToOffload](/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

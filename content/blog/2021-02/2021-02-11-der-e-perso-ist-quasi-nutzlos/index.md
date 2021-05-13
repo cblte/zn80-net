@@ -4,6 +4,7 @@ tags:
 - Personalausweis
 - 100DaysToOffload
 title: Der E-Perso ist quasi nutzlos
+100dto: 70
 ---
 
 Manchmal frage ich mich, was in Deutschland so grundlegend verkehrt läuft, dass dieses Online-E-Perso Ding so lange dauert. Vor drei Jahren, bevor wir Deutschland verlassen haben, haben wir noch neue Personalausweise beantragt. Auch habe ich mir ein Lesegerät dafür gekauft, um den Perso dann auch digital nutzen zu können. Doch die Auswahl an Möglichkeiten, war 2018/2019 sehr beschränkt. Bis auf die Steuererklärung gab es für Privatanwender quasi nichts, was sich mit dem digital Teil des Personalausweise erledigen ließe.
@@ -23,7 +24,3 @@ p.s.: Hinweise an dieser Stelle: Du hast noch bis zum 30. Juli 2021 Zeit, dir ei
 > Ab 2. August 2021 gilt der Zwang zur Speicherung von Fingerabdrücken auf Personalausweisen. Es ist Zeit, #PersoOhneFinger zu beantragen. Weitersagen!
 
 Link >> [Personalausweis ohne Fingerabdrücke beantragen! #PersoOhneFinger | Digitalcourage](https://digitalcourage.de/blog/2021/personalausweis-ohne-fingerabdruecke)
-
----
-
-Das hier ist Beitrag 70 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

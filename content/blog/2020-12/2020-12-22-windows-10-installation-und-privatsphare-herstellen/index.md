@@ -12,6 +12,7 @@ tags:
 - Bloatware
 - SharpApp
 title: Windows 10 Installation und Privatsphäre herstellen
+100dto: 57
 ---
 
 Hier in kurzen knappen Worten die Maßnahmen, die ich ergriffen habe, um mein Windows 10 System so privat wie es mir möglich ist einzustellen. 
@@ -120,9 +121,5 @@ Mit Chocolatey lassen sich immerhin sehr viele Programme auf sehr einfache Art u
 SharpApp hilft einem ein wenig seine Privatsphäre wieder herzustellen. Eine etwas weniger komplizierte Variante von SharpApp ist das Programm [PrivateZilla](https://github.com/builtbybel/privatezilla/releases). Ebenfalls von BuiltByBel aber einfacher gehalten als SharpApp. 
 
 **Nicht vergessen:** Nach jedem größeren Update muss SharpApp oder PrivateZilla erneut ausgeführt werden, dass die Telemetrie-Datensammlung zurückgesetzt wird. Es wird ein Katz- und Mauspiel bleiben.
-
----
-
-Das hier ist Beitrag 57 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
 
 Photo by [Jason Dent](https://unsplash.com/@jdent?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/privacy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)

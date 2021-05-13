@@ -6,6 +6,7 @@ tags:
 - 100DaysToOffload
 - Netzpolitik.org
 - Digitalcourage
+100dto: 42
 ---
 
 Ich bin nicht immer einer Meinung mit Felix von Leitner von [blog.fefe.de](http://blog.fefe.de), aber das was er [hier](http://blog.fefe.de/?ts=a157d173) und [hier](http://blog.fefe.de/?ts=a157c1a0) über die Hintertüren in Messenger schreibt, geht mal gar nicht! Und damit meine ich die [Dinge die unsere EU-Vertreter gerade so verabschieden und beschließen](https://www.europarl.europa.eu/RegData/etudes/STUD/2020/648784/IPOL_STU(2020)648784_EN.pdf) (siehe Punkt 5.1 European Cloud/European Internet). 
@@ -34,6 +35,3 @@ Du möchtest praktisch erlernen, wie man im digitalen Alltag weniger Spuren hint
 
 [Online-Crypto-Seminar vom 25. November bis zum 3. Dezember 2020 | Digitalcourage](https://digitalcourage.de/blog/2020/online-crypto-seminar-25-november-3-dezember-2020)
 
-<!--more-->
-
-Das hier ist Beitrag 42 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com  um mehr Informationen über die Challenge zu erfahren.

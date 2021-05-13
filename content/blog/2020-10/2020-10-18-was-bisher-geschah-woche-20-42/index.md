@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-42"
 publishDate = "2020-10-18T14:55:00.000Z"
 tags = ["100DaysToOffload", "Brot backen", "Apple Event"]
+100dto = 34
 +++
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Logo - Was bisher geschah" >}}
@@ -53,7 +54,3 @@ Gehabt euch wohl und einen schönen Sonntag noch.
 ---
 
 Wenn du das hier lesen solltest und die langen Beiträge lieber per E-Mail nach Hause bekommen möchtest, dann kannst du dich auch in den E-Mail-Verteiler [https://tinyletter.com/zn80net](https://tinyletter.com/zn80net) eintragen.
-
----
-
-Das hier ist Beitrag 34 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

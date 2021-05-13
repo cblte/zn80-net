@@ -5,6 +5,7 @@ tags:
   - "Was bisher geschah"
   - "100DaysToOffload"
 featured_image: "/images/2021-featured_spring-640.jpg"
+100dto: 81
 ---
 
 Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das?"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.
@@ -130,6 +131,3 @@ Bleibt gesund und bis nächste Woche.
 ---
 
 Wie gewohnt kannst du diese Beiträge auch per E-Mail abonnieren. [Klick hier um dich  einzutragen](https://www.tinyletter.com/blognzn80).
-
-Das hier ist Beitrag 80 der #100DaysToOffload Herausforderung. Besuche https://100daystooffload.com um mehr Informationen über die Challenge zu erfahren.
-

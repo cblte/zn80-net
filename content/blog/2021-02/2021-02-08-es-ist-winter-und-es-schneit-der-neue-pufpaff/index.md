@@ -3,6 +3,7 @@ publishDate: "2021-02-08T21:37:25.000Z"
 tags:
 - 100DaysToOffload
 title: Es ist Winter und es schneit - der neue Pufpaff
+100dto: 69
 ---
 
 Die einen wollen die Kultur retten, mehr oder weniger, und hier in den Niederlanden machen sie die Schulen wieder auf.
@@ -15,6 +16,3 @@ Hier ist noch der Link zum Pufpaff: [Der Drei Stufen Plan für die Kultur ist da
 
 Funktioniert bis zum 08.02.2023
 
----
-
-Das hier ist Beitrag 69 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

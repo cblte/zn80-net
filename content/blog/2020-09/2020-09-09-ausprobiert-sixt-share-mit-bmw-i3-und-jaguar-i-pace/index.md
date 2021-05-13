@@ -2,6 +2,7 @@
 title = "Ausprobiert: Sixt Share mit BMW i3 und Jaguar I-Pace"
 publishDate = "2020-09-09T10:36:00.000Z"
 tags = ["100DaysToOffload", "Gedanken", "CarSharing", "Sixt"]
+100dto = 18
 +++
 
 Heute haben wir den Tag in Amsterdam verbracht. Das war wirklich schön, zumindest so lange, bis es angefangen hat zu regnen. Aber das ist in den Niederlanden halt ganz normal, dass das Wetter von jetzt auf gleich sich ein paar Mal ändern kann.
@@ -48,7 +49,3 @@ Insgesamt kommen wir so auf einen Gesamtpreis von 75,96 Euro. Was immer noch kna
 Abgeshen vom Stau im Feierabendverkehr kann man das natürlich auch günstiger haben. Wären wir zweimal mit dem BMW i3 gefahren und die Rückfahrt früher oder später angetreten, so hätten wir keine 50 Euro für den Trip von Den Haag nach Amsterdam und zurückbezahlt. Für Menschen, die in Städten wohnen eine wirklich gute Alternative zu Bus und Bahn. Für Leute auf dem Land eher nicht so.
 
 Abschließend kann ich für mich nur sagen, dass es sich wirklich gelohnt hat und wir das definitiv wiederholen werden. Einziges Manko für uns, ich muss erst ein paar Kilometer mit Bus, Tram oder Fahrrad fahren, um in das Geschäftsgebiet von Sixt zu gelangen, wo die Fahrzeuge stehen. Aber das ist wirklich nicht schlimm.
-
----
-
-Das hier ist Beitrag 18 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

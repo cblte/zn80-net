@@ -8,6 +8,7 @@ tags:
 - 100DaysToOffload
 - Factorio
 title: Factorio 1.1.0 Stable
+100dto: 68
 ---
 
 {{< figure src="fff-364-1-1-stable-postcard.jpg" alt="Factorio 1.1" >}}
@@ -31,7 +32,3 @@ Link >> [Friday Facts #364 - 1.1 stable | Factorio](https://factorio.com/blog/po
 Und nun, viel Spaß beim Spielen. ***The Factory must grow!***
 
 [Bild ist von Wube-FFF364](https://factorio.com/support/press-kit)
-
----
-
-Das hier ist Beitrag 68 der #100DaysToOffload Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.

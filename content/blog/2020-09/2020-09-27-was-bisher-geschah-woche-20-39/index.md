@@ -7,6 +7,7 @@ tags:
  - "CyberSecurity"
  - "FOSS"
  - "SysAdmin"
+100dto: 23
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher Geschah Logo">}}
@@ -54,7 +55,3 @@ Also mal ganz ehrlich ja, ich kann hier kein Mitleid mitempfinden. Überhaupt ni
 Neben all dem Scheiss, habe ich aber dennoch ein wenig Zeit gefunden mich mit [Aloy durch die Welt von Horizon:Zero Dawn](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/) zu kämpfen. Ein wirklich tolles Spiel. Sehr viele Liebe zum Detail mit einer tollen, sehr interessante Story und einer noch mehr beeindruckenden Grafik. Doch leider sind die Rechner hier ein wenig *zu schwach auf der Brust*, um mehr als die Grafikeinstellung Mittel zuzulassen.
 
 Ich hoffe mal, dass Watch Dogs: Legion und Cyberpunk 2077 nicht so die Grafikkarten-Killer sein werden. Denn ich möchte mir eigentlich ungern in diesem Jahr noch eine neue Grafikkarte kaufen, wo ich doch auf das neue MacBook Air spare.
-
----
-
-Das hier ist Beitrag 23 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com/) um mehr Informationen über die Challenge zu erfahren.

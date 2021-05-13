@@ -4,6 +4,7 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 title: Was bisher geschah - Woche 20-46
+100dto: 44
 ---
 
 Die Woche hatte so schön angefangen. Joe Biden wird der neue Präsident der USA. Kamala Harris die erste weibliche und farbige Vize-Präsidentin, Apple bringt neue schöne Macs heraus und verschickt HomePod minis und iPhones. Doch dann kam Trump noch mal daher und auch die EU versucht es noch mal mit dem Aushebeln der Privatsphäre. Und die Corona-Leugner und Covidioten halten sich wieder mal nicht an Auflagen. Ach, es hätte so schön werden können. 
@@ -99,7 +100,3 @@ Das dabei die Polizei in Frankfurt am Main da über ihre strenge schlägt und mi
 ---
 
 Wenn du das hier lesen solltest und die langen und ausführlichen Beiträge auch gerne per E-Mail nach Hause bekommen möchtest, dann kannst du dich auch in den E-Mail-Verteiler eintragen. Klicke dazu einfach auf diesen Link hier [https://tinyletter.com/zn80net](https://tinyletter.com/zn80net) und melde dich mir deiner E-Mail-Adresse an. Ich würde mich freuen. Vielen Dank.
-
----
-
-Das hier ist Beitrag 44 der [#100DaysToOffload](/tag/100DaysToOffload) Herausforderung. Besuche  [https://100daystooffload.com](https://100daystooffload.com/)  um mehr Informationen über die Challenge zu erfahren.

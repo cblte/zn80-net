@@ -6,6 +6,7 @@ tags:
 - "100DaysToOffload"
 - "Bank"
 draft: false
+100dto: 83
 ---
 
 Gestern habe ich Post von der Commerzbank und auch von der ABN Amro erhalten. Beides Banken, bei denen wir ein Konto haben. Beide Banken erhöhen zum 1. Juli 2021 die Kontoführungsgebühren. Das System fühlt sich einfach nur kaputt an.
@@ -29,7 +30,3 @@ zu begründen grenzt schon fast an Hohn. Meine Meinung!
 Seit Jahren baut sich die Bank quasi selber ab. Die App war lange, lange Zeit eine Katastrophe. Fehlerhafte Texteingabe, eigene Tastatur, Benutzer-unfreundliche Navigation und so weiter. Immerhin hat sich das mittlerweile ein wenig gebessert. Geblieben ist aber immer noch der Scheiß, das ich bis heute keine Auslandsdaueraufträge im Online-Banking einrichten kann. Ich glaube auch nicht, dass sich das in Zukunft ändern wird, wenn man jetzt 5 Euro im Monat bezahlen muss.
 
 Es wird wohl doch so langsam Zeit, sich eine neue Bank zu suchen. Leider ist das immer mit viel Papierkram und vielen E-Mails verbunden. Da geht wieder ein ganzer Tag für drauf :unamused: . Was noch hinzukommt: versuch mal in Deutschland ein Konto zu eröffnen, wenn du keinen aktiven Wohnsitz dort hast. Super oder?
-
-<!--more-->
-
-Das hier ist Beitrag 82 der #100DaysToOffload Herausforderung. Besuche <https://100daystooffload.com> um mehr Informationen über die Challenge zu erfahren.

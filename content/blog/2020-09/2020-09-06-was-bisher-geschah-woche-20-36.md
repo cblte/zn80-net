@@ -2,6 +2,7 @@
 title = "Was bisher geschah – Woche 20-36"
 publishDate = "2020-09-06T10:08:00.000Z"
 tags = ["100DaysToOffload", "Was Bisher Geschah", "Logbuch:Netzpolitik", "Drecksblatt"]
+100dto = 16
 +++
 
 Einen schönen guten Morgen. Die Woche war ruhig und entspannt, obwohl ich jetzt ein paar Tage frei habe und vor einem Urlaub, meistens ja alles noch irgendwie fertiggestellt werden muss. Dem war aber nicht so, denn mein Chef war so nett und hat mir nur ein paar kleine Aufgaben gegeben, die ich noch erledigen sollte.
@@ -31,7 +32,3 @@ Das mit meinem Ohr ist trotz mehrfacher Anwendung mit der Nasenspülung nicht wi
 ## Der Aufreger der Woche
 
 Die [Bild Zeitung und auch RTL](https://twitter.com/BILDblog/status/1302150055596498946) haben sich erneut von ihrer schlechtesten Seite gezeigt und erneut bewiesen, dass Sensation und Klickzahlen wichtiger sind als Privatsspähre von Kindern und Opfern. Wie kann man ein 12 jähriges Kind mit vollem Namen und Bild zeigen bzw. ins Fernsehen bringen, von dessen Freund gerade alle Geschwister von der eigenen Mutter umgebracht wurden und die sich dann in suizidialer Absicht vor einen Zug warf? Einfach widerlich! Die Bild ist und war keine Zeitung, sie wird immer ein Dreckblatt bleiben! (Quelle [BILDblog](https://bildblog.de/123780/bild-zeigt-private-whatsapp-nachrichten-eines-kindes-dessen-geschwister-gerade-getoetet-wurden/))
-
----
-
-Das hier ist Beitrag 16 der [#100DaysToOffload](https://blog.zn80.net/tag:100DaysToOffload) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com) um mehr Informationen über die Challenge zu erfahren.

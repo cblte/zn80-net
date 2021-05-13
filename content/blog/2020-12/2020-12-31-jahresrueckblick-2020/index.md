@@ -5,6 +5,7 @@ tags:
 - 100DaysToOffload
 - Jahresrückblick
 title: Jahresrückblick 2020
+100dto: 59
 ---
 
 {{< figure src="agenda-4205694_1920.jpg" alt="Jahresrückblick 2020" caption="Titelbild von [Gerd Altmann](https://pixabay.com/users/geralt-9301)" >}}
@@ -174,6 +175,3 @@ Einen guten Rutsch und ein Frohes Neues Jahr!
 
 Wenn Du es bis hier unten geschafft hast, vielen Dank! Das bedeutet mir viel und ich würde mich über einen Kommentar von Dir wirklich freuen. Und wenn du magst, dann kannst du auch diese langen Beiträge per E-Mail empfangen in dem du [meinen Newsletter abonnniert](https://tinyletter.com/zn80net).
 
----
-
-Das hier ist Beitrag 59 der [#100DaysToOffload](/tag/100daystooffload/) Herausforderung. Besuche [https://100daystooffload.com](https://100daystooffload.com)  um mehr Informationen über die Challenge zu erfahren.
