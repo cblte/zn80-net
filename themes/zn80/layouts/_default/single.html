@@ -6,22 +6,27 @@
       {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
     </time>
   </span>
- {{ end }}{{ end }}
-
+  {{ end }}{{ end }}
+  
   {{ .Content }}
-
+  
   {{ if and (eq .Kind "page") ($.GitInfo) }}
   <p class="lastmod">
     Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
   </p>
   {{ end }}
-  
+
   {{ if (.GetTerms "tags") }}
   <p class="tags">
     Tags: {{ range (.GetTerms "tags") }}
       <a href="{{ .Permalink }}" rel="tag">#{{ .LinkTitle }}</a>
       {{ end }}
     </p>
+  {{ end }}
+
+  {{ with $.Param "100dto" }}
+  <p><i>Beitrag {{ $.Param "100dto" }} der <a href="https://100daystooffload.com" target="_blank" rel="noopener">#100DaysToOffload</a> Herausforderung.</i>
+  </p>
   {{ end }}
 
   {{ if eq .Type "blog" }}
