@@ -92,6 +92,13 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [NixNet](https://nixnet.services/) -- Away from prying eyes… Email, xmpp, BigBlueButton, Pleroma, Gitea, TTRss, HedgeDoc, PrivateBin, Nitter, Blibliogram, searx, wallabag, Polr, rss Bridge
 - [tildeverse.org](https://tildeverse.org/) -- a loose association of like-minded tilde communities
 
+## Videokonferenz
+
+- [Big Blue Button](https://bigbluebutton.org/)
+- [Jitsi](https://jitsi.org/) -- More secure, more flexible, and
+completely free video conferencing
+- [Senfcall.de](https://senfcall.de/) -- Privatsphäre respektierende Videokonferenzen 
+
 
 ## Web Development
 
