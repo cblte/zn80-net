@@ -79,11 +79,11 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 ## Präsentationen
 
-- [The Takahashi method](https://en.wikipedia.org/wiki/Takahashi_method) - Wenige Wörter, alle groß!
-- [slide-html](https://github.com/trikita/slide-html) - the most simple plain text presentation maker. This version is a standalone HTML page of 4K in size that you can edit in place and get a working presentation. No other tools needed except for a text editor. No programming knowledge is required, too.
-- [Big](https://github.com/tmcw/big) - the antidote to your presentation procrastination.
-- [weenote](https://github.com/jed/weenote) - a quick/dirty/tiny tool for creating simple Takahashi-style presentations. It was inspired by tmcw's big.
-- [sent](https://tools.suckless.org/sent/) - simple plaintext presentation tool
+- [The Takahashi method](https://en.wikipedia.org/wiki/Takahashi_method) -- Wenige Wörter, alle groß!
+- [slide-html](https://github.com/trikita/slide-html) -- the most simple plain text presentation maker. This version is a standalone HTML page of 4K in size that you can edit in place and get a working presentation. No other tools needed except for a text editor. No programming knowledge is required, too.
+- [Big](https://github.com/tmcw/big) -- the antidote to your presentation procrastination.
+- [weenote](https://github.com/jed/weenote) -- a quick/dirty/tiny tool for creating simple Takahashi-style presentations. It was inspired by tmcw's big.
+- [sent](https://tools.suckless.org/sent/) -- simple plaintext presentation tool
 
 ## Public Unix und Hosting Services
 
