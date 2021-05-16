@@ -25,8 +25,8 @@ Neben der Impfung gab es noch eine gute Nachricht diese Woche. Ich habe endlich 
    - [mdprospect - Post-Rock Study with me (2 hours) | Pomodoro Timer](https://youtu.be/8awqH4xysj4)
    - [STUDY AT HOGWARTS - Pomodoro 25/5](https://www.youtube.com/watch?v=IzaPLc9TuRE), [STUDY AT HOGWARTS EXPRESS - Pomodoro Session 25/5](https://www.youtube.com/watch?v=FheDEkIkSkI)
    - den Kanal [The Timer](https://www.youtube.com/c/TheTimer/videos) mit vielen Videos für fast jede erdenkliche Zeiteinteilung.
-2. Es wird eine [zweite Staffel von Love, Death and Robots](https://www.netzwelt.de/serien/love-death-robots/189060-love-death-robots-deswegen-besteht-staffel-2-nur-8-folgen.html) geben. Auch wenn diese nur 8 Folgen enthalten wird, so freue ich mich schon darauf, wenn sie in Netflix verfügbar ist. Eine dritte StaffeHeute morgen haben wir uns die dritte Folge von James May: Unser Mann in Japan. Eine sehr lustige und skurile Folge in der quasi alle stereotypischen Dinge über Japaner gezeigt werden. Dennoch sehenswert.l ist ebenfalls in Planung und wird 2022 erscheinen.
-3.  Von meinen Freunden und Bekannten gehen einige ihrer Berufung als Lehrer oder Lehrerin nach. So fand ich den [Artikel zum Schul-IT-Chaos in Baden-Württenberg](https://netzpolitik.org/2021/schul-it-in-baden-wuerttemberg-das-grosse-chaos/) von Netzpolitik.org sehr interessant und lesenswert.
+2. Es wird eine [zweite Staffel von Love, Death and Robots](https://www.netzwelt.de/serien/love-death-robots/189060-love-death-robots-deswegen-besteht-staffel-2-nur-8-folgen.html) geben. Auch wenn diese nur 8 Folgen enthalten wird, so freue ich mich schon darauf, wenn sie in Netflix verfügbar ist. Eine dritte Staffel ist ebenfalls in Planung und wird 2022 erscheinen.
+3. Von meinen Freunden und Bekannten gehen einige ihrer Berufung als Lehrer oder Lehrerin nach. So fand ich den [Artikel zum Schul-IT-Chaos in Baden-Württenberg](https://netzpolitik.org/2021/schul-it-in-baden-wuerttemberg-das-grosse-chaos/) von Netzpolitik.org sehr interessant und lesenswert.
 
 ## Die Serienfolge der Woche
 
