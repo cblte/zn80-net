@@ -1,8 +1,5 @@
 +++
 title = "Blogroll"
-slug = "blogroll"
-menu = "main"
-weight = 40
 +++
 
 ## Blogroll
@@ -27,7 +24,7 @@ Hier ist eine Auswahl an Blogs und Webseiten die ich mehr oder weniger regelmä�
 ### Politik & Co
 
 - [Der Volksverpetzer](https://volksverpetzer.de) Wir bei "Volksverpetzer" sind ein Team aus ganz normalen, engagierten Menschen. Gegründet wurde der Blog von Thomas Laschyk und Freund\*innen.
-- [DigitalCourage e.V.](https://digitalcourage.de) Digitalcourage arbeitet für eine lebenswerte Welt im digitalen Zeitalter. Digitalcourage e.V. (vormals: FoeBuD e.V.) setzt sich seit 1987 für Grundrechte und Datenschutz ein. 
+- [DigitalCourage e.V.](https://digitalcourage.de) Digitalcourage arbeitet für eine lebenswerte Welt im digitalen Zeitalter. Digitalcourage e.V. (vormals: FoeBuD e.V.) setzt sich seit 1987 für Grundrechte und Datenschutz ein.
 - [Leitmedium](https://www.leitmedium.de/) Hier schreibt Caspar Clemens Mierau viel über Post-Privacy. Es gibt kein analoges Leben im digitalen.
 - [MachtDose.de](https://machtdose.de/) Underground matters.
 - [mimikama.at](https://mimikama.at) Seit 2011 im Zeichen des Schutzes von Internetnutzern: ZDDK / Mimikama® "Wir sind Mensch!" Wir als Verein haben uns im Jahre 2011 zum Ziel gesetzt, Internetmissbrauch, Internetbetrug und Falschmeldungen bzw. Fakes entgegen zu wirken und zu bekämpfen.
