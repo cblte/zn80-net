@@ -2,6 +2,6 @@
 title: "Microblog"
 ---
 
-Das hier ist der Microblog. Kurze Kommentare, Links, Statusmeldungen. Täglich neu und wesentlich kürzer als die Beiträge im Blog.
+Microblog. Kurze Kommentare, Links und mehr im Stil von Statusmeldungen.
 
-**Work in Progress!**
+_Diese Kategorie ist noch neu und ich bin noch ein wenig in der Findungsphase wie ich den Content hier bereitstellen will. Auch was das Backend angeht._
