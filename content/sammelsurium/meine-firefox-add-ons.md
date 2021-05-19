@@ -33,6 +33,11 @@ Quelle der Tipps: [Handout der DC HSG Bielefeld](https://digitalcourage.de/sites
 
 Cookie AutoDelete (von CAD Team) löscht Cookies automatisch nach dem Schließen von Browserfenstern und -tabs (die Einstellung „Automatisches Aufräumen“ muss nach Installation aktiviert werden)
 
+### [I don't care about cookies](https://addons.mozilla.org/de/firefox/addon/i-dont-care-about-cookies/)
+
+> This add-on will remove these cookie warnings from almost all websites! You can report any website which still warns you about cookies: just click 'Report a cookie warning' from the extension menu (the brown cookie image next to your address bar).
+
+
 ### [LocalCDN](https://addons.mozilla.org/de/firefox/addon/localcdn-fork-of-decentraleyes/)
 
 Emuliert externe Frameworks (z.B. jQuery, Bootstrap, AngularJS) und stellt sie als lokale Ressource bereit. Verhindert unnötige Anfragen von Drittanbietern an Google, StackPath, MaxCDN und mehr. Vorbereitete Regeln für uBlock Origin/uMatrix.
