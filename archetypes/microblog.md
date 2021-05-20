@@ -1,6 +1,7 @@
 ---
 title: {{ replace .Name "-" " " | title }}
+slug: {{ now.Format "150405" }}
 date: {{ .Date }}
 ---
 
-Insert Text here
+Enter Text here.
