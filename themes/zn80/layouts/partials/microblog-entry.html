@@ -1,0 +1,5 @@
+{{ $text := replaceRE "<p>|</p>" "" .Content }}
+<p>
+    {{ $text | safeHTML }}
+    <a href="{{ .Permalink }}" rel="bookmark" class="microblog-permalink">#</a>
+</p>

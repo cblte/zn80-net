@@ -1,3 +1,0 @@
-{{ $text := .Content | replaceRE "<p>(.*)</p>" "${1}" }}
-{{ $permalink := printf "<a href=\"%s\">#</a>" .Permalink }}
-{{ .Content | replaceRE "<p>(.*)</p>" (printf "<p>%s %s</p>" $text $permalink) | safeHTML }}
