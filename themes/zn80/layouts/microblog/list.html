@@ -5,15 +5,13 @@
 {{ .Content }}
 {{ template "_internal/pagination.html" . }}
 
-{{ range (.Paginate .RegularPagesRecursive).Pages }}
+{{ range .Pages.GroupByPublishDate "2006-01-02" "desc" }}
   <h2 style="margin:0; padding-top:30px;">
-    <a href="{{ .Permalink }}">
-      {{ .Date.Format "January, 02 2006" }}
-    </a>
+    {{ .Key }}
   </h2>
-
-  {{ .Content }}
-
+  {{ range .Pages }}
+    {{ partial "microblog-permalink.html" . }}
+  {{ end }}
 {{ end }}
 
 
