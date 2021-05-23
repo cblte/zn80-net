@@ -17,7 +17,7 @@ Anstelle von Ubuntu basierten Distributionen habe ich mich dann in der Arch-Linu
 
 EndeavorOS konnte ich weder in einer VM noch vom USB Stick starten. Garuda sieht schön aus, ist mir aber irgendwie doch zu bunt. Arco Linux funktioniert. Abgesehen von der Webseite ist es eine wirklich gelungene Arch-Distribution, sofern ich das mit meinem Wissensstand beurteilen kann. Es gibt haufenweise vorgefertigte Distributionen für alle möglichen Window-Manager und Desktop-Umgebungen. Damit läst sich jeder Desktop vorab ausprobieren und erkunden. Der Installer Calamares ist gut durchdacht und ermöglicht es, eine genau auf den Nutzer zugeschnittene Installation durchzuführen. 
 
-![[manjaro-linux.png]]
+{{< figure src="manjaro-linux.md" alt="Manjaro Linux Screenshot" caption="[Manjaro Linux](https://www.manjaro.com)">}}
 
 Letztendlich bin ich aber doch bei [Manjaro](https://manjaro.org/) geblieben. In der XFCE-Edition ist die Basiskonfiguration gut und durchdacht. Es gibt nicht besonders viel, was man noch einstellen müsste. Natürlich muss man noch ein paar Programme installieren, aber wie gesagt, die Grundkonfiguration mit den proprietären Treiber für NVIDIA ist gut und funktioniert. Vorallem aber habe ich keine Soundprobleme mehr!
 
@@ -32,7 +32,7 @@ Wenn du auch Linux ausprobieren willst, dann lad dir einfach ein ISO herunter un
 
 ## Medien-Empfehlung der Woche
 
-![Die Pinguine aus Madagaskar](pinguine-aus-madagaskar.png)
+{{< figure src="pinguine-aus-madagaskar.png" alt="Die Pinguine aus Madagaskar" >}}
 
 [Die Pinguine aus Madagaskar](https://www.netflix.com/de/title/80013941) ist ein toller Film für Groß und Klein. Ich habe sehr gelacht!
 
