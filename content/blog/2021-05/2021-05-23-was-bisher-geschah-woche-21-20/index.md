@@ -2,7 +2,9 @@
 title: "Was Bisher Geschah – Woche 21-20"
 slug: "was-bisher-geschah-woche-21-20"
 date: "2021-05-23T10:00:00+02:00"
-tags: 100DaysToOffload, "Was Bisher Geschah"
+tags: 
+- 100DaysToOffload
+- Was Bisher Geschah
 draft: false
 100dto: 90
 ---
