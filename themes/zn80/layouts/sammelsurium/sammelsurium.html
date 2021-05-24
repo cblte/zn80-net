@@ -1,18 +1,17 @@
 {{ define "main" }}
-
   <h1>{{ .Title }}</h1>
   <p>{{ .Content }}</p>
-  
-  <ul class="sammelsurium">
-    {{ range .Pages }}
-    <li>
+
+  {{ range .Pages.GroupByParam "category" "asc" }}
+  <h2>{{ .Key }}</h2>
+  <ul>
+      {{ range .Pages }}
+      <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ else }}
-    <li>
-      No posts yet
-    </li>
-    {{ end }}
+      </li>
+      <span class="meta">{{ .Description }}</span>
+      {{ end }}
   </ul>
+  {{ end }}
 
 {{ end }}
