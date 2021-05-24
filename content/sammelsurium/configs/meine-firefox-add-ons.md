@@ -1,7 +1,11 @@
-+++
-title = "Meine Firefox Add-ons"
-publishDate = "2020-08-17T20:00:00.000Z"
-+++
+---
+title: "Meine Firefox Add-ons"
+publishDate: "2020-08-17T20:00:00.000Z"
+category: Configs
+slug: /meine-firefox-add-ons
+aliases: 
+- /meine-firefox-add-ons
+---
 
 {{< figure src="/images/firefox-browser.jpg" alt="Description" >}}
 
