@@ -1,11 +1,8 @@
 ---
 title: "VS Code Config"
-date: 2021-05-24T
+date: 2021-05-24
 draft: false
-category:
-- Configs
-tags:
-- VS Code
+category: Configs
 description: "My config files for Visual Studio Code."
 
 ---
