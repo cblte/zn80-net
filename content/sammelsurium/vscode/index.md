@@ -1,7 +1,7 @@
 ---
 title: "VS Code Config"
 date: 2021-05-24T
-draft: true
+draft: false
 category:
 - Configs
 tags:
