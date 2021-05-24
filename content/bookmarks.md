@@ -4,6 +4,23 @@ title: Bookmarks
 
 Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-Manager aussortiert habe. Mithilfe des Inhaltsverzeichnisses, kannst du schnell zu einer Unterkategorie springen
 
+- [Awesome Lists](#awesome-lists)
+- [Bilder](#bilder)
+- [Blogging](#blogging)
+- [Collections of Websites](#collections-of-websites)
+- [E-Mail-Anbieter](#e-mail-anbieter)
+- [File hoster / file sharing](#file-hoster--file-sharing)
+- [GnuPG / OpenPGP](#gnupg--openpgp)
+- [News](#news)
+- [Online-Tools](#online-tools)
+- [Präsentationen](#präsentationen)
+- [Public Unix und Hosting Services](#public-unix-und-hosting-services)
+- [Videokonferenz](#videokonferenz)
+- [Web Development](#web-development)
+- [Windows Things](#windows-things)
+
+
+
 ## Awesome Lists
 
 - [1KM1KT](https://www.1km1kt.net/) -- the largest collection of free rpg games
@@ -13,6 +30,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [Awesome list of Python](https://github.com/vinta/awesome-python%3e)
 - [Awesome list of Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job%3e)
 - [Awesome Python](https://awesome-python.com/)
+- [Learn To Code](https://ashleymcnamara.github.io/learn_to_code/#golang) -- Resources for budding developers: C, C++, C#, Haskell, HTML, CSS, JavaScript, Lisp, Java, Perl, PHP, Python, [Golang](https://ashleymcnamara.github.io/learn_to_code/#golang), Ruby, Scratch
 - [redecentralize/alternative-internet](https://github.com/redecentralize/alternative-internet) -- A collection of interesting new networks and tech aiming at decentralisation (in some form)
 - [Security-List](https://security-list.js.org/#/)
 - [Software that sucks less](https://suckless.org/)
