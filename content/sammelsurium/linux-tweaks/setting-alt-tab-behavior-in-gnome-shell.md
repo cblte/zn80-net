@@ -1,11 +1,9 @@
 ---
 title: Setting Alt-Tab behavior in gnome-shell
 date: 2021-05-09
-category: Linux Tweaks
-tags: 
-- gnome
-- gnome-shell
-draft: true
+category:
+- Linux
+draft: false
 ---
 
 After switching to gnome updating my distro a few months ago, I somehow lost my tweaks to the Alt-Tab behavior in gnome-shell.
