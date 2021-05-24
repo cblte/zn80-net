@@ -1,6 +1,7 @@
 ---
 title: Comments For Static Sites
 date: 2021-04-27
+category: WebDevelopment
 description: "A list of software and services to allow comments on static websites"
 ---
 
