@@ -1,9 +1,8 @@
 ---
 title: Comments For Static Sites
 date: 2021-04-27
+description: "A list of software and services to allow comments on static websites"
 ---
-
-A list of software and services to allow comments on static websites.
 
 - https://remark42.com/
 - https://utteranc.es/  
