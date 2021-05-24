@@ -1,6 +1,7 @@
 ---
 title: Move Your Home Folder To A Second Drive
 date: 2021-05-18T15:44:52+02:00
+category: Linux
 ---
 
 _This page is a copy of DTs page at <https://distrotube.com/articles/move-your-home-folder-to-second-drive.html>_

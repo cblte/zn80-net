@@ -1,8 +1,7 @@
 ---
 title: "Fixing NVMEs Issues"
 date: "2021-05-05"
-category: 
-- Linux
+category: Linux
 ---
 
 ## Fixing NVMe Issues in Linux
