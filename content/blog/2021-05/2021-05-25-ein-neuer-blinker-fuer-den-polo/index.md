@@ -1,5 +1,6 @@
 ---
 title: "Ein neuer Blinker für den Polo"
+slug: "ein-neuer-blinker-fuer-den-polo"
 date: "2021-05-25T19:00:00+02:00"
 tags:
 - 100DaysToOffload
