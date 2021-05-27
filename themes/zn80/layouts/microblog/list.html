@@ -1,9 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Title }} </h1>
 {{ .Content }}
-{{ template "_internal/pagination.html" . }}
 
-{{ range .Pages.GroupByPublishDate "2006-01-02" "desc" }}
+
+{{ range (.Paginate (.Pages.GroupByPublishDate "2006-01-02" "desc") 30).PageGroups }}
+
   <h2 style="margin:0; padding-top:30px;">
     {{ .Key }}
   </h2>
@@ -12,6 +13,7 @@
   {{ end }}
 {{ end }}
 
+{{ template "_internal/pagination.html" . }}
 
 
 {{ end }}
