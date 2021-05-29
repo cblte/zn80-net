@@ -1,5 +1,8 @@
 ---
 title: Linux Tools
+date: 2021-05-29
+category: Linux
+draft: false
 ---
 
 Einige Linuxprogramme die mir aufgefallen sind:
