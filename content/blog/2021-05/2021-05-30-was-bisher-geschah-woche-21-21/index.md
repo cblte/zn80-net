@@ -38,6 +38,6 @@ Angenehm war auch, dass wir nicht nur über Corona gesprochen haben. Der ein ode
 
 ---
 
-Ich hoffe, es hat euch gefallen. Mal schauen, was nächste Woche alles so ansteht. Freue ich mich jetzt schon ein wenig auf die [WWDC 2021](https://developer.apple.com/wwdc21/) die 7. Juni beginnt. Die Zeichen stehen gut, dass es neue MacBooks geben wird.
+Ich hoffe, es hat euch gefallen. Mal schauen, was nächste Woche alles so ansteht. Freue ich mich jetzt schon ein wenig auf die [WWDC 2021](https://developer.apple.com/wwdc21/) die am 7. Juni beginnt. Die Zeichen stehen gut, dass es neue MacBooks geben wird.
 
 Mehr interessantes Zeug findet ihr bei [dn15](https://dn15.de/links-am-sonntag-ausgabe-9/), [happybuddha1975](https://happybuddha1975.de/21-kw-2021/) oder [monstropolis](https://monstropolis.wordpress.com/2021/05/28/krims-krams-204/). Damit noch einen schönen Sonntagabend oder Montag morgen und einen guten Start in die Woche!
