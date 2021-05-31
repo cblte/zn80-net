@@ -17,9 +17,13 @@ Da ist es gut, dass wir eine Bundesregierung haben, die sich jetzt - es stehen s
 
 Außerdem sind jetzt mehr als 14 Tage vergangen und somit dürfen wir uns nun offiziell als vollständig Geimpfte bezeichnen. Ob wir mit Johnson&Johnson durch sind, wird sich in den nächsten Monaten zeigen. Denke aber, dass wir nicht noch einmal hin müssen.
 
+## Abzocken wie die Mafia - nur leichter
+
 Apropos Corona-Impfung. Ihr habt bestimmt mitbekommen, wie sich [eine Bochumer Firma unrechtmäßig mithilfe vieler Coronatests praktisch dumm und dämlich verdient hat.](https://www.tagesschau.de/investigativ/wdr/corona-schnelltest-zentren-103.html). Abzocke hoch zehn und ich hoffe, dass die Verantwortlichen dafür lange hinter Schloss und Riegel kommen. Auch wenn in der Verordnung steht, dass die Daten der Getesteten nicht erfasst und weitergeleiten werden würden, so sollte man doch davon ausgehen, dass bei 18 Euro pro Test mal einer genauer hinschaut. Es wundert auch nicht, wenn solche Anbieter (ist jetzt nicht der selbe, aber egal) keine Ahnung vom Datenschutz haben und [alles einfach so offen im Netz steht](https://www.spiegel.de/netzwelt/web/massive-datenschutzprobleme-bei-coronavirus-tests-a-9d2df0ec-a076-4e65-bac9-540cf6e84898). Da kannst du nur mit dem Kopf schütteln.
 
 Aber kommen wir zu den schönen Dingen der Woche :-)
+
+## Videokonferenz mit der Clique
 
 Wir haben es tatsächlich am Freitag geschafft, nach 18 Monaten Pandemie, ein Online-Stammtisch-Cliquen-Treffen zu veranstalten. Auch wenn ich dafür Zoom installieren musste, war es wirklich, wirklich schön! Ganz ehrlich. So lange haben wir viele aus der Clique nicht gesehen und dann einen Großteil mal wieder live und in Farbe zu Gesicht zu bekommen war wirklich toll. Man merkt aber deutlich, dass in vielen Rechnern wirklich schlechte Webcams verbaut sind. Weil dem so ist, habe ich mein iPhone 11 als Webcam benutzt und glaube schon, dass wir gut ausgesehen haben. Immerhin wurde gefragt, ob unser Hintergrund ein Foto sei. Scheint dann ja von der Bildqualität nicht so schlecht gewesen zu sein.
 
