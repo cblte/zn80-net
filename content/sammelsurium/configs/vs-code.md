@@ -11,24 +11,24 @@ This is how I setup my VS Code. I mostly use it for reading/writing markdown and
 
 - [Quick Start Guide](#quick-start-guide)
 - [Extensions](#extensions)
-    - [Go](#go)
-        - [golangci-lint](#golangci-lint)
-        - [Go Snippets](#go-snippets)
-    - [Markdown All in One](#markdown-all-in-one)
-        - [Table of Content](#table-of-content)
-    - [MarkdownLint](#markdownlint)
-    - [GitLens](#gitlens)
-    - [LanguageTool for Visual Studio Code](#languagetool-for-visual-studio-code)
-    - [Code Spell Checker](#code-spell-checker)
-    - [VS Notes](#vs-notes)
+  - [Go](#go)
+    - [golangci-lint](#golangci-lint)
+    - [Go Snippets](#go-snippets)
+  - [Markdown All in One](#markdown-all-in-one)
+    - [Table of Content](#table-of-content)
+  - [MarkdownLint](#markdownlint)
+  - [GitLens](#gitlens)
+  - [LanguageTool for Visual Studio Code](#languagetool-for-visual-studio-code)
+  - [Code Spell Checker](#code-spell-checker)
+  - [VS Notes](#vs-notes)
 - [General Settings](#general-settings)
-    - [Disable git](#disable-git)
-    - [Markdown Settings](#markdown-settings)
-        - [Word Separator Note](#word-separator-note)
+  - [Disable git](#disable-git)
+  - [Markdown Settings](#markdown-settings)
+    - [Word Separator Note](#word-separator-note)
 - [Creating Snippets](#creating-snippets)
 
 
-**Note:** This guide is heavily inspired by <https://parsiya.io/configs/vscode/> and was originally made in early 2019. I have adopted it and changed it to my needs. Feel free to use as much as you like. Here you can download my [files/vs-code-settings.json](files/vs-code-settings.json) is
+**Note:** This guide is heavily inspired by <https://parsiya.io/configs/vscode/> and was originally made in early 2019. I have adopted it and changed it to my needs. Feel free to use as much as you like. Here you can download my [vs-code-settings.json](/content/sammelsurium/configs/files/vs-code-settings.json) is
 always updated, regardless.
 
 ## Quick Start Guide
