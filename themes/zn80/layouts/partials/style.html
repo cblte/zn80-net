@@ -116,7 +116,7 @@
   	margin-top: 30px;
   	margin-bottom: 12px;
   }
-  
+
   h4 {
   	font-size: 18px;
   	line-height: 30px;
@@ -135,6 +135,18 @@
 
   a.permalink {
     text-decoration: none;
+  }
+
+  a.footnote-ref::before {
+    content: '[';
+  }
+
+  a.footnote-ref::after {
+    content: ']';
+  }
+
+  .footnotes {
+    font-size: smaller;
   }
 
   header,
