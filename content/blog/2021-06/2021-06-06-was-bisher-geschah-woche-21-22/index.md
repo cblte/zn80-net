@@ -11,7 +11,7 @@ draft: false
 ---
 
 
-Wir haben Juli und das erste halbe Jahr ist fast vorbei. Mit schnellen Schritten gehen wir weiteren Lockerungen und mehr Freiheiten entgegen. Wollen wir die Daumen drücken, dass wir diesen Sommer die Pandemie in den Griff bekommen und wir den nächsten Winter nicht erneut isoliert zu Hause sitzen müssen, oder? Aber man soll nicht immer so pessimistisch denken, denn bald sind Wahlen und dann wird vieles besser werden *hust*, *hust* &ndash; oder auch nicht.
+Wir haben Juni und das erste halbe Jahr ist fast vorbei. Mit schnellen Schritten gehen wir weiteren Lockerungen und mehr Freiheiten entgegen. Wollen wir die Daumen drücken, dass wir diesen Sommer die Pandemie in den Griff bekommen und wir den nächsten Winter nicht erneut isoliert zu Hause sitzen müssen, oder? Aber man soll nicht immer so pessimistisch denken, denn bald sind Wahlen und dann wird vieles besser werden *hust*, *hust* &ndash; oder auch nicht.
 
 {{< figure src="images/shell-gas-station.jpg" alt="Photography of an Old Shell Gasstation" caption="Image by [paulracko](https://pixabay.com/users/paulracko-1147268/)</a> from Pixabay" >}}
 
