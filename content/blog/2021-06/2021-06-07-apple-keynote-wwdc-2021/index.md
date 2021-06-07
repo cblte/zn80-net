@@ -150,7 +150,7 @@ Neben iOS und iPadOS bekommt auch WatchOS viele neue Fähigkeiten.
 - Die Fotos-App wurde überarbeitet und bietet nun Highlights und Erinnerungen
 - Fotos können jetzt von der Uhr aus mit Messages und Mail geteilt werden
 - Die App-Ablage in iMessage enthält eine Bildsuche und schnellen Zugriff auf Fotos
-- Mit Scribble kannst du jetzt Emojis in handschriftlichen Nachrichten einfügen
+- Mit Scribble kannst du jetzt Emojis in handschriftliche Nachrichten einfügen
 - Find My enthält jetzt Objekte (einschließlich der AirTags)
 - Die Wetter.app zeigt für die nächste Stunde auch den Niederschlag an
 - Apple Watch kann zum ersten Mal mehrere Timer ausführen! Juhu!
@@ -159,7 +159,7 @@ Neben iOS und iPadOS bekommt auch WatchOS viele neue Fähigkeiten.
 
 ## tvOS
 
-Ich habe hier immer noch ein Apple TV der 2. Generation liegen und habe das Geräte nicht einmal angeschlossen. Warum auch. Das Fernsehgerät kann alles was wir brauchen und HomeKit nutzen wir seit Belgien nicht mehr. Trotzdem bekommt die aktuelle Generation AppleTV nun ein paar Updates.
+Ich habe hier immer noch ein Apple TV der 2. Generation liegen und habe das Gerät nicht einmal angeschlossen. Warum auch. Das Fernsehgerät hat alle Apps die wir benutzen und HomeKit haben wir schon lange nicht mehr benutzt. Trotzdem sind Änderungen in tvOS nicht schlecht und arbeiten gut mit denen der anderen Betriebsysteme zusammen.
 
 - Unterstützung für Spatial Audio mit den AirPods und AirPods Max
 - Lossless Audio soll später im Jahr hinzukommen
@@ -172,7 +172,7 @@ Ich habe hier immer noch ein Apple TV der 2. Generation liegen und habe das Ger�
 
 Das große Feature Update nach BigSur wurde es leider nicht. Etwas unter der Haube und nichts am Design. Gut so, kann ich nur sagen, auch wenn ich noch gar nicht mitreden kann, habe ich doch noch macOS Catalina auf dem MacBook Air. Ich warte halt auf Generation 2 der Laptops!
 
-Was wohl viele freuen wird ist, ist **Universal Control**. Damit lässt sich z.B. ein iPad neben ein MacBook stellen und ich kann das Trackpad vom MacBook verwenden, um das iPad zu bedienen. Einfach so. Daneben stellen und Mauszeiger rüberziehen. Stellt man jetzt noch einen iMac links vom MacBook auf, lässt sich z.B. ganz einfach ein Bild vom iPad über das MacBook auf den iMac ziehen. Oder ein Video welches direkt in einem iMovie Projekt eingebunden wird. Schnell, sauber und effizient.
+Was wohl viele freuen wird, ist **Universal Control**. Es lässt sich damit z.B. ein iPad neben ein MacBook stellen und dann kann man das Trackpad vom MacBook verwenden, um das iPad zu bedienen. Einfach so. Daneben stellen und Mauszeiger rüberziehen. Stellt man jetzt noch einen iMac links vom MacBook auf, lässt sich z.B. ganz einfach ein Bild vom iPad über das MacBook auf den iMac ziehen. Oder ein Video welches direkt in einem iMovie Projekt eingebunden wird. Schnell, sauber und effizient.
 
 Auf iOS kennt man sie schon lange und seit ein paar Versionen können die Shortcuts richtig, richtig viel. Nun kommen sie auch auf den Mac und sollen über kurz oder lang den Automator ablösen. Automator-Workflows lassen sich von Tag eins an in die Shortcuts importieren und weiterverwenden.
 
@@ -182,7 +182,7 @@ Ebenfalls wird AirPlay aktiviert und der iMac lässt sich als Lautsprecher für 
 
 Mit einem neuen Rechner werde ich wohl wieder mehr unter macOS unterwegs sein. Daher begrüße ich das sehr, dass die Safari Webbrowser Extensions nun auch für iOS und iPadOS kommen werden. Vielleicht wird der Safari dann ja wieder den Firefox ablösen.
 
-Schön zu lesen ist auch, dass Apple sich hier mit Google, Mozilla und Microsoft an einen Tisch gesetzt hat, um die Qualität der Browser-Extensions zu verbessern. Aber auch, um eine Möglichkeit zu finden, wie man Browser-Extensions universal für alle Browser entwickeln kann, ohne für jeden Browser eine extra Version zu erstellen. Das würde vielen Entwicklner viel Arbeit ersparen.
+Schön zu lesen ist auch, dass Apple sich hier mit Google, Mozilla und Microsoft an einen Tisch gesetzt hat, um die Qualität der Browser-Extensions zu verbessern. Aber auch, um eine Möglichkeit zu finden, wie man Browser-Extensions universal für alle Browser entwickeln kann, ohne für jeden Browser eine extra Version zu erstellen. Das würde vielen Entwicklern viel Zeit und Arbeit ersparen.
 
 p.s.: [Hier meine liste an FireFox-Add-ons](https://zn80.net/sammelsurium/configs/meine-firefox-add-ons/)
 
@@ -244,7 +244,7 @@ Wie immer sei dir geraten, eine Beta-Version auf einem zweiten Mac, iPhone oder 
 
 Es wird viel neue tolle Dinge geben. Neue Geräte hat Apple allerdings (noch) nicht vorgestellt. Dennoch freue ich mich auf die neuen Versionen und die kommen Features. Besonders gut gefallen mir die Neuerungen in **FaceTime** und **Notes**. Und **iCloud+** hat es wirklich in sich und wird wohl die erste Funktion sein, die ich einschalten werde.
 
-macOS Monterey werde ich auf dem alten MacBook Air nicht mehr installieren können. Allerdings ist das mit Catalina auch mehr aus ausgelastet und bekommt, sobald der neue denn mal da ist, auch eine frische Installation. Dann kann den meine bessere Hälfte noch zum Lernen und Arbeiten benutzen.
+macOS Monterey werde ich auf dem alten MacBook Air nicht mehr installieren können. Allerdings ist das mit Catalina auch mehr als ausgelastet und bekommt, sobald der Neue denn mal da ist, eine frische Installation. Meine bessere Hälfte kann den "Alten" noch zum Lernen und Arbeiten benutzen. Dafür ist er mehr als ausreichend.
 
 In diesem Sinne. Ich hoffe, es hat dir gefallen und du freust dich ebenso wie ich auf die vielen neuen Features, die da kommen werden. Hier drunter sind noch ein paar Links zum weiterlesen.
 
