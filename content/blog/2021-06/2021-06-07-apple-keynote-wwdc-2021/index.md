@@ -98,7 +98,6 @@ Die AirPods bekommen ein Update und endlich kann man sie auch in der **Find My**
 
 Im Prinzip ist das eine Art Hörgerät-Funktion. Das kann in einer lauten Umgebung von Vorteil sein oder aber auch einfach gut sein, wenn man nicht mehr so gut hört. Meine Frau wird das wohl begrüßen und hat mir geraten, dass ich das auf jeden Fall einschalten soll, wenn es verfügbar ist ;-).
 
-
 ## iPadOS 15
 
 Seit gut einem dreiviertel Jahr sind auch wir Besitzer eines iPad Pro und mit iOS 15 wird es hier einige Verbesserungen geben, die wir sehr begrüßen.
@@ -107,13 +106,13 @@ Seit gut einem dreiviertel Jahr sind auch wir Besitzer eines iPad Pro und mit iO
 - Eine App-Library wie auf dem iPhone. Ist uns jetzt nicht so wichtig. Ich sortiere meine Apps alle in einen Ordner und meine Frau verteilt ihre so wie sie sie braucht. Sie ist schließlich Hauptnutzer.
 - Homescreens können nun ebenfalls wie auf dem iPhone versteckt werden.
 - Apps lassen sich bei Seite schieben, wenn man einen Blick auf den Homescreen werfen will. Öffnet man dann eine App, geht automatisch der SplitView-Modus an.
-- SplitView geht jetzt noch einfacher. Am oberen Rand gibt in iPadOS 15 gibt es jetzt neue Bedienelemente, mit dem sich der SplitView-Modus besser bedienen lässt.
-- Apps lassen sich bei Bedarf auf ein virtuelles Regal schieben, das/den/die _Shelf_ (wie auch immer). Im SplitView ermöglicht das, dass man einzelne Apps temporär "hoch" holen kann um z.B. etwas nachzuschlagen.
+- SplitView geht jetzt noch einfacher. Am oberen Rand gibt es in iPadOS 15 jetzt neue Bedienelemente, mit denen sich der SplitView-Modus besser bedienen lässt.
+- Apps lassen sich bei Bedarf auf ein virtuelles Regal schieben, das _Shelf_. Im SplitView ermöglicht das, dass man einzelne Apps temporär ablegen kann um sie bei Bedarf "hoch holen" zu können, um z.B. etwas nachzuschlagen.
 
-Aber das ist noch nicht alles. Auch die Multitasking-Funktion wurde überarbeitet und einige Apps wurden, unter anderem Notes bekommen neue Funktionalitäten.
+Aber das ist noch nicht alles. Auch die Multitasking-Funktion wurde überarbeitet. Besonders freue ich mich über die Änderungen in der Notizen.app.
 
 - Mit Multitasking kannst du nun einzelne Apps hervorholen. Zum Beispiel eine einzelne E-Mail die dann mittig über den beiden Apps im SplitView liegt.
-- In der Notizen.app kann man nun Tags einsetzen. Eine wirklich sinnvolle Ergänzung, die ich in der App Bear sehr zu schätzen weiß. Auch lassen sich Benutzer mit einem vorangestellten '@' erwähnen und werden benachrichtigt.
+- In der Notizen.app kann man nun Tags einsetzen. Eine wirklich sinnvolle Ergänzung, die aus der App [Bear](https://bear.app/) kennen und sehr zu schätzen weiß. Auch lassen sich Benutzer mit einem vorangestellten '@' erwähnen und werden automatisch benachrichtigt.
 - Die Übersetzen.app kann nun in Echtzeit gesprochene Konversationen übersetzen. Man muss also nicht immer warten. Denke ich mal. Außerdem ist die App nun auf allen drei Systemen verfügbar.
 
 Die größte Neuerung in iPadOS 15 ist aber die Möglichkeit, auf die sehr viele Leute sehnsüchtig gewartet haben: **Apps entwickeln auf dem iPad wird endlich wahr!** Richtig. Der Swift-Playground kommt auf das iPad und es lassen sich damit ganze Apps entwickeln die man dann auch im AppStore zur Schau stellen kann. Super!
