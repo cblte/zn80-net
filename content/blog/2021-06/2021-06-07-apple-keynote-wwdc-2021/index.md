@@ -1,6 +1,6 @@
 ---
-title: "Was Bisher Geschah – Woche 21-22"
-date: "2021-06-06T12:20:49+02:00"
+title: "Apple Keynote zur WWDC 2021"
+date: "2021-06-07T23:00:00+02:00"
 tags:
 - "100daystooffload"
 - "Apple"
@@ -12,6 +12,7 @@ draft: false
 100dto: 94
 ---
 
+{{< figure src="images/apple-wwdc-2021.png" alt="Apple WWDC Keynote 2021" >}}
 
 Heute war die Apple Keynote mit der die WWDC 2021 eröffnet wurde. Es gab so viel Neuerungen, dass ich das hier alles gar nicht hinschreiben kann. Ich habe es versucht und dann aber nur noch Stichpunkte gemacht, weil es einfach so viel neues gibt was da runtergerattert wurde. Im warsten Sinne des Wortes. Daher mache ich es kurz und liste die mir wichtigen Dinge Stichpunkt artig auf. Die langen ausführlichen Artikel verlinke ich dann die Tage, sobald ich sie finde. 
 
@@ -246,6 +247,8 @@ macOS Moneterey werde ich auf dem alten MacBook Air nicht mehr installieren kön
 
 In diesem Sinne. Ich hoffe es hat dir gefallen und du freust dich ebenso wie ich auf die vielen neuen Features die da kommen werden. Machs gut und bis bald!
 
+{{< figure src="images/wwdc-2021-keynote-ende.jpeg" alt="WWDC Keynote Ende" >}}
+
 ### Links
 
 - [apple.com](https://www.apple.com/)
@@ -254,4 +257,5 @@ In diesem Sinne. Ich hoffe es hat dir gefallen und du freust dich ebenso wie ich
 - [iPadOS 15 Preview](https://www.apple.com/ipados/ipados-preview/)
 - [macOS Monterey Preview](https://www.apple.com/macos/monterey-preview/)
 - [watchOS 8 Preview](https://www.apple.com/watchos/watchos-preview/)
-- 
+- [iOS 15 Stock Light and Dark Wallpaper](https://twitter.com/AR72014/status/1401988090177245190)
+- [iOS15 Concept Wallpapers](https://drive.google.com/drive/folders/1DHqxK7RvlF-yHUbNcZgkK3JLhtURUuyL)
