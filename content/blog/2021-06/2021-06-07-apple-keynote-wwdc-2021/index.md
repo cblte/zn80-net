@@ -131,7 +131,17 @@ Apropos Sicherheit und Privatsphäre. Apple hat mit **iCloud+** neue Dienste run
 
 Mit **Private Relay** führt Apple ein Art VPN ein. Der gesamte Traffic vom Gerät wird verschlüsselt durch mindestens zwei Relays gesendet. Apple sagt, dass nicht einmal Apple da reingucken kann. Klingt tatsächlich wie ein Apple VPN.
 
+Update 08.07.2021: Private Relay wird es nicht in China geben! Ebenso wenig wird es in Belarus, Ägypten, Saudi Arabien, Südafrika und einigen anderen Staaten erscheinen. Schade eigentlich, würde es den Menschen in einigen dieser Staaten doch immense von nutzen sein.
+
+Update 08.07.2021: Private Relay funktioniert so, dass die Verbindung über zwei Knoten aufgebaut wird. Der erste Knoten/Server wird von Apple bereitgestellt, der zweite Knoten/Server von einem Drittanbieter. Welche das seien werden hat Apple noch nicht bekannt gegeben.
+
 **Hide my Email** hingegen ist neues Feature, welches in Mail, Safari und anderen Diensten Einzug findet. Das ist ein _Anmelden mit Apple_ nun für alles wo man seine E-Mail-Adresse hinterlegen muss. Bei [Mailbox.org](https://mailbox.org) (ein hervorragender E-Mail-Anbieter übrigens) gibt es die Möglichkeit temporäre E-Mail-Adresse anzulegen. Diese gelten aber nur für 30 Tage. Der Dienst von Apple ist ähnlich. Wie lange die Adressen bestehen bleiben bleibt abzuwarten. Auf jeden Fall aber eine perfekte Ergänzung zu _Anmelden mit Apple_.
+
+Update 08.07.2021: Auf der [iOS15 preview page](https://www.apple.com/ios/ios-15-preview/features/) steht:
+
+> Personalize your iCloud Mail address with a custom domain name, and invite family members to use the same domain with their iCloud Mail accounts.
+
+Aus dem Grund, dass ich meine eigene Domain benutzen kann, habe ich einen großen Teil meiner E-Mail-Kommunikation zu Mailbox.org umgezogen. Es ist schön zu sehen, dass Apple den Schritt geht und diese Funktion ebenfalls anbietet. Allerdings gibt es noch keine genauen Angaben darüber, wie das Teilen mit Familienmitglieder funktioniert.
 
 Ebenfalls hat Apple gesagt, dass man den Preis für iCloud Dienste nicht erhöhen will. Es gibt also mehr Privatsphäre für den gleichen Preis. Gut gemacht, Apple!
 
