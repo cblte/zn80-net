@@ -2,6 +2,9 @@
 title: "Popcorn für die BigBrotherAwards"
 date: 2021-06-10T15:49:20+02:00
 draft: false
+tags:
+- "BigBrotherAwards"
+- "Digitalcourage"
 ---
 
 **Hurra!**
