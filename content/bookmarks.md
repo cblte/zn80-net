@@ -74,6 +74,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 ## GnuPG / OpenPGP
 
 - [keys.openpgp.org](https://keys.openpgp.org/) -- öffentlicher Service für die Verteilung von OpenPGP-Schlüsseln
+- [keybase.io](https://keybase.io) -- End-to-end encryption for things that matter. Keybase is secure messaging and file-sharing.
 
 
 ## News
