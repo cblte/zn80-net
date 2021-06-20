@@ -6,7 +6,7 @@ tags:
 - "was-bisher-geschah"
 # description = ""
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
-draft: true
+draft: false
 100dto: 96
 ---
 
