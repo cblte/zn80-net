@@ -10,6 +10,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [Collections of Websites](#collections-of-websites)
 - [E-Mail-Anbieter](#e-mail-anbieter)
 - [File hoster / file sharing](#file-hoster--file-sharing)
+- [Firewall](#firewall)
 - [GnuPG / OpenPGP](#gnupg--openpgp)
 - [News](#news)
 - [Online-Tools](#online-tools)
@@ -45,7 +46,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [tinyjpg](https://tinyjpg.com) -- optimize images
 - [Unsplash.com](https://unsplash.com/) -- kostenfreie Bilder
 
-## Blogging 
+## Blogging
 
 - [Bearblog](https://bearblog.dev) -- A privacy-first, no-nonsense, super-fast blogging platform
 - [Mataroa](https://mataroa.blog/) -- Clean blogging platform. Just write.
@@ -55,7 +56,6 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 - [512kb Club](https://512kb.club)
 - [250kb Club](https://250kb.club)
-
 
 ## E-Mail-Anbieter
 
@@ -71,11 +71,16 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [0x0](https://0x0.st/) -- Null Poiner
 - [croc](https://github.com/schollz/croc) command line file sharing ( [Schollz Blog](https://schollz.com/blog/croc6/) )
 
+## Firewall
+
+- [LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html) -- Firewall für macOS. Kostet 45 Euro oder mehr für die Familie
+- [Hands Off!](https://www.oneperiodic.com/products/handsoff/) -- Firewall für macOS. 45 Dollar für Neukunden, 15 Dollar als Upgradepreis.
+- [Scudo](https://murusfirewall.com/scudo/) -- Firewall für macOS. 10 Euro Single User, 15 Euro für die 5 User-License. 
+
 ## GnuPG / OpenPGP
 
 - [keys.openpgp.org](https://keys.openpgp.org/) -- öffentlicher Service für die Verteilung von OpenPGP-Schlüsseln
 - [keybase.io](https://keybase.io) -- End-to-end encryption for things that matter. Keybase is secure messaging and file-sharing.
-
 
 ## News
 
@@ -116,8 +121,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [Big Blue Button](https://bigbluebutton.org/)
 - [Jitsi](https://jitsi.org/) -- More secure, more flexible, and
 completely free video conferencing
-- [Senfcall.de](https://senfcall.de/) -- Privatsphäre respektierende Videokonferenzen 
-
+- [Senfcall.de](https://senfcall.de/) -- Privatsphäre respektierende Videokonferenzen
 
 ## Web Development
 
@@ -128,6 +132,3 @@ completely free video conferencing
 
 - [Windows 10 Ameliorated](https://ameliorated.info/) -- *Windows 10 Minus The Spyware + Added Stability and Security*
 - [Windows 10 ISO Download Link](https://www.microsoft.com/software-download/windows10ISO)
-
-
-
