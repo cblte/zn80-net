@@ -1,5 +1,6 @@
 ---
 title: Influencer - Die Ideologie der Werbekörper
+slug: influencer-die-ideologie-der-werbekoerper
 date: 2021-06-21T21:48:48+02:00
 tags: 
 - Gedanken
