@@ -25,6 +25,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 ## Aktivisten
 - [cryptome.org](https://cryptome.org/) -- Webseite des Aktivisten John Young, der sich darauf vor allem für eine uneingeschränkte Meinungs- und Informationsfreiheit einsetzt.
+- [PublicIntelligence](https://publicintelligence.net/) -- Webseite die Daten und Dokumente von Wissenschaftlern sammelt und für das Recht auf freie Informationen eintritt.
 
 
 ## Awesome Lists
