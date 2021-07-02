@@ -1,12 +1,13 @@
-+++
-title = "Briefankündigung endlich auch bei der Deutschen Post"
-publishDate = "2020-08-05T20:00:00.000Z"
-lastmod = "2021-04-15"
-tags = ["Aufreger", "Linkpost"]
-+++
+---
+title: "Briefankündigung endlich auch bei der Deutschen Post"
+publishDate: "2020-08-05T20:00:00.000Z"
+lastmod: "2021-04-15"
+tags:
+- "Linkpost"
+---
 
 > Briefankündigung per E-Mail: Neuer Service der Deutschen Post für WEB.DE und GMX Nutzer
-> 
+>
 > Ab Sommer 2020 wachsen analoge und digitale Post zusammen. Für den neuen Service “Briefankündigung” kooperiert die Deutsche Post AG mit den E-Mail-Anbietern WEB.DE und GMX. Künftig können sich Kunden per E-Mail über Briefe benachrichtigen lassen, bevor sie vom Postzusteller in den Hausbriefkasten ei…
 Quelle [web.de]](https://web.de/magazine/in-eigener-sache/briefankuendigung-e-mail-service-deutschen-post-webde-gmx-nutzer-34484032)
 

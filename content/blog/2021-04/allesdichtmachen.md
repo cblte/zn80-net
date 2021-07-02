@@ -1,10 +1,13 @@
-+++
-title = "allesdichtmachen"
-date = "2021-04-22T23:44:19+02:00"
-lastmod = "2021-04-23T09:30:00+02:00"
-tags = ["100DaysToOffload", "Linkpost", "YouTube", "Satire","allesdichtmachen"]
-100dto = 80
-+++
+---
+title: "allesdichtmachen"
+date: "2021-04-22T23:44:19+02:00"
+lastmod: "2021-04-23T09:30:00+02:00"
+tags:
+- "100DaysToOffload"
+- "Linkpost"
+- "YouTube"
+100dto: 80
+---
 
 Hinter den Hashtags [#allesdichtmachen](https://twitter.com/hashtag/allesdichtmachen), [#niewiederaufmachen](https://twitter.com/hashtag/niewiederaufmachen) und [#lockdownfürimmer](https://twitter.com/hashtag/**lockdownfürimmer**) stehen einige Schauspieler und Künstler, die sich in Videos über die Corona-Maßnahmen kritisieren. Erst habe ich das für eine gut gemacht Werbeaktion gehalten, muss aber auch eingestehen, dass die Videos nicht mehr so lustig sind, wenn man da mal eine Nacht drüber geschlafen hat.
 

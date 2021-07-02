@@ -1,7 +1,7 @@
 +++
 title = "BigBrother Awards 2020"
 publishDate = "2020-09-22T11:10:00.000Z"
-tags = ["Linkpost", "CCC", "BigBrotherAwards", "Digitalcourage"]
+tags = ["Linkpost", "Digitalcourage"]
 +++
 
 

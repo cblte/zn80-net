@@ -1,7 +1,7 @@
 +++
 title = "Die Oscars für Datenkraken"
 publishDate = "2020-09-18T10:14:00.000Z"
-tags = ["Digitalcourage", "Linkpost", "BigBrotherAwards"]
+tags = ["Digitalcourage", "Linkpost"]
 +++
 
 
