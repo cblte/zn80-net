@@ -4,6 +4,7 @@ title: Bookmarks
 
 Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-Manager aussortiert habe. Mithilfe des Inhaltsverzeichnisses, kannst du schnell zu einer Unterkategorie springen
 
+- [Aktivisten](#aktivisten)
 - [Awesome Lists](#awesome-lists)
 - [Bilder](#bilder)
 - [Blogging](#blogging)
@@ -21,6 +22,9 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [Web Development](#web-development)
 - [Windows Things](#windows-things)
 
+
+## Aktivisten
+- [cryptome.org](https://cryptome.org/) -- Webseite des Aktivisten John Young, der sich darauf vor allem für eine uneingeschränkte Meinungs- und Informationsfreiheit einsetzt.
 
 
 ## Awesome Lists
@@ -41,7 +45,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 ## Bilder
 
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
-- [Emojipedia](https://emojipedia.org/) 
+- [Emojipedia](https://emojipedia.org/)
 - [pixabay.de](https://pixabay.com/de) -- kostenfreie Bilder
 - [ShortPixel.com](https://shortpixel.com/) -- Websiten Bilder optimieren
 - [tinyjpg](https://tinyjpg.com) -- optimize images
@@ -76,7 +80,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 - [LittleSnitch](https://www.obdev.at/products/littlesnitch/index.html) -- Firewall für macOS. Kostet 45 Euro oder mehr für die Familie
 - [Hands Off!](https://www.oneperiodic.com/products/handsoff/) -- Firewall für macOS. 45 Dollar für Neukunden, 15 Dollar als Upgradepreis.
-- [Scudo](https://murusfirewall.com/scudo/) -- Firewall für macOS. 10 Euro Single User, 15 Euro für die 5 User-License. 
+- [Scudo](https://murusfirewall.com/scudo/) -- Firewall für macOS. 10 Euro Single User, 15 Euro für die 5 User-License.
 
 ## GnuPG / OpenPGP
 
