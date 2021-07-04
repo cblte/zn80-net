@@ -46,7 +46,7 @@ POST_FOLDER=${DATE}-${TITLE_STRIPPED}
 # Full path to the blog post
 BLOGPOST_FOLDER=${HUGO_POSTS_DIR}${SUB_FOLDER}${POST_FOLDER}
 
-HUGO_DATE=$(date +'%Y-%m-%dT%T%:z')
+HUGO_DATE=$(date +'%Y-%m-%dT%T%z')
 # COMMANDS
 #######################################################
 
@@ -59,12 +59,12 @@ touch ${BLOGPOST_FOLDER}/index.md
 echo -e "---
 title: \"${TITLE}\"
 date: \"${HUGO_DATE}\"
-tags: 
+tags:
 # description = \"\"
-# 100dto : 
+# 100dto :
 draft: true
 
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
+# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
 
 Insert Text here
