@@ -3,8 +3,10 @@ title: "Was bisher geschah - Woche 21-25/26"
 slug: "was-bisher-geschah-woche-21-25-26"
 date: "2021-07-04T13:44:22+02:00"
 tags:
+- 100DaysToOffload
+- "Was bisher geschah"
 # description = ""
-# 100dto :
+100dto : 98
 draft: false
 
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
