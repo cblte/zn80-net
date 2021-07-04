@@ -34,9 +34,9 @@ Neben all den handwerklichen Tätigkeiten möchte ich mich dann aber auch mit de
 
 Ich habe lange gewartet und gehofft, dass zur WWDC vielleicht ein neues MacBook Pro erscheint. Das habe aber nicht nur ich, sondern auch sehr viele andere gedacht. Trotz vieler Gerüchte und Spekulationen, kam keine neue Hardware. Die Gerüchte, die aktuell durchs Netz kreisen, prognostizieren den Oktober als mögliches Releasedatum für neue Hardware. Doch so lange möchte ich jetzt auch nicht mehr warten. Ich habe ein gutes Angebot gesehen und heute Nacht zugeschlagen! Es ist jetzt ein MacBook Air mit 8 GB Speicher und 512 GB SSD geworden.
 
-Ich weiß, ich weiß, ich habe davon gesprochen, dass ich keines mit 8 GB Speicher kaufen wollte und unbedingt eines mit 16 GB haben wollte. Die Erfahrungsberichte der letzten Monate jedoch gezeigt, dass die M1 Chips mit sehr viel weniger RAM auskommen und so viel Power haben, dass die 16 GB wirklich nur gebraucht werden, wenn man 8K Videoschnitt machen möchte. Ich habe nicht einmal ein Gerät, welches in so hoher Auflösung aufzeichnen könnte.
+Ich weiß, ich weiß, ich habe davon gesprochen, dass ich keines mit 8 GB Speicher kaufen wollte und unbedingt eines mit 16 GB haben wollte. Die Erfahrungsberichte der letzten Monate jedoch zeigten, dass die M1 Chips mit sehr viel weniger RAM auskommen und so viel Power haben, dass die 16 GB wirklich nur gebraucht werden, wenn man 8K Videoschnitt machen möchte. Ich habe nicht einmal ein Gerät, welches in so hoher Auflösung aufzeichnen könnte.
 
-Ich werde jetzt vom alten Laptop noch eine Sicherung machen und meine Dateien ein wenig sortieren und etwas aufräumen, sodass ich meine Daten reibungslos auf das neue Gerät umziehen kann. Dadurch das ich erst jetzt umsteige, steige schon sehr viele Programme angepasst und laufen nativ.
+Ich werde jetzt vom alten Laptop noch eine Sicherung machen und meine Dateien ein wenig sortieren und etwas aufräumen, sodass ich meine Daten reibungslos auf das neue Gerät umziehen kann. Dadurch das ich erst jetzt umsteige, sind schon sehr viele Programme angepasst und laufen nativ auf der Apple Silicon Architektur.
 
 ## Meine Lieblingslinks der Woche
 
@@ -47,7 +47,7 @@ Und damit kommen wir zu den Links der Woche.
 - Neben GrokTiddlyWiki habe ich noch https://tiddlywiki.psat.com.au/TW5NewUser.html gefunden. Dieses TiddlyWiki ist, auch wenn es bisher nur ein "Entwurf" ist, schon ziemlich fortgeschritten. Es gibt einiges zu entdecken welches sich für das eigene Wiki bestimmt gebrauchen lässt.
 - Für alle FireFox Nutzer gibt es dann noch Tabliss new tab add-on https://addons.mozilla.org/de/firefox/addon/tabliss/ _A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions._ Neue Tabs in schönem Gewand. Finde ich gut!
 
-Und damit sind wir auch schon am Ende. Ich schaue mir jetzt noch mal das Video mit dem Tipps zu macOS Big Sur.
+Und damit sind wir auch schon am Ende. Ich schaue mir jetzt noch mal das Video mit den Features von [macOS Big Sur](https://www.youtube.com/watch?v=I3oR8wQPFxI) an.
 
 ---
 
