@@ -1,6 +1,6 @@
 ---
 title: "Endlich Wochenende"
-date: "2021-07-02T22:22:37:z"
+date: "2021-07-02T22:22:37+02:00"
 tags:
 - 100DaysToOffload
 - Gedanken
