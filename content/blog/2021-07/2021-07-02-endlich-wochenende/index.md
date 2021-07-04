@@ -6,7 +6,7 @@ tags:
 - Gedanken
 # description = ""
 100dto: 97
-draft: true
+draft: false
 
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
