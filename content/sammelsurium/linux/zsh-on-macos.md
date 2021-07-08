@@ -1,6 +1,10 @@
-
-
-## What should be used in ZSH on a Mac
+---
+title: "What should be used in ZSH on a Mac"
+date: 2021-07-08
+draft: false
+category: linux
+description: "Basic Information about the ZSH  "
+---
 
 I posted a more narrowly scoped question on Unix & Linux and got some clarification on how these files "work." Here's the summary of that answer and what I've learned in my research as to what, in my opinion should be used in a ZSH environment on a Mac.
 
