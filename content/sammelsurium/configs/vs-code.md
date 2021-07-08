@@ -4,7 +4,6 @@ date: 2021-05-24
 draft: false
 category: Configs
 description: "My config files for Visual Studio Code."
-
 ---
 
 This is how I setup my VS Code. I mostly use it for reading/writing markdown and Go.
