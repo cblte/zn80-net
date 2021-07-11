@@ -75,8 +75,6 @@ Noch etwas für auf die Ohren: [Dark Pattern - Wie wir im Netz manipuliert werde
 
 Zum Schluss möchte ich noch einen Tweet zitieren der mir in diesen Tage sehr gut gefallen hat:
 
-<embetty-tweet status="1412739260915007490"></embetty-tweet>
-
 {{< tweet 1412739260915007490 >}}
 
 <!--more-->
