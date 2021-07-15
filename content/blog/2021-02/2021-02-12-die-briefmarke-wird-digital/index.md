@@ -1,8 +1,10 @@
 ---
-lastmod: "2021-02-12T17:14:41.000Z"
-publishDate: "2021-02-12T07:13:33.000Z"
+lastmod: "2021-02-12T17:14:41+02:00"
+publishDate: "2021-02-12T07:13:33+02:00"
 slug: die-briefmarke-wird-digital
 title: Die Briefmarke wird digital
+tags: 
+- 100DaysToOffload
 100dto: 71
 ---
 
