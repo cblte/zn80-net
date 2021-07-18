@@ -7,7 +7,7 @@ tags:
 - Privacy
 - iOS
 - 100DaysToOffload
-100dto = 79
+100dto: 79
 ---
 
 Auch wenn Apple heute ein paar tolle neue Geräte vorgestellt hat, so ist doch wohl die Ankündingung, dass mit iOS 14.5 dem Tracking endlich Einhalt geboten wird. In der neuen Version muss der Nutzer dann explizit jeder App eine Erlaubnis erteilen, ob es Tracking verwenden darf. Facebook ist darüber natürlich überhaupt nicht erfreut und hat mit großen Worten und Anzeigen viel heiße Luft produziert. 
