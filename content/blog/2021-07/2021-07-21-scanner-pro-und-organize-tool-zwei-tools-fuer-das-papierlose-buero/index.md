@@ -28,7 +28,7 @@ Ist der Dateiname vergeben, speichere ich das Dokument und es wird per iCloud au
 
 ## organize-tool – command line utility to automate file organization tasks
 
-{{< figure src="images/organize-tool.jpg" alt="Organize Tool" caption="Organize Tool (http://github.com/tfeldmann/organize)" >}}
+{{< figure src="images/organize-tool.jpg" alt="Organize Tool" caption="Organize Tool (<http://github.com/tfeldmann/organize>)" >}}
 
 Früher habe ich die Organisation mit [Hazel] gemacht. Allerdings bin ich dazu übergegangen doch mehr Open-Source-Software zu verwenden und habe in den letzten zwei Tagen das [organize-tool] ausprobiert. Ich bin positiv überrascht, dass sich damit ziemlich schnell funktionieren Abläufe schreiben kann.
 
