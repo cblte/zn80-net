@@ -5,4 +5,4 @@ FILENAME="$(date +'%H%M%S')"
 
 hugo new microblog/$FOLDER/$FILENAME.md
 cd content/microblog/$FOLDER
-codium $FILENAME.md
+subl $FILENAME.md
