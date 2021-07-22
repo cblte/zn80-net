@@ -104,6 +104,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [lesspass](https://lesspass.com) -- Password Generator
 - [loband.com](http://www.loband.org/loband/) -- Wie langsam ist deine Webseite?
 - [nymbos.xyz](https://nymbus.xyz/) -- Password Generator
+- [OKSMS](https://oksms.org/) -- Online temporary SMS verification
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 - [tinyjpg](https://tinyjpg.com) -- optimize images
 - [XKCD-style Graphs](http://xkcdgraphs.com/) -- Create your own XKCD-style graphs
