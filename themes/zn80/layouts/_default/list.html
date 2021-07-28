@@ -1,12 +1,6 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
-{{ if .Data.Singular }}
-<h3 style="margin-bottom:0">Filtering for "{{ .Title }}"</h3>
-<small>
-  <a href="{{ "/blog" | relURL }}">Remove filter</a>
-</small>
-{{ end }}
 
 {{ range .Pages.GroupByDate "2006-01" }}
   <h2>{{ .Key }}</h2>
