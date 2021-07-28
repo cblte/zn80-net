@@ -14,7 +14,7 @@ enableEmoji = true
 paginate = 5
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
+# disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "/:year/:month/:slug/"
