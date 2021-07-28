@@ -1,9 +1,14 @@
-+++
-title = "iOS 14 WiFi und GPS Sicherheitsfeatures"
-publishDate = "2020-10-01T11:47:00.000Z"
-tags = ["100DaysToOffload", "Datenschutz", "Privacy"]
-100dto = 25
-+++
+---
+title: "iOS 14 WiFi und GPS Sicherheitsfeatures"
+publishDate: "2020-10-01T11:47:00.000Z"
+tags: 
+- "100DaysToOffload"
+- "Datenschutz"
+- "Privacy"
+100dt: 25
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Nein, ich will heute nicht über die ganzen [Homescreens](https://twitter.com/search?q=%23ios14homescreen) reden, sondern über die Features, die Apple in iOS 14 eingebaut, die aber wohl den wenigsten aufgefallen sind.
 

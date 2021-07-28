@@ -1,9 +1,15 @@
-+++
-title = "Apple Event: Hi, Speed."
-publishDate = "2020-10-12T20:00:00.000Z"
-tags = ["100DaysToOffload", "Apple", "Apple Event", "iPhone"]
-100dto = 30
-+++
+---
+title: "Apple Event: Hi, Speed."
+publishDate: "2020-10-12T20:00:00.000Z"
+tags:
+- "100DaysToOffload"
+- "Apple"
+- "Apple Event"
+- "iPhone"
+100dto: 30
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Das Apple Event ist vorbei und wir bekommen, wie schon vorausgesagt, ein neues iPhone mit [5G Technologie](https://de.wikipedia.org/wiki/5G), Keramik-Glas und einem neuen Design. Und was soll ich euch sagen? Mit dem Design und diesem Keramik-Schild haben sie mich ja fast gehabt. Dennoch wird es erstmal kein neues Telefon geben, haben wir doch erst im Dezember '19 unsere *iPhone 11* gekauft. Wohlgemerkt nachdem ich über 4 Jahre mit einem 7er unterwegs was.
 

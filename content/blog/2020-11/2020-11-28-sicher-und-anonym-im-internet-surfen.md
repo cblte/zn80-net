@@ -9,6 +9,8 @@ tags:
 - Crypto Wars
 title: Sicher und Anonym im Internet surfen
 100dto: 50
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Vorgestern Abend fand der zweite von vier Vorträgen der [Hochschulgruppe Bielefeld | Digitalcourage](https://digitalcourage.de/hochschulgruppe-bielefeld) aus Bielefeld statt. Das Thema war **Spurenarmes und anonymes Surfen** und drehte sich hauptsächlich um den Einsatz von Firefox mit ein paar guten Add-ons und der Benutzung des Tor-Browsers.

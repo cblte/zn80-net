@@ -1,11 +1,14 @@
 ---
+title: Gestern war Datenschutztag
 lastmod: "2021-01-29T13:00:00.000Z"
 publishDate: "2021-01-29T13:00:00.000Z"
 slug: gestern-war-datenschutztag
 tags:
 - 100DaysToOffload
-title: Gestern war Datenschutztag
+- Datenschutz
 100dto: 67
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="silas-kohler-C1P4wHhQbjM-unsplash.jpg" alt="Photo by Silas Köhler" caption="Photo by [Silas Köhler](https://unsplash.com/@silas_crioco)" >}}

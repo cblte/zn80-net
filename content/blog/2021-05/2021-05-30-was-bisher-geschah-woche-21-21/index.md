@@ -7,6 +7,8 @@ tags:
 - Was bisher geschah
 draft: false
 100dto: 92
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Es ist die 21. Woche und endlich dürfen wir uns auf besser Wetter freuen. Die Sonne hat die vielen Regenwolken verdrängt und bei blauem Himmel erfreuen wir uns der sommerlichen Temperaturen.

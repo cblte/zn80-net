@@ -1,9 +1,14 @@
-+++
-title = "Brücken nachbauen von Euro-Scheinen"
-publishDate = "2020-09-26T11:20:00.000Z"
-tags = ["100DaysToOffload", "Gedanken", "Niederlande"]
-100dto = 22
-+++
+---
+title: Brücken nachbauen von Euro-Scheinen
+publishDate: '2020-09-26T11:20:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Gedanken
+  - Niederlande
+100dto: 22
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Als die Euro-Scheine damals entworfen wurden, hat man für das Design europäische Brücken gewählt, die sonst nirgends zu finden sind. Man woll halt kein Land bevorzugen oder benachteiligen.
 

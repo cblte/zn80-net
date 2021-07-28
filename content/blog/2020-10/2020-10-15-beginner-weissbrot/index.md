@@ -1,9 +1,12 @@
-+++
-title = "Beginner-Weißbrot"
-publishDate = "2020-10-15T14:54:00.000Z"
-tags = ["100DaysToOffload", "Brot backen"]
-100dto = 33
-+++
+---
+title: "Beginner-Weißbrot"
+publishDate: "2020-10-15T14:54:00.000Z"
+tags: ["100DaysToOffload", "Brot backen"]
+100dto: 33
+categories:
+  - 100 Days To Offload - Season 1
+---
+
 
 Heute und morgen will ich mich mal am Brotbacken versuchen. Auch wenn ich das bisher immer meiner Frau überlassen habe, will ich das jetzt auch mal versuchen. Was bietet sich da also besser an, als ein Beginner-Weißbrot vom [BrotDoc](https://brotdoc.com/2013/03/13/beginner-weisbrot/)
 

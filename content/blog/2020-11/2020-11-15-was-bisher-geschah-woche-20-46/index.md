@@ -5,6 +5,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah - Woche 20-46
 100dto: 44
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Die Woche hatte so schön angefangen. Joe Biden wird der neue Präsident der USA. Kamala Harris die erste weibliche und farbige Vize-Präsidentin, Apple bringt neue schöne Macs heraus und verschickt HomePod minis und iPhones. Doch dann kam Trump noch mal daher und auch die EU versucht es noch mal mit dem Aushebeln der Privatsphäre. Und die Corona-Leugner und Covidioten halten sich wieder mal nicht an Auflagen. Ach, es hätte so schön werden können. 

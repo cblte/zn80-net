@@ -1,4 +1,5 @@
 ---
+title: Was bisher geschah - Woche 21-11
 lastmod: "2021-03-21T20:56:24.000Z"
 publishDate: "2021-03-21T20:56:24.000Z"
 slug: was-bisher-geschah-woche-21-11
@@ -7,8 +8,9 @@ tags:
 - 100DaysToOffload
 - Golang
 - Kopfhörer
-title: Was bisher geschah - Woche 21-11
 100dto: 76
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}

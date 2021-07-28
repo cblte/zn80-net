@@ -4,9 +4,9 @@ date: "2021-07-15T16:48:00+02:00"
 tags:
 - 100DaysToOffload
 - offenesblog.de
-- Gedanken
 100dto: 100
 draft: false
+  - 100 Days To Offload - Season 1
 ---
 
 Dieses ist er nun, der einhundertste Beitrag zur Serie 100 Days To Offload. Es hat länger gedauert als ich gedacht habe, ich habe es nicht immer geschafft, mehrere Beiträge pro Woche zu schreiben. Aber ich denke, das ist auch gar nicht so wichtig. Viel wichtiger ist, dass man überhaupt etwas schreibt und seine Meinung, seine Ideen oder einfach nur ein paar Gedanken zu Papier bzw. auf den Bildschirm bringt.

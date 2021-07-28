@@ -1,11 +1,13 @@
 ---
+title: Rollschleifer. Mehr Möglichkeiten. Mehr Schärfe.
 publishDate: "2021-02-24T08:38:47.000Z"
+slug: rollschleifer-mehr-moeglichkeiten-mehr-schaerfe
 tags:
 - 100DaysToOffload
 - Rollschleifer
-title: Rollschleifer. Mehr Möglichkeiten. Mehr Schärfe.
-slug: rollschleifer-mehr-moeglichkeiten-mehr-schaerfe
 100dto: 73
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/screenshot-horl-de.jpg" alt="HORL Webseite" >}}

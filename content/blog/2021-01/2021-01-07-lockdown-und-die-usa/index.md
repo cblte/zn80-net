@@ -1,11 +1,13 @@
 ---
+title: Lockdown und die USA
 lastmod: "2021-01-07T09:06:14.000Z"
 publishDate: "2021-01-07T09:06:14.000Z"
 slug: lockdown-und-die-usa
 tags:
 - 100DaysToOffload
-title: Lockdown und die USA
 100dto: 61
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="pexels-miguel-montejano-1152831" alt="We are closed" caption="Foto von [Miguel Montejano](https://www.pexels.com/de-de/foto/entschuldigung-wir-sind-geschlossen-1152831/)" >}}

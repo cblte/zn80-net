@@ -1,9 +1,15 @@
-+++
-title = "Was bisher geschah – Woche 20-36"
-publishDate = "2020-09-06T10:08:00.000Z"
-tags = ["100DaysToOffload", "Was Bisher Geschah", "Logbuch:Netzpolitik", "Drecksblatt"]
-100dto = 16
-+++
+---
+title: Was bisher geschah – Woche 20-36
+publishDate: '2020-09-06T10:08:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Was Bisher Geschah
+  - Logbuch Netzpolitik
+  - Drecksblatt
+100dto: 16
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Einen schönen guten Morgen. Die Woche war ruhig und entspannt, obwohl ich jetzt ein paar Tage frei habe und vor einem Urlaub, meistens ja alles noch irgendwie fertiggestellt werden muss. Dem war aber nicht so, denn mein Chef war so nett und hat mir nur ein paar kleine Aufgaben gegeben, die ich noch erledigen sollte.
 

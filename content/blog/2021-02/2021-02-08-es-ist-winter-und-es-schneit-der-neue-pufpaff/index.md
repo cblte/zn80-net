@@ -1,9 +1,11 @@
 ---
+title: Es ist Winter und es schneit - der neue Pufpaff
 publishDate: "2021-02-08T21:37:25.000Z"
 tags:
 - 100DaysToOffload
-title: Es ist Winter und es schneit - der neue Pufpaff
 100dto: 69
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Die einen wollen die Kultur retten, mehr oder weniger, und hier in den Niederlanden machen sie die Schulen wieder auf.

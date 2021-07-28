@@ -6,6 +6,8 @@ tags:
 - 100DaysToOffload
 draft: false
 100dto: 91
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute Morgen habe ich unseren Zweitwagen in die Werkstatt gebracht. Das Gefährt hat nach Service verlangt und sollte ihn nun bekommen. Da ich den Niederländern nicht ganz traue und die auch mal mehr machen, als sie eigentlich sollen, hatte ich gestern Abend schon mal einen Blick ins Serviceheft geworfen. 11 Jahre und 91000 km hat der kleine Polo auf der Uhr. Nicht sonderlich viel, aber wer hat in den letzten 18 Monaten auch schon viel sein Fahrzeug bewegt? Große Inspektion stand also an, mit Ölwechsel, Zündkerzen- und Luftfiltertausch.

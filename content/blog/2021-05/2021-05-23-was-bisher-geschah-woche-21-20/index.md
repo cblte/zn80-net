@@ -7,6 +7,8 @@ tags:
 - Was Bisher Geschah
 draft: false
 100dto: 90
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Anfang Mai hatte ich über [Pop!\_OS](https://zn80.net/2021/05/hallo-pop-os/) geschrieben und wie toll ich doch das System finde. Doch nach ein paar Tagen hat sich das System mehr und mehr ins Abseits befördert. Der Sound stockte oder war verzerrt, ständig wechselte das Ausgabegerät. Auch nahmen die Systemabstürze wieder zu und der Fix schien keine Abhilfe gebracht zu haben. Daher blieb mir nur das System zu wechseln.

@@ -3,12 +3,14 @@ title: "Staatstrojaner per Grundgesetz"
 date: "2021-06-14T19:11:03+02:00"
 tags:
 - "100DaysToOffload"
-- "chaos-computer-club"
-- "crypto-wars"
-- "datenschutz"
-- "privacy"
+- "Chaos Computer Club"
+- "Crypto Wars"
+- "Datenschutz"
+- "Privacy"
 draft: false
 100dto: 95
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute erschien der Newsletter von meinem Mail-Dienstleister der Wahl [mailbox.org](https://mailbox.org). Im ersten Teil geht es um den **Staatstrojaner per Grundgesetz**. Weil das ein sehr ernstes und wichtiges Thema ist, will ich dir den Inhalt auch nicht vorenthalten und empfehle dringend, den verlinken Artikel zu lesen! Danke.

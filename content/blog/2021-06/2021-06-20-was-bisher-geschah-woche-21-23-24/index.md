@@ -3,12 +3,12 @@ title: "Was Bisher Geschah – Woche 21-23/24"
 slug: "was-bisher-geschah-woche-21-23-24"
 date: "2021-06-20T12:00:00+02:00"
 tags:
-- "100daystooffload"
-- "was-bisher-geschah"
-# description = ""
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
+- "100DaysToOffload"
+- "Was Bisher Geschah"
 draft: false
 100dto: 96
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/scheveningen-hafen.jpg" alt="Sail Op Scheveningen - Sommer 2019" caption="Sail Op Scheveningen - Sommer 2019" >}}

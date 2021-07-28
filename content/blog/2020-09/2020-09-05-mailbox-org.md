@@ -1,9 +1,15 @@
-+++
-title = "Mailbox.org"
-publishDate = "2020-09-05T09:55:00.000Z"
-tags = ["100DaysToOffload", "Mailbox.org", "Email", "OpenPGP"]
-100dto = 14
-+++
+---
+title: Mailbox.org
+publishDate: '2020-09-05T09:55:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Mailbox.org
+  - Email
+  - OpenPGP
+100dto: 14
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Da ich auf der Suche nach einem neuen E-Mail Anbieter bin der nachhaltung und sicher meine E-Mails verwaltet, bin ich neben [Posteo](https://posteo.de) und [Tutanota](https://tutanota.com) auf den Anbieter [Mailbox.org](https://mailbox.org) gestoßen. Und was die so anbieten, finde ich wirklich gut. Neben vielen Features bieten die nämlich auch PGP im Browser und auf dem Server an. Wie das funktioniert, haben die Leute von Mailbox.org sehr anschaulich in zwei Videos erklärt.
 

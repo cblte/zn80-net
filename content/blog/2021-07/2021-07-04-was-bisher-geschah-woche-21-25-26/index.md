@@ -5,11 +5,10 @@ date: "2021-07-04T13:44:22+02:00"
 tags:
 - 100DaysToOffload
 - "Was bisher geschah"
-# description = ""
-100dto : 98
 draft: false
-
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
+100dto : 98
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Es ist mal wieder Sonntag und das Wetter könnte besser sein. Doch so schlimm wie es in den vergangenen Tagen in einigen Gemeinden und Landkreisen war, war es hier bei uns glücklicherweise nicht. Wir sind von Hagel, Regen und Sturm verschont geblieben. Dennoch ist es immer noch kein richtiges Strandwetter und zum Fahrradausflug lädt der bewölkte Himmel auch nicht wirklich ein. Daher machen wir es uns noch ein wenig Zuhause gemütlich und hoffen, dass die nächsten Wochen schöner und angenehmer werden. Denn wenn ich Urlaub habe, möchte ich die Zeit schon gerne im Garten oder auf dem Rad verbringen.

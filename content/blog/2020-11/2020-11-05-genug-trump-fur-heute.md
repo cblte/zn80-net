@@ -5,6 +5,8 @@ tags:
 - 100DaysToOffload
 title: Genug Trump für heute
 100dto: 40
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Das kann sich ja keiner den ganzen Tag lang anhören.  Es wird gelogen wo es nur geht und alles was nicht in deren Kram passt, wird geleugnet und für falsch gehalten.

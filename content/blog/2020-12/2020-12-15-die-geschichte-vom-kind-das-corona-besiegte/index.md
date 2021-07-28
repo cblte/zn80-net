@@ -7,6 +7,8 @@ tags:
 - Corona
 title: Die Geschichte vom Kind, das Corona besiegte
 100dto: 55
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Eine tolle Kurzgeschichte die uns Mut machen sollte. Uns daran erinnert, dass es manchmal die einfachen Dinge im Leben sind, die funktionieren und das Richtige bewirken. 

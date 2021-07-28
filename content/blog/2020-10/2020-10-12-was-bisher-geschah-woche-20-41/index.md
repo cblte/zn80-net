@@ -1,9 +1,11 @@
-+++
-title = "Was bisher geschah – Woche 20-41"
-publishDate = "2020-10-12T14:12:00.000Z"
-tags = ["Was Bisher Geschah", "100DaysToOffload"]
-100dto = 29
-+++
+---
+title: "Was bisher geschah – Woche 20-41"
+publishDate: "2020-10-12T14:12:00.000Z"
+tags: ["Was Bisher Geschah", "100DaysToOffload"]
+100dto: 29
+categories:
+  - 100 Days To Offload - Season 1 
+---
 
 Neben der [Hello Fresh](https://www.hellofresh.de/) Box, worüber ich ja schon geschrieben habe, ist eigentlich nicht wirklich viel passiert. Obwohl das ja jeder auch immer irgendwie ein wenig anders sieht, nicht war?
 

@@ -1,11 +1,13 @@
 ---
+title: Jahresrückblick 2020
 publishDate: "2020-12-31T18:11:44.000Z"
-slug: jahresruckblick-2020
+slug: jahresrueckblick-2020
 tags:
 - 100DaysToOffload
 - Jahresrückblick
-title: Jahresrückblick 2020
 100dto: 59
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="agenda-4205694_1920.jpg" alt="Jahresrückblick 2020" caption="Titelbild von [Gerd Altmann](https://pixabay.com/users/geralt-9301)" >}}

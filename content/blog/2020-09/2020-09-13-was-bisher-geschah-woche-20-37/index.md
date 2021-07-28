@@ -1,9 +1,16 @@
-+++
-title = "Was bisher geschah – Woche 20-37"
-publishDate = "2020-09-13T10:28:00.000Z"
-tags = ["100DaysToOffload", "Radfahren", "Was Bisher Geschah", "Scheveningen", "Bundeswehr"]
-100dto = 19
-+++
+---
+title: Was bisher geschah – Woche 20-37
+publishDate: '2020-09-13T10:28:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Radfahren
+  - Was Bisher Geschah
+  - Scheveningen
+  - Bundeswehr
+100dto: 19
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 September 13, 2020
 

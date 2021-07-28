@@ -1,13 +1,12 @@
-+++
-title = "Apples Neue Geräte"
-slug = "apples-neue-geraete"
-date = "2021-04-20T22:57:15+02:00"
-tags = ["Apple", "iPad", "iMac", "100DaysToOffload"]
-images = [" /images/2021-04-apple-event-2021.jpg"]
-# description = ""
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}**
-100dto = 78
-+++
+---
+title: "Apples Neue Geräte"
+slug: "apples-neue-geraete"
+date: "2021-04-20T22:57:15+02:00"
+tags: ["Apple", "iPad", "iMac", "100DaysToOffload"]
+100dto: 78
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 {{< figure src="apple-event-2021.jpg" alt="Apple Spring Event 2021 iPad Pro" caption="Apple Spring Event 2021 iPad Pro with M1-Chip" >}}
 

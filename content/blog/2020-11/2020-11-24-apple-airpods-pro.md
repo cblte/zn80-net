@@ -6,6 +6,8 @@ tags:
 - 100DaysToOffload
 title: Apple AirPods Pro
 100dto: 46
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute habe ich mir im Elektronikmarkt um die Ecke spontan ein die [AirPods Pro](https://www.apple.com/de/airpods-pro/) im *Black-Friday-Week-irgendwas-Angebot* geshoppt. Warum? Keine Ahnung! Vielleicht, weil ich einfach was kaufen wollte. Klingt jetzt vielleicht ein wenig dekadent, kann sein, allerdings hatte ich in den letzten Wochen aber ein wenig ausgemistet und ein paar gebrauchte Dinge verkauft, so das mein PayPal Konto ein wenig Guthaben aufwies.

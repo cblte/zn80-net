@@ -1,13 +1,12 @@
 ---
-excerpt: Eine Kommentarfunktion kann man auch Datenschutzfreundlich mit Isso realisieren.
+title: Kommentare mit Isso
 lastmod: "2020-12-20T11:17:41.000Z"
 publishDate: "2020-12-15T13:36:29.000Z"
-slug: kommentare-mit-isso
 tags:
 - 100DaysToOffload
-- Kommentare
-title: Kommentare mit Isso
 100dto: 54
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Moin moin und Hallo. 

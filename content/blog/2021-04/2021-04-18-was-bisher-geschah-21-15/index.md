@@ -1,9 +1,11 @@
-+++
-title = "Was bisher geschah – Woche 21-15"
-publishDate = "2021-04-18"
-tags = ["100DaysToOffload", "Was bisher geschah"]
-100dto = 77
-+++
+---
+title: "Was bisher geschah – Woche 21-15"
+publishDate: "2021-04-18"
+tags: ["100DaysToOffload", "Was bisher geschah"]
+100dto: 77
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Ein paar Wochen sind vergangen, seit dem ich den letzten Beitrag geschrieben habe. Auf der einen Seite war ich einfach zu faul, auf der anderen Seite war ich einfach Internet müde.
 
@@ -12,7 +14,6 @@ Eigentlich wollte ich ja auch schon lange den Garten mit dem Hochdruckreiniger s
 Nichtsdestotrotz habe ich dann aber doch an dem ein oder anderen Projekt gearbeitet.
 
 <!--more-->
-
 
 ## Autopflege
 

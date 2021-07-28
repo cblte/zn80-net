@@ -7,6 +7,8 @@ tags:
 - "Bank"
 draft: false
 100dto: 83
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Gestern habe ich Post von der Commerzbank und auch von der ABN Amro erhalten. Beides Banken, bei denen wir ein Konto haben. Beide Banken erhöhen zum 1. Juli 2021 die Kontoführungsgebühren. Das System fühlt sich einfach nur kaputt an.

@@ -1,12 +1,14 @@
 ---
+title: Was bisher geschah – Woche 21-04
 lastmod: "2021-01-24T15:08:30.000Z"
 publishDate: "2021-01-24T15:08:30.000Z"
 slug: was-bisher-geschah-woche-21-04
 tags:
 - Was Bisher Geschah
 - 100DaysToOffload
-title: Was bisher geschah – Woche 21-04
 100dto: 65
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher geschah" >}}

@@ -4,13 +4,13 @@ slug: "was-bisher-geschah-woche-21-17"
 date: "2021-05-02T12:57:08+02:00"
 tags: 
 - "100daystooffload"
-- "was-bisher-geschah"
+- "Was Bisher Geschah"
 - "AirTags"
 - "OpenPGP"
-# description = ""
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
 draft: false
 100dto: 84
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/maypole-1329290_640.jpg" caption="Bild von [ASSY](https://pixabay.com/de/photos/maibaum-geschm%C3%BCckte-birke-tradition-1329290/) auf Pixabay" alt="Bild von ASSY auf Pixabay" >}}

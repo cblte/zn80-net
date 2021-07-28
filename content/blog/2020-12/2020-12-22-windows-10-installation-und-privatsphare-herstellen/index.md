@@ -1,18 +1,17 @@
 ---
-excerpt: Mit Chocolatey und SharpApp eine Windows Installation durchführen. Auf einfache
-  Art und Weise Apps installieren, Bloatware entfernen und Windows Telemetrie-Datensammlung
-  abschalten.
+title: Windows 10 Installation und Privatsphäre herstellen
 lastmod: "2020-12-22T13:47:31.000Z"
 publishDate: "2020-12-22T13:46:20.000Z"
-slug: windows-10-installation-und-privatsphare-herstellen
+slug: windows-10-installation-und-privatsphaere-herstellen
 tags:
 - 100DaysToOffload
 - Chocolatey
 - Windows
 - Bloatware
 - SharpApp
-title: Windows 10 Installation und Privatsphäre herstellen
 100dto: 57
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Hier in kurzen knappen Worten die Maßnahmen, die ich ergriffen habe, um mein Windows 10 System so privat wie es mir möglich ist einzustellen. 

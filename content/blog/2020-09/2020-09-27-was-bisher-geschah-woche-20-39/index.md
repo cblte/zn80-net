@@ -8,6 +8,8 @@ tags:
  - "FOSS"
  - "SysAdmin"
 100dto: 23
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was bisher Geschah Logo">}}

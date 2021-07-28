@@ -3,12 +3,10 @@ title: "Endlich Wochenende"
 date: "2021-07-02T22:22:37+0200"
 tags:
 - 100DaysToOffload
-- Gedanken
-# description = ""
 100dto: 97
 draft: false
-
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Endlich Wochenende! Das habe ich mir auch redlich verdient. Glaube ich. Das haben wir uns redlich verdient! So viele Stunden wie ich in den letzten zwei Wochen im Büro verbracht habe waren es, glaube ich noch nie.

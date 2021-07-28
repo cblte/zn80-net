@@ -4,8 +4,9 @@ publishDate:  "2021-04-25T14:30:00+02:00"
 tags:  
   - "Was bisher geschah"
   - "100DaysToOffload"
-featured_image: "/images/2021-featured_spring-640.jpg"
 100dto: 81
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Und wieder ist eine Woche rum. Es gibt neue Gadgets von Apple, eine verbesserte Version der "Corona-Warn-App" und mit der "Darf ich das?"-App, endlich eine App in der die ganzen Corona-Regeln aktuell und übersichtlich angezeigt werden.

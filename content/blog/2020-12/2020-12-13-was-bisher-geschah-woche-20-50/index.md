@@ -7,6 +7,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-50
 100dto: 53
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute ist der dritte Advent, und damit sind es nur noch 12 Tage bis Weihnachten. Das wird jetzt schnell gehen. Glaubt mir. 

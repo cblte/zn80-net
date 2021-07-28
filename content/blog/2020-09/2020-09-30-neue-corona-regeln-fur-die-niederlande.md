@@ -1,9 +1,13 @@
-+++
-title = "Neue Corona-Regeln für die Niederlande"
-publishDate = "2020-09-30T11:38:00.000Z"
-tags = ["100DaysToOffload", "Niederlande"]
-100dto = 24
-+++
+---
+title: Neue Corona-Regeln für die Niederlande
+publishDate: '2020-09-30T11:38:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Niederlande
+100dto: 24
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Die Niederlande sind weiterhin (wahrscheinlich) das einzige Land in Europa wo es keine wirklich strengen Regeln zur Eindämmung des Corona-Virus gibt. Abgesehen von der Pflicht, einen Mund-Nasen-Schutz in öffentlichen Verkehrsmitteln zu tragen, gab es bisher keine sonderlichen Einschränken. Ok, Abstand halten und so, aber das haben nur wenige wirklich versucht und die meisten haben es quasi einfach ignoriert. Gestern dann diese Meldung:
 

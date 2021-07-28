@@ -1,15 +1,14 @@
 ---
-summary: Ein nicht so guter Start ins Jahr mit viel Knall und verbrannten Tonnen.
-  Geburtstage sollte man feiern können. Winterberg, die Stadt die ein wenig hilflos
-  überrannt wird.
+title: Was bisher geschah – Woche 21-01
 lastmod: "2021-01-03T13:47:55.000Z"
 publishDate: "2021-01-03T13:47:55.000Z"
 slug: was-bisher-geschah-woche-21-01
 tags:
 - 100DaysToOffload
 - Was Bisher Geschah
-title: Was bisher geschah – Woche 21-01
 100dto: 60
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Ich wünsche euch allen ein frohes neues Jahr! Hoffentlich seit ihr entspannt und gesund ins Jahr gestartet. Hier gab es leider sehr wenig Schlaf und es war so gar nicht entspannt. Von Mittags an gab es Böller und in weiter bis naher Entfernung wurde die niederländische Tradition "Carbid-Schießen" gepflegt. Meiner Meinung nach eine völlig sinnlose Knallerei die so viel Lärm verursacht, dass man die Vibration unter den Füßen spürt und sich selbst die Fische in der hintersten Ecke vom Aquarium verstecken. Der Kauf der Airpods Pro hat sich, zumindest aus Sicht meiner Frau, unheimlich gelohnt. Die haben mit ANC schon sehr dazu beigetragen, dass es sich halbwegs aushalten ließ. 

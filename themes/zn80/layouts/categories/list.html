@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+Hier ist eine Liste an Kategorien denen Beiträge zugeordnet wurden. Hauptsächlich habe ich diese für die 100 Days To Offload erstellt.
+
+<ul>
+  {{ range .Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ .Params.wikipedia }}
+      </li>
+  {{ end }}
+</ul>
+
+{{ end }}

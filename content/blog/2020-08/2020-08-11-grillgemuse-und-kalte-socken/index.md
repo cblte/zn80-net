@@ -1,9 +1,12 @@
-+++
-title = "Grillgemüse und kalte Socken"
-publishDate = "2020-08-11T20:00:00.000Z"
-tags = ["100DaysToOffload", "Gedanken"]
-100dto = 6
-+++
+---
+title: Grillgemüse und kalte Socken
+publishDate: '2020-08-11T20:00:00.000Z'
+tags:
+  - 100DaysToOffload
+100dto: 6
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 
 Gestern haben wir mal etwas "neues" ausprobiert: Grillgemüse! "So neu ist das ja gar nicht" wird da der ein oder andere bestimmt sagen, doch ehrlich gesagt, haben wir das so in dieser Form und Menge noch nie gemacht. Daher war das schon "neu" für uns.

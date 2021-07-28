@@ -7,6 +7,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-49
 100dto: 52
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Das Jahr neigt sich so langsam dem Ende zu und bei mir stellt sich ein Gefühl von Urlaub ein. Heute ist auch schon der zweite Advent. Eine weihnachtliche Vorfreude oder Stimmung will sich bis jetzt jedoch, noch gar nicht so richtig einstellen. Egal welche Nachrichtenseite man öffnet, es wird nur von Corona und Einschränkungen und neuen Zahlen berichtet. 

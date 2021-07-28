@@ -1,10 +1,13 @@
-+++
-title = "Was heute so passiert ist 1"
-publishDate = "2020-08-05T18:00:00.000Z"
-lastmod  = "2020-11-05T20:13:35.000Z"
-tags = ["100DaysToOffload"]
-100dto = 2
-+++
+---
+title: "Was heute so passiert ist 1"
+publishDate: "2020-08-05T18:00:00.000Z"
+lastmod: "2020-11-05T20:13:35.000Z"
+tags: 
+- "100DaysToOffload"
+100dto: 2
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Heute Nachmittag bin ich noch an der Wohnung von unserem neuen Kollegen vorbeigefahren, um kurz Hallo zu sagen. Da dieser jedoch noch ein wenig im Umzugsstress war, habe ich den Besuch auch so kurz wie möglich gehalten.
 

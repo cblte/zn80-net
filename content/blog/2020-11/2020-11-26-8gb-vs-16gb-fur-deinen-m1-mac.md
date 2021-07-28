@@ -7,6 +7,8 @@ tags:
 - Apple
 title: 8GB vs. 16GB für deinen M1 Mac
 100dto: 49
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Die Reviews sind da. Die Jungs von [Max Tech](https://www.youtube.com/channel/UCptwuAv0XQHo1OQUSaO6NHw) waren die ersten mit ihrem Review und viele weiter ziehen jetzt so langsam hinterher. 

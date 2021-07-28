@@ -7,6 +7,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah - Woche 21-10
 100dto: 75
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Was Bisher Geschah" >}}

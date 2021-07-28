@@ -8,6 +8,8 @@ tags:
 - Signal
 - iMessage
 100dto: 88
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="whatsapp-account-deletion.jpg" alt="WhatsApp Account Deletion" >}}

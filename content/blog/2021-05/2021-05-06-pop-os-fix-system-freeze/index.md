@@ -3,12 +3,13 @@ title: "Pop!_OS Tweaks - Fixing System Freeze"
 slug: "pop-os-tweaks-fixing-system-freeze"
 date: "2021-05-06T20:58:44+02:00"
 tags: 
-- "100daystooffload"
+- "100DaysToOffload"
 - "pop_os"
-- "linux"
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}} 
+- Linux
 draft: false
 100dto: 86
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Ich finde Pop!_OS immer noch gut 🙂, doch habe ich seit gestern leider sporadischen und zufälligen Abstürzen zu kämpfen. Wenn ich zum Beispiel den Brave-Browser starte, dauert es keine 60 Sekunden, bis das System komplett eingefroren ist. In VSCodium ist das System zwar auch ab und an kurz eingefroren, allerdings nur für ein paar Sekunden. Auf der Suche nach einer Lösung für mein Problem bin ich leider nirgends fündig geworden.

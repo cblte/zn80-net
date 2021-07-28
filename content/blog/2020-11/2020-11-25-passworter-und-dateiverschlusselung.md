@@ -9,6 +9,8 @@ tags:
 - Digitalcourage
 title: Passwörter und Dateiverschlüsselung
 100dto: 48
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute Abend hat der erste von insgesamt [4 Vorträgen rund um das Thema Online-Crypto](https://digitalcourage.de/blog/2020/online-crypto-seminar-25-november-3-dezember-2020) stattgefunden. Organisiert werden die 4 Vorträge von der [Digitalcourage](https://digitalcourage.de/hochschulgruppe-bielefeld)-Hochschulgruppe Bielefeld. 

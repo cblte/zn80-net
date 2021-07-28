@@ -7,6 +7,8 @@ tags:
 - "Was Bisher Geschah"
 draft: false
 100dto: 89
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="belinda-fewings-yOloXSoR8vo-unsplash.jpg" alt="Stein bemald mit Vax and Relax von Belinda Fewings" caption="Foto von [Belinda Fewings](https://unsplash.com/@bel2000a)" >}}

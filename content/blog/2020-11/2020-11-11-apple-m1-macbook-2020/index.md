@@ -1,9 +1,12 @@
 ---
+title: Apple M1 MacBook 2020
 publishDate: "2020-11-11T14:17:05.000Z"
 tags:
 - 100DaysToOffload
-title: Apple M1 MacBook 2020
+- MacBook Air
 100dto: 43
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Mit sehr viel Spannung und Aufregung habe auch ich die Keynote gestern Abend verfolgt. Ich habe mich wirklich zurückgehalten und dieses Jahr noch keinen Kauf getätigt. Also habe ich wie viele Andere auf die gestrige [Apple Keynote](https://www.apple.com/apple-events/november-2020/) gewartet und bin super überrascht worden.

@@ -1,9 +1,14 @@
-+++
-title = "Risikogebiet Zuid- und Noord-Holland"
-publishDate = "2020-09-17T10:25:00.000Z"
-tags = ["100DaysToOffload", "Corona", "Bundesländer"]
-100dto = 20
-+++
+---
+title: Risikogebiet Zuid- und Noord-Holland
+publishDate: '2020-09-17T10:25:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Corona
+  - Bundesländer
+100dto: 20
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Seit gestern haben sich diverse Regeln geändert, die erneut einige Einschnitte in die Bewegungsfreiheit nach Deutschland mit sich bringen. Und da wir selbst direkt betroffen sind, wir wohnen nun mal in Den Haag, 8km von Scheveningen entfernt, sind alles unsere Pläne für die kommenden Wochen quasi hinfällig. Mein Geburtstagsgeschenk und der Wein werden also noch eine Weile bei meinen Eltern auf mich warten müssen.
 

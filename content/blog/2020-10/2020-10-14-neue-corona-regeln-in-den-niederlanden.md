@@ -1,9 +1,13 @@
-+++
-title = "Neue Corona Regeln in den Niederlanden"
-publishDate = "2020-10-14T14:42:00.000Z"
-tags = ["100DaysToOffload", "Gedanken"]
-100dto = 31
-+++
+---
+title: "Neue Corona Regeln in den Niederlanden"
+publishDate: "2020-10-14T14:42:00.000Z"
+tags: 
+- "100DaysToOffload"
+- "Gedanken"
+100dto: 31
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Goverment.nl schreibt:
 

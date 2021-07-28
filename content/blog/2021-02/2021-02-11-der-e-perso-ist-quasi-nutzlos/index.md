@@ -1,10 +1,12 @@
 ---
+title: Der E-Perso ist quasi nutzlos
 publishDate: "2021-02-11T06:44:07.000Z"
 tags:
-- Personalausweis
 - 100DaysToOffload
-title: Der E-Perso ist quasi nutzlos
+- Personalausweis
 100dto: 70
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Manchmal frage ich mich, was in Deutschland so grundlegend verkehrt läuft, dass dieses Online-E-Perso Ding so lange dauert. Vor drei Jahren, bevor wir Deutschland verlassen haben, haben wir noch neue Personalausweise beantragt. Auch habe ich mir ein Lesegerät dafür gekauft, um den Perso dann auch digital nutzen zu können. Doch die Auswahl an Möglichkeiten, war 2018/2019 sehr beschränkt. Bis auf die Steuererklärung gab es für Privatanwender quasi nichts, was sich mit dem digital Teil des Personalausweise erledigen ließe.

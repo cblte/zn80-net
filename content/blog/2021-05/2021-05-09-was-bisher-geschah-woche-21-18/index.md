@@ -7,6 +7,8 @@ tags:
 - "Was Bisher Geschah"
 draft: false
 100dto: 87
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/alexander-schimmeck-bsZgFVWFPh0-unsplash.jpg" alt="Was bisher geschah" >}}

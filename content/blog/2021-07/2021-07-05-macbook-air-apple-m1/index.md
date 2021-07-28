@@ -4,11 +4,7 @@ date: "2021-07-05T23:06:59+0200"
 tags: 
 - MacBook Air
 - Apple
-# description = ""
-# 100dto :
 draft: false
-
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
 
 {{< figure src="images/macbookair_8c8g8ram_512gb.jpeg" alt="MacBook Air Apple M1 8C CPU/8C GPU/8GB/512GB " >}}

@@ -5,6 +5,8 @@ tags:
 - NaBloPoMo
 title: APK – der niederländische TÜV
 100dto: 39
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute habe ich mein Auto zum niederländischen TÜV gebracht, zum [APK, der *Algemene Periodieke Keuring*](https://www.rdw.nl/over-rdw/information-in-english/periodic-technical-inspection-apk).

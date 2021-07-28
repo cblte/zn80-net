@@ -4,8 +4,10 @@ publishDate: "2020-09-05T10:06:00.000Z"
 tags: 
   - 100DaysToOffload
   - GnuPG
-  - How-to
 100dto: 15
+categories:
+  - 100 Days To Offload - Season 1
+  - How-To
 ---
 
 Bevor ich meine Laptops platt gemacht habe, habe ich alle Heimverzeichnisse auf einer externen Platte gesichert. Ist halt wichtig und so. Dazu noch ein verschlüsseltes Backup bei einem externen Anbieter. Denn ein Backup ist kein Backup! Und kein Backup, kein Mitleid. 

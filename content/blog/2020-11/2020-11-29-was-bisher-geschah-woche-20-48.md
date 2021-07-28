@@ -6,6 +6,8 @@ tags:
 - Newsletter
 title: Was bisher geschah – Woche 20-48
 100dto: 51
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Diese Woche habe ich im Büro verbracht. "Wurde auch mal wieder Zeit", hat meine Frau gesagt. Meinen Chef hat es bestimmt auch gefreut. Ja, es war gut aus dem Homeoffice mal wieder herauszukommen. Auch wenn man sich von seinen Mitmenschen ja etwas fern halten soll, so sind soziale Kontakte wichtig und es tat gut, mal wieder seine Kollegen und Freund in Echt zu sehen.

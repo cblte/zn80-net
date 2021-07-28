@@ -5,7 +5,9 @@ slug: dein-computer-ist-nicht-deiner-oder-doch
 tags:
 - 100DaysToOffload
 title: Dein Computer ist nicht deiner, oder doch?
-100dto: 47 
+100dto: 47
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 In meiner Timeline und in meinem News-Reader bin ich in den letzten Tagen immer mal wieder über den Artikel [Your Computer Isn't Yours von Jeffrey Paul](https://sneak.berlin/20201112/your-computer-isnt-yours/) gestoßen.

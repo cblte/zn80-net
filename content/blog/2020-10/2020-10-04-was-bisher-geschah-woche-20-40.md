@@ -1,9 +1,15 @@
-+++
-title = "Was bisher geschah – Woche 20-40"
-publishDate = "2020-10-04T11:50:00.000Z"
-tags = ["100DaysToOffload", "Was Bisher Geschah", "TryHackMe", "Rassismus"]
-100dto = 26
-+++
+---
+title: "Was bisher geschah – Woche 20-40"
+publishDate: "2020-10-04T11:50:00.000Z"
+tags: 
+- "100DaysToOffload"
+- "Was Bisher Geschah"
+- "TryHackMe"
+- "Rassismus"
+100dto: 26
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Einen wunderschönen Sonntagnachmittag. Heute etwas später als sonst, aber nicht vergessen. Neben Corona und Tryhackme, bin ich bestürzt über die Probleme mit Rassismus in der Polizei. Aber angeblich ist da ja keines.
 

@@ -1,9 +1,11 @@
-+++
-title = "Was bisher geschah – Woche 20-42"
-publishDate = "2020-10-18T14:55:00.000Z"
-tags = ["100DaysToOffload", "Brot backen", "Apple Event"]
-100dto = 34
-+++
+---
+title: "Was bisher geschah – Woche 20-42"
+publishDate: "2020-10-18T14:55:00.000Z"
+tags: ["100DaysToOffload", "Brot backen", "Apple Event"]
+100dto: 34
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 {{< figure src="/images/was-bisher-geschah.jpg" alt="Logo - Was bisher geschah" >}}
 

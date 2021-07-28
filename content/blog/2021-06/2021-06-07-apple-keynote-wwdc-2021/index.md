@@ -2,14 +2,12 @@
 title: "Apple Keynote zur WWDC 2021"
 date: "2021-06-07T23:00:00+02:00"
 tags:
-- "100daystooffload"
+- "100DaysToOffload"
 - "Apple"
-- "Apple Event"
-- "Keynote"
-# description = ""
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 draft: false
 100dto: 94
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/apple-wwdc-2021.png" alt="Apple WWDC Keynote 2021" >}}

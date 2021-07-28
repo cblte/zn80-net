@@ -1,9 +1,11 @@
-+++
-title = "Microsoft Windows Installation"
-publishDate = "2020-10-15T06:00:00.000Z"
-tags = ["100DaysToOffload", "Software"]
-100dto = 32
-+++
+---
+title: "Microsoft Windows Installation"
+publishDate: "2020-10-15T06:00:00.000Z"
+tags: ["100DaysToOffload", "Software"]
+100dto: 32
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 {{< figure src="windows-installation.jpg" alt="Windows 10 Installation" >}}
 

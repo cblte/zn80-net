@@ -4,6 +4,8 @@ tags:
 - 100DaysToOffload
 title: NaBloPoMo National Blog Posting Month
 100dto: 38
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Der [NaBloPoMo](https://www.startupinstitute.com/blog/its-national-blog-posting-month) ist der *National Blog Posting Month*. Kannte ich bisher auch nicht, aber finde ich gut. Allerdings nehme ich ja schon an der [#100DaysToOffload](https://zn80.net/tag/100DaysToOffload) Challenge teil und ich bin mir gerade nicht so sicher, ob sich das nicht ein wenig überschneidet.

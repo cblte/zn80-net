@@ -1,9 +1,12 @@
-+++
-title = "Wer war noch mal Wattpad"
-publishDate = "2020-08-23T20:00:00.000Z"
-tags = ["100DaysToOffload"]
-100dto = 12
-+++
+---
+title: "Wer war noch mal Wattpad"
+publishDate: "2020-08-23T20:00:00.000Z"
+tags: 
+- "100DaysToOffload"
+100dto: 12
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Und wieder ein Account gekündigt – tschüss Wattpad
 

@@ -8,6 +8,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah – Woche 20-45
 100dto: 41
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Einen schönen Sonntag wünsche ich dir. Hier ist mein Wochenrückblick der 45 KW und der 40. [#100DaysToOffload](/tag/100DaysToOffload) Beitrag. Noch 10 Beiträge und die Hälfte ist geschafft. Gar nicht mal so schlecht wie ich finde.

@@ -2,11 +2,13 @@
 title: "Scanner Pro und organize-tool – zwei Tools für das Papierlose Büro"
 date: "2021-07-21T20:40:11+0200"
 tags:
+- 100DaysToOffload
 - Open-Source
 - Utilities
-100dto2 : 1
+100dto: 3
+categories:
+  - 100 Days To Offload - Season 2
 draft: false
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
 
 Jetzt in meinem Urlaub bin ich mal wieder dazu übergegangen ein paar meiner Papierablagen zu sortieren und zu digitalisieren. Noch immer habe ich mehrere Ordner mit sehr viel Papier. Hauptsächliche Versicherungsunterlagen und Rechnungen.

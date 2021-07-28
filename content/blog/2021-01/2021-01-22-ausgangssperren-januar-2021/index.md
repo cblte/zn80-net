@@ -1,12 +1,14 @@
 ---
+title: Ausgangssperren Januar 2021
 lastmod: "2021-01-22T07:50:09.000Z"
 publishDate: "2021-01-22T07:49:21.000Z"
 slug: ausgangssperren-januar-2021
 tags:
 - 100DaysToOffload
 - Linkpost
-title: Ausgangssperren Januar 2021
 100dto: 64
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 In der Pressekonferenz vom 20. Januar 2021 hat die niederländische Regierung nun auch die Ausgangssperren angeregt. [Diese wurden gestern vom Repräsentantenhaus beschlossen](https://www.dutchnews.nl/news/2021/01/the-netherlands-brings-in-a-curfew-from-9pm-on-saturday/). 

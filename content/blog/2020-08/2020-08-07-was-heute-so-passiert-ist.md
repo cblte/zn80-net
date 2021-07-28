@@ -1,10 +1,14 @@
-+++
-title = "Was heute so passiert ist 2"
-publishDate = "2020-08-07T17:42:00.000Z"
-lastmod  = "2020-11-05T20:22:35.000Z"
-tags = ["100DaysToOffload", "Spotify"]
-100dto = 3
-+++
+---
+title: "Was heute so passiert ist 2"
+publishDate: "2020-08-07T17:42:00.000Z"
+lastmod: "2020-11-05T20:22:35.000Z"
+tags: 
+- "100DaysToOffload"
+- "Spotify"
+100dto: 3
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Heute war es schon wirklich, wirklich warm. Wir haben hier in Den Haag heute die 31°C Marke erreicht. Zumindest sagt das die Aktivitäten.app auf meinem iPhone. Gestartet war ich heute morgen bei nur 20°C und da fühlte es sich schon sehr warm an. Die 31°C heute Nachmittag waren aber nicht ganz so schlimm, bin halt etwas schneller auf dem Rad nach Hause gefahren.
 

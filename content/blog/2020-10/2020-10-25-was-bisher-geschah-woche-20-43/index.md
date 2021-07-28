@@ -7,6 +7,8 @@ tags:
 - Corona
 - youtube-dl
 100dto: 36
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Hallo, lieber Leser. Willkommen bei meinem Wochenrückblick.

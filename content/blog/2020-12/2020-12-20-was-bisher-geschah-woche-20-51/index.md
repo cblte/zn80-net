@@ -1,12 +1,14 @@
 ---
+title: Was bisher geschah – Woche 20-51
 lastmod: "2020-12-20T14:20:08.000Z"
 publishDate: "2020-12-20T14:20:08.000Z"
 slug: was-bisher-geschah-woche-20-51
 tags:
 - Was Bisher Geschah
 - 100DaysToOffload
-title: Was bisher geschah – Woche 20-51
 100dto: 56
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="advent-candles-5798830_1280.jpg"  alt="Weihnachtskerzen" caption="[Bild von Myriams-Fotos auf Pixabay](https://pixabay.com/de/photos/advent-kerzen-kerzen-weihnachten-5798830/)" >}}

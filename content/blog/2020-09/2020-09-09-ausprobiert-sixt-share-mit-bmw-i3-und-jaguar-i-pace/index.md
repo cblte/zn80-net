@@ -1,9 +1,15 @@
-+++
-title = "Ausprobiert: Sixt Share mit BMW i3 und Jaguar I-Pace"
-publishDate = "2020-09-09T10:36:00.000Z"
-tags = ["100DaysToOffload", "Gedanken", "CarSharing", "Sixt"]
-100dto = 18
-+++
+---
+title: "Ausprobiert: Sixt Share mit BMW i3 und Jaguar I-Pace"
+publishDate: "2020-09-09T10:36:00.000Z"
+tags: 
+-  100DaysToOffload
+-  Gedanken"
+-  "CarSharing"
+-  "Sixt"
+100dto: 18
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Heute haben wir den Tag in Amsterdam verbracht. Das war wirklich schön, zumindest so lange, bis es angefangen hat zu regnen. Aber das ist in den Niederlanden halt ganz normal, dass das Wetter von jetzt auf gleich sich ein paar Mal ändern kann.
 

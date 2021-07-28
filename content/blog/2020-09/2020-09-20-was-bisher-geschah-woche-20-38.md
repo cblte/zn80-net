@@ -1,9 +1,16 @@
-+++
-title = "Was bisher geschah – Woche 20-38"
-publishDate = "2020-09-20T10:58:00.000Z"
-tags = ["100DaysToOffload", "Was Bisher Geschah", "Private", "Apple", "iPad AIr"]
-100dto = 21
-+++
+---
+title: Was bisher geschah – Woche 20-38
+publishDate: '2020-09-20T10:58:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Was Bisher Geschah
+  - Private
+  - Apple
+  - iPad AIr
+100dto: 21
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 In dieser Woche gab es außer dem Apple Event am Dienstag und der Erklärung von Zuid- und Noord-Holland zum Risikogebiet eigentlich nicht viel neues.
 

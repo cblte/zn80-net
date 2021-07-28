@@ -1,11 +1,13 @@
 ---
+title: 2 Euro mehr für 250 MBit
 lastmod: "2021-01-29T10:43:00.000Z"
 publishDate: "2021-01-29T10:43:00.000Z"
 slug: 2-euro-mehr-fur-250-mbit
 tags:
 - 100DaysToOffload
-title: 2 Euro mehr für 250 MBit
 100dto: 66
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Heute kam Post vom Internetanbieter. Leider muss man ab dem ersten März die Gebühren pro Monat um 2 Euro anheben. Von jetzt 42 Euro auf 44 Euro. Aber dafür will man uns schnelleres Internet geben. Die jetzigen 150 MBit werden auf 250 MBit angehoben. 

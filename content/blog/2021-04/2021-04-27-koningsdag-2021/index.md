@@ -3,11 +3,11 @@ title: "Koningsdag 2021"
 date: "2021-04-27T22:27:08+02:00"
 tags: 
 - Niederlande
-- Koningsdag
-- Linkpost
 - 100DaysToOffload
 draft: false
 100dto: 82
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Und alle ticken aus! :cry:

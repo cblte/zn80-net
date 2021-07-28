@@ -5,6 +5,8 @@ tags:
 - Was Bisher Geschah
 - 100DaysToOffload
 100dto: 37
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Die 44 KW ist fast vorbei und mit ihr eine Woche Büroarbeit. Diese war zum Teil recht anstrengend, da in den zwei Wochen zuvor relativ viel aufgelaufen war was es abzuarbeiten galt. Auch wenn es nur eine sitzende Tätigkeit vor dem Rechner ist, kann das arbeiten mit riesigen Excel-Tabellen schon ziemlich anstrengend sein. Vor allem dann, wenn es gefühlt 10 Versionen gibt und man höllisch aufpassen muss, welcher Datensatz nun der richtige und neuste ist und man nicht aus Versehen alte Daten verwendet.

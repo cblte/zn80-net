@@ -7,6 +7,8 @@ tags:
 - POP!_OS
 - 100DaysToOffload
 100dto: 85
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="images/hallo_pop_os.png" alt="Hallo, Pop!_OS" caption="Hallo, Pop!_OS">}}

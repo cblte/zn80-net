@@ -1,11 +1,13 @@
 ---
+title: Die Briefmarke wird digital
 lastmod: "2021-02-12T17:14:41+02:00"
 publishDate: "2021-02-12T07:13:33+02:00"
 slug: die-briefmarke-wird-digital
-title: Die Briefmarke wird digital
 tags: 
 - 100DaysToOffload
 100dto: 71
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Meine Frau hat mich gestern Abend auf die neue Briefmarke der Deutschen Post hingewiesen. Wow! Digitale Briefmarken? "Cool" habe ich gedacht, endlich wie in den Niederlanden einfach einen Code in der App bestellen, auf den Umschlag schreiben und ab in den Briefkasten.

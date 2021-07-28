@@ -1,9 +1,13 @@
-+++
-title = "Was bisher geschah – Woche 20-33"
-publishDate = "2020-08-14T14:00:00.000Z"
-tags = ["100DaysToOffload"]
-100dto = 7
-+++
+---
+title: Was bisher geschah – Woche 20-33
+publishDate: '2020-08-14T14:00:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Was Bisher Geschah
+100dto: 7
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Der erste Beitrag war ja noch mit Die Woche (KW32) betitelt, allerdings finde ich diesen hier auch ganz nett. Hat ein wenig etwas von Geschichten erzählen, oder?
 

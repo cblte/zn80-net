@@ -5,6 +5,8 @@ tags:
 - 100DaysToOffload
 title: Was bisher geschah - Woche 20-47
 100dto: 45
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Diese Woche fing nicht so erfreulich an. Am Samstag hatte ich leichte Rückenschmerzen und am Sonntag dann schon, dass ich den Vormittag auf der Couch verbracht habe. Nach Rücksprache mit einem Arbeitskollegen der wesentlich mehr Sport treibt als ich, habe ich dann regelmäßig Rückenübungen gemacht. Dadurch wurde es auch etwas besser und ich bin guter Hoffnung, dass sie diese Woche gänzlich verschwinden. Falls dem nicht so ist, werde ich trotz Voltaren und Wärmekissen dann wohl doch mal den Arzt aufsuchen. 

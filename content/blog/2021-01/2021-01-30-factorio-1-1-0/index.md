@@ -1,14 +1,14 @@
 ---
-excerpt: Version 1.1.0 ist endlich da und es gibt viele coole Verbesserungen und einige
-  tolle neue Features.
+title: Factorio 1.1.0 Stable
 lastmod: "2021-01-30T13:03:36.000Z"
 publishDate: "2021-01-30T10:34:02.000Z"
 slug: factorio-1-1-0
 tags:
 - 100DaysToOffload
 - Factorio
-title: Factorio 1.1.0 Stable
 100dto: 68
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 {{< figure src="fff-364-1-1-stable-postcard.jpg" alt="Factorio 1.1" >}}

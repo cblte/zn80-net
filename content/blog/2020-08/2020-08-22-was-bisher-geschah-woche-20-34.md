@@ -1,9 +1,14 @@
-+++
-title = "Was bisher geschah – Woche 20-34"
-publishDate = "2020-08-22T08:58:00.000Z"
-tags = ["Was Bisher Geschah", "100DaysToOffload", "w2034"]
-100dto = 11
-+++
+---
+title: Was bisher geschah – Woche 20-34
+publishDate: '2020-08-22T08:58:00.000Z'
+tags:
+  - Was Bisher Geschah
+  - 100DaysToOffload
+  - w2034
+100dto: 11
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Diese Woche war warm, nass und kalt. Naja, kalt in dem Sinne, dass es nicht mehr 25°C und mehr sind. Und der Wind hat wieder stark zugenommen. Jetzt gerade ist es ordentlich windig und vorm Haus sammelt sich schon wieder das Laub. Dabei sah das die Woche so schön sauber aus, denn die Stadt war mit Reinigungsfahrzeugen unterwegs und hat mal ordentlich Unkraut beseitigt.
 

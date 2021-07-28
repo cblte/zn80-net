@@ -4,9 +4,10 @@ date: "2021-07-11T18:20:16+0200"
 tags:
 - Was Bisher Geschah
 - 100DaysToOffload
-# description = ""
 100dto: 99
 draft: false
+categories:
+- 100 Days To Offload - Season 1
 ---
 
 Es ist schon wieder Sonntag und damit Zeit für eine weitere Ausgabe meines kleinen Wochenrückblicks.

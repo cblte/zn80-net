@@ -1,9 +1,14 @@
-+++
-title = "Ein iPad und ein MacBook Air"
-publishDate = "2020-08-19T04:00:00.000Z"
-tags = ["100DaysToOffload", "MacBookAIr", "Apple"]
-100dto = 10
-+++
+---
+title: Ein iPad und ein MacBook Air
+publishDate: '2020-08-19T04:00:00.000Z'
+tags:
+  - 100DaysToOffload
+  - MacBook Air
+  - Apple
+100dto: 10
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Endlich. Nachdem sich meine Frau ihr neues [iPad](https://www.apple.com/de/ipad-pro/) gegönnt hat, darf ich endlich mein MacBook Air zurückhaben. Was für eine Erleichterung nicht mehr soviel mit Windows arbeiten zu müssen. Eine anständige Tastatur und ein super Touchpad.
 

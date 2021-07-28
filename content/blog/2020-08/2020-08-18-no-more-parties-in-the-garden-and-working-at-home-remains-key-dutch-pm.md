@@ -1,9 +1,14 @@
-+++
-title = "No more parties in the garden, and working at home remains key: Dutch PM"
-publishDate = "2020-08-18T20:00:00.000Z"
-tags = ["100DaysToOffload", "Linkpost", "Niederlande"]
-100dto = 9
-+++
+---
+title: 'No more parties in the garden, and working at home remains key: Dutch PM'
+publishDate: '2020-08-18T20:00:00.000Z'
+tags:
+  - 100DaysToOffload
+  - Niederlande
+100dto: 9
+categories:
+  - 100 Days To Offload - Season 1
+---
+
 
 > Drinks parties and gatherings at home with more than six people, excluding children, are once again on the ‘not done’ list in the Netherlands, as the cabinet tries to reduce the rise in the number of coronavirus cases.
 

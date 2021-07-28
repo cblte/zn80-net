@@ -1,10 +1,16 @@
-+++
-title = "Eine neue Batterie für das MacBook Air"
-slug = "eine-neue-batterie-fur-das-macbook-air-2"
-publishDate = "2020-10-20T12:51:00.000Z"
-tags = ["100DaysToOffload", "Apple", "MacBook Air", "iFixit"]
-100dto = 35
-+++
+---
+title: "Eine neue Batterie für das MacBook Air"
+slug: "eine-neue-batterie-fur-das-macbook-air-2"
+publishDate: "2020-10-20T12:51:00.000Z"
+tags:
+- "100DaysToOffload"
+- "Apple"
+- "MacBook Air"
+- "iFixit"
+100dto: 35
+categories:
+  - 100 Days To Offload - Season 1
+---
 
 Ich habe am Wochenende einen neuen Akku für das MacBook Air bestellt und gestern Abend eingebaut. Der alte Akku hatte nach über 520 Ladezyklen nur noch 70% Kapazität. Es wurde also Zeit für einen Austausch. Also fix einen neuen Akku bestellt.
 

@@ -1,8 +1,8 @@
 ---
+title: Was bisher geschah – Woche 20-52
 lastmod: "2020-12-27T12:45:03.000Z"
 publishDate: "2020-12-27T12:44:00.000Z"
 slug: was-bisher-geschah-woche-20-52
-title: Was bisher geschah – Woche 20-52
 tags:
 - 100DaysToOffload
 - Was Bisher Geschah
@@ -10,6 +10,8 @@ tags:
 - Weihnachten
 - Chaos Computer Club
 100dto: 58
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Weihnachten ist vorbei und Silvester steht vor der Tür. Geknallt wird immer mehr und gestern, trotz Sturm und Regen, so laut wie nie. Es scheint, dass alles was an Silvester nicht mehr erlaubt ist, wird nun im Vorfeld verheizt.

@@ -6,6 +6,8 @@ tags:
   - "Gedanken"
   - "Besuch"
 100dto: 17
+categories:
+  - 100 Days To Offload - Season 1
 ---
 
 Guten Morgen liebe Welt da draußen! Die Schwiegereltern waren zu Besuch und wir haben viel erlebt.
