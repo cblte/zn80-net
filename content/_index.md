@@ -4,11 +4,11 @@ title = "Gedanken eines Nerds und Informatikers"
 
 # Hi, ich bin Carsten 👋
 
+Willkommen auf meinem digitalen Spielplatz :smiley:
+
 Auf der Arbeit schreibe ich meistens Java-Code und hantiere mit vielen hundert Excel-Tabellen. Privat bin ich eher ein Mensch, der gerne an allen möglichen Dingen herum bastelt. Die meisten davon haben mit Computerkram zu tun. Daher habe ich hier eine Liste an [Podcasts](/podcasts) zusammengetragen, eine [Blogroll](/blogroll) erstellt und ein mehr oder weniger aktuelle Liste an [Bookmarks](/bookmarks).
 
 Zur Zeit arbeite ich daran, meine vielen Webseiten und Projekte unter einen Hut zu bringen. Daher kann es durchaus noch vorkommen, dass sich das Aussehen hier von Zeit zu Zeit auch mal ändert ¯&#92;&#95;(ツ)&#95;/¯. Wenn du mehr über mich wissen willst, dann schau doch auf meiner [/now](/now)-Seite.
-
-Willkommen auf meinem digitalen Spielplatz.
 
 ### Blog
 
