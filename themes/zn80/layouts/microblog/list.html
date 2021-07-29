@@ -1,19 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Title }} </h1>
-{{ .Content }}
+  
+  {{ .Content | replaceRE "(==)([0-9]+)(==)" ("<a href=\".#$2\"><span class=\"microblog-number\" id=\"$2\">#$2.</span></a>") | safeHTML }}
 
-
-{{ range (.Paginate (.Pages.GroupByPublishDate "2006-01-02" "desc") 30).PageGroups }}
-
-  <h2 style="margin:0; padding-top:30px;">
-    {{ .Key }}
-  </h2>
   {{ range .Pages }}
-    {{ partial "microblog-entry.html" . }}
+    {{ .Content | replaceRE "(==)([0-9]+)(==)" ("<a href=\".#$2\"><span class=\"microblog-number\" id=\"$2\">#$2.</span></a>") | safeHTML }}
   {{ end }}
-{{ end }}
-
-{{ template "_internal/pagination.html" . }}
-
 
 {{ end }}
