@@ -8,8 +8,6 @@ tags:
 categories:
 - 100 Days To Offload - Season 2
 draft: false
-
-# embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
 
 Ich habe mich heute mal hingesetzt und den Microblog überarbeitet. Dadurch das ich mit ganz vielen Dateien und einer etwas komplizierten Ordner Struktur angefangen habe, wurde das irgendwann ziemlich aufwendig, neue Beiträge zu erstellen.
