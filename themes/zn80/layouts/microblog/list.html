@@ -1,15 +1,19 @@
 {{ define "main" }}
-<h1>{{ .Title }} </h1>
+<h1>{{ .Title }}</h1>
+    {{- $link := "<a href=\".\"><span class=\"microblog-number\" >#0</span></a>: " }}
+    <section id="#0">
+        <h2 style="display: none;">#0</h2>
+        {{ .Content | replaceRE "#0#:" ($link) | safeHTML }}
+    </section>
 
-    {{ $link := "<a href=\".\"><span class=\"microblog-number\" >#0</span></a>: "}}
-    {{ .Content | replaceRE "#0#:" ($link) | safeHTML }}
-    {{ range .Pages }}
-        {{ $number := (.File.BaseFileName | replaceRE "2021." "" | replaceRE "^0+" "") }}
-        {{ $content := .Content | replaceRE "<p>(.*)</p>" "$1" | safeHTML }}
-        <p>
-            <a href="{{ .File.BaseFileName }}"><span class="microblog-number" >#{{- $number -}}</span></a>: 
-            {{ $content -}}
-        </p>
-    {{ end }}
-    <span id="bottom"></span>
+{{- range .Pages -}}
+    {{- $number := (.File.BaseFileName | replaceRE "2021." "" | replaceRE "^0+" "") -}}
+    {{- $link := printf "<p><a href=#%s><span class=\"microblog-number\" >#%s</span></a>: " $number $number -}}
+    {{- $content := replaceRE "<p>" $link .Content 1 -}}
+    <section id="{{- $number -}}">
+        <h2 style="display: none;">#{{- $number -}}</h2>
+        {{- $content | safeHTML -}}
+    </section>
+{{- end -}}
+    <section id="bottom"></section>
 {{ end }}
