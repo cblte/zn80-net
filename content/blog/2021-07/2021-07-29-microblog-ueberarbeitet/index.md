@@ -7,7 +7,7 @@ tags:
 100dto: 5
 categories:
 - 100 Days To Offload - Season 2
-draft: true
+draft: false
 
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
 ---
