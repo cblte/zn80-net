@@ -1,10 +1,15 @@
 {{ define "main" }}
 <h1>{{ .Title }} </h1>
-  
-  {{ .Content | replaceRE "(==)([0-9]+)(==)" ("<a href=\".#$2\"><span class=\"microblog-number\" id=\"$2\">#$2.</span></a>") | safeHTML }}
 
-  {{ range .Pages }}
-    {{ .Content | replaceRE "(==)([0-9]+)(==)" ("<a href=\".#$2\"><span class=\"microblog-number\" id=\"$2\">#$2.</span></a>") | safeHTML }}
-  {{ end }}
-
+    {{ $link := "<a href=\".\"><span class=\"microblog-number\" >#0</span></a>: "}}
+    {{ .Content | replaceRE "#0#:" ($link) | safeHTML }}
+    {{ range .Pages }}
+        {{ $number := (.File.BaseFileName | replaceRE "2021." "" | replaceRE "^0+" "") }}
+        {{ $content := .Content | replaceRE "<p>(.*)</p>" "$1" | safeHTML }}
+        <p>
+            <a href="{{ .File.BaseFileName }}"><span class="microblog-number" >#{{- $number -}}</span></a>: 
+            {{ $content -}}
+        </p>
+    {{ end }}
+    <span id="bottom"></span>
 {{ end }}

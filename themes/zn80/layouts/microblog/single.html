@@ -1,0 +1,16 @@
+{{ define "main" }}
+    {{ $number := (.File.BaseFileName | replaceRE "2021." "" | replaceRE "^0+" "") }}
+    {{ $content := .Content | replaceRE "<p>(.*)</p>" "$1" | safeHTML }}
+    <h2>#{{- $number -}}</h2>
+    <p>
+        <a href="{{ .Permalink }} "><span class="microblog-number" >#{{- $number -}}</span></a>: 
+        {{ $content -}}
+    </p>
+
+    {{ if and (eq .Kind "page") ($.GitInfo) }}
+    <p class="lastmod">
+    Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
+    </p>
+    {{ end }}
+{{ end }}
+
