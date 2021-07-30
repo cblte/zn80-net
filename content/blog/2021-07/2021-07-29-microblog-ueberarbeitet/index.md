@@ -1,5 +1,6 @@
 ---
 title: "Microblog überarbeitet"
+slug: "microblog-ueberarbeitet"
 date: "2021-07-29T21:30:09+0200"
 tags:
 - 100 Days To Offload
