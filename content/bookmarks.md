@@ -34,6 +34,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 - [1KM1KT](https://www.1km1kt.net/) -- the largest collection of free rpg games
 - [Awesome list of Awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome Coronavirus](https://corona.js.org/) -- Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus) ([github-repo](https://github.com/soroushchehresa/awesome-coronavirus))
 - [Awesome list of Golang stuff](https://awesome-go.com/)
 - [Awesome list of Hugo things](https://github.com/theNewDynamic/awesome-hugo)
 - [Awesome list of Python](https://github.com/vinta/awesome-python%3e)
