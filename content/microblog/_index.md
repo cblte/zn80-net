@@ -1,5 +1,11 @@
 ---
 title: "Microblog"
+_build:
+  render: true
+cascade:
+  _build:
+    render: false
+    list: true
 ---
 
 #0#: Dies hier sind meine *Random Thoughts*, mein *Microblog*. Bestehend aus Markdown-formatierten Zeilen mit Zitaten, Geschichten, Mini-Essays und allem anderen, was mir durch den Kopf ging und für das ich keinen guten Platz gefunden habe und zu kurz für längere Blogbeiträge ist. Die Idee zum *Microblog* entstand im Mai 2021, da ich einen Ersatz für meine *Linkposts* gesucht habe.
