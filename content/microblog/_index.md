@@ -10,4 +10,6 @@ Wenn Du irgendwo anders einen Verweis auf einen einzelnen Eintrag gefunden hast,
 
 _Diese Kategorie ist noch neu und ich bin noch ein wenig in der Findungsphase wie ich den Content hier bereitstellen will. Auch was das Backend angeht._
 
-Den aktuellsten Beitrag findest Du am Ende. Daher möchtest Du vielleicht unten anfangen zu lesen.[Ans Ende springen ►](#bottom)
+Den aktuellsten Beitrag findest Du am Ende. Daher möchtest Du vielleicht unten anfangen zu lesen. [Ans Ende springen ►](#bottom)
+
+---
