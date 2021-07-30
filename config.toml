@@ -18,8 +18,6 @@ paginate = 5
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "/:year/:month/:slug/"
-  tags = "/tag/:slug"
-  microblog = "/microblog/:filename"
 
 [markup]
   [markup.highlight]
