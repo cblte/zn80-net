@@ -1,14 +1,15 @@
 ---
-title: Things about the gemini protocol 
+title: The Gemini Protocol 
 date: 2021-07-30
 lastmod: 2021-07-30
 category: misc
 ---
 
-Gemini ist ein Protokol zwischen Gopher und HTTP. 
-
+Gemini ist ein Protokoll welches Gopher und HTTP angesiedelt ist. Nicht so einfach und simpel wie Gopher, aber definitiv nicht so überladen wie HTML.
 
 ## Clients
+
+Hier eine Auflistung von Clients zum sufen im Gemini-Space:
 
 ### Lagrange
 
