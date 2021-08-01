@@ -67,4 +67,8 @@ Ich werde mich jetzt endlich mal an meinen neuen Python-Kurs begeben und den Son
 
 Oh, eines fällt mir gerade noch ein. Morgen haben wir einen Termin bei einem Autohändler. Wir möchten uns mit der Elektromobilität auseinandersetzen und lassen uns einen Opel Corsa-E zeigen. Ich bin mal gespannt wie der Opel Corsa-E sich verhält und was wir alles beachten müssen in puncto Laden und Hausanschluss etc. Da wir nur zur Miete wohnen ist das auch nicht immer ganz so einfach. Hier in Den Haag geht das, haben wir genug Ladesäulen in der Nachbarschaft. Sorgen mache ich mir nur über die Rückkehr nach Deutschland.
 
+---
+
+Mehr interessantes Zeug findest du beim [dn15](https://dn15.de/), beim [happybuddha1975](https://happybuddha1975.de/) und natürlich beim [monstropolis](https://monstropolis.wordpress.com/). Ich wünsche dir noch einen schönen Sonntagnachmittag oder -abend oder Montag morgen und einen guten Start in die Woche!
+
 <!--more-->
