@@ -1,5 +1,7 @@
 ---
 title: "Microblog"
+images:
+- images/sharemicroblog.png
 _build:
   render: true
 cascade:
