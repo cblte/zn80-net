@@ -27,11 +27,11 @@ Mein Auto habe ich auch mal wieder gewaschen. Vorletzte Woche hat es ja nicht me
 
 {{< figure src="altkleidercontainer.jpg" alt="Altkleidercontainer in den Niederlanden" caption="Ein Altkleidercontainer bei uns um die Ecke" >}}
 
-Die Woche ist auch meine Probebestellung von neuen T-Shirts angekommen. Ich hatte Camel, Goodthreads und Meraki bestellt. Leider sind die T-Shirts von Camel viel zu lang und liegen in XL viel zu eng an. Da fühle ich mich nicht wohl drin und das sieht auch nicht gut aus. Behalten habe ich die von Goodthreads und Meraki. Die sind auch XL und fühlen sich vom Stoff her gut, passen von der Größe und sitzen gut.
+Die Woche ist auch meine Probebestellung von neuen T-Shirts angekommen. Ich hatte Camel, Goodthreads und Meraki bestellt. Leider sind die T-Shirts von Camel viel zu lang und liegen in XL viel zu eng an. Da fühle ich mich nicht wohl drin und das sieht auch nicht gut aus. Behalten habe ich die von Goodthreads und Meraki. Die sind auch XL und fühlen sich vom Stoff her gut an, passen von der Größe und sitzen gut.
 
 Warum ich neue T-Shirts bestellt habe? Ganz einfach: Ich habe den Kleiderschrank aufgeräumt und dabei über 40 alte T-Shirt in die Altkleidersammlung gegeben. Dazu noch fünf Hosen und ein paar andere Dinge. Alles Klamotten, die ich seitdem wir hier in den Niederlanden wohnen, nicht angezogen habe und unnötig im Schrank liegen. Etwas komisch war es schon, mich von dem ein oder anderen Lieblingsshirt zu trennen. Ein Paar durfte ich aber behalten.
 
-Auf der anderen Seite ist allerdings nun sehr viel einfacher geworden. Dadurch das ich nur noch 7 oder 8 T-Shirts, ein paar Poloshirts und ein paar Hemden besitze, fällt die Entscheidung, was ich anziehen will, sehr viel schneller. Manchmal ist weniger halt viel mehr!
+Auf der anderen Seite aus betrachtet, ist es morgens nun sehr viel einfacher geworden. Denn anstatt sich fuur eines von 40 T-Shirts zu entscheiden, nehme ich einfach das was oben drauf liegt. Manchmal ist weniger halt viel mehr!
 
 ## Dinge online verkaufen
 
