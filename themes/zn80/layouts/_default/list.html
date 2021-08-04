@@ -12,7 +12,7 @@
           {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
         </time>
       </i></span>
-    <a href="{{ .Permalink }}" rel="bookmark" title="{{.Title}}">{{ .Title }}</a>
+    <a href="{{ .Permalink | relURL }}" rel="bookmark" title="{{.Title}}">{{ .Title }}</a>
   </li>
   {{ else }}
   <li>
