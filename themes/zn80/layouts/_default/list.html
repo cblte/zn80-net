@@ -27,7 +27,7 @@
 <p>
   <small>
     {{ range .Site.Taxonomies.tags }}
-    <a href="{{ .Page.Permalink }}" rel="tag">#{{ .Page.Title }}</a>&nbsp;
+    <a href="{{ .Page.Permalink | relURL }}" rel="tag">#{{ .Page.Title }}</a>&nbsp;
     {{ end }}
   </small>
 </p>
