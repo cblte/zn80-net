@@ -1,5 +1,7 @@
 ---
 title: "Microblog"
+menu: "main"
+weight: 40
 images:
 - images/sharemicroblog.png
 _build:
