@@ -10,20 +10,30 @@
 
   {{ .Content }}
 
+  <p class="meta-data">
   {{ if and (eq .Kind "page") ($.GitInfo) }}
-  <p class="lastmod">
+  <span class="lastmod">
     Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
+  </span>
+  <br/>
+  {{ end }}
+  {{ if (.GetTerms "categories") -}}    
+    <span class="categories">
+      Kategorie:  
+      {{ range (.GetTerms "categories") -}}
+      <a href="{{ .Permalink }}" rel="category">{{- .LinkTitle -}}</a>
+      {{- end -}}
+    </span>
+    <br />
+  {{- end }}
+  {{ if (.GetTerms "tags") -}}
+    <span class="tags">
+      Schlagwörter: {{ range (.GetTerms "tags") -}}
+      <a href="{{ .Permalink }}" rel="tag">#{{- .LinkTitle -}}</a>
+      {{ end -}}
+    </span>
+  {{- end }}
   </p>
-  {{ end }}
-
-  {{ if (.GetTerms "tags") }}
-  <p class="tags">
-    Schlagwörter: {{ range (.GetTerms "tags") }}
-      <a href="{{ .Permalink }}" rel="tag">#{{ .LinkTitle }}</a>
-      {{ end }}
-    </p>
-  {{ end }}
-
   {{ with $.Param "100dto" }}
   <p><i>Beitrag {{ $.Param "100dto" }} der <a href="https://100daystooffload.com" target="_blank" rel="noopener">#100DaysToOffload</a> Herausforderung.</i>
   </p>
