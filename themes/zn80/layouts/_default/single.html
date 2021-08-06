@@ -38,9 +38,9 @@
   {{ end }}
 
   {{ if and (eq .Kind "page") ($.GitInfo) }}
-  <span class="lastmod">
+  <p class="lastmod">
     Letzte Aktualisierung am <a href="https://github.com/cblte/zn80-net/commit/{{ .GitInfo.Hash }}">{{ .Page.Lastmod.Format "02 Jan, 2006 15:04" }}</a>
-  </span>
+  </p>
   <br/>
   {{ end }}
 
