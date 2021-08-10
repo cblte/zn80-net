@@ -13,5 +13,14 @@
         80,
         120
     ],
-    "editor.wrappingIndent": "indent"
+    "editor.wrappingIndent": "indent",
+
+    // **--MARKDOWNLINT--**
+    "markdownlint.config": {
+        "MD022": false, // MD022 blanks-around-headings
+        "MD032": false, // MD032 blanks-around-lists
+        "MD007": false, // MD007 ul-indent
+        "MD010": false,  // MD010 no-hard-tabs
+        "MD041": false  // MD041 first line should be top level header
+    },
 }
