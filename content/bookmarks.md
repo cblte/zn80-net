@@ -28,6 +28,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 - [abgeordnetenwatch.de](https://www.abgeordnetenwatch.de/) -- weil transparenz vertrauen schafft
 - [cryptome.org](https://cryptome.org/) -- Webseite des Aktivisten John Young, der sich darauf vor allem für eine uneingeschränkte Meinungs- und Informationsfreiheit einsetzt.
 - [PublicIntelligence](https://publicintelligence.net/) -- Webseite die Daten und Dokumente von Wissenschaftlern sammelt und für das Recht auf freie Informationen eintritt.
+- [autistici.org](https://www.autistici.org/) -- A/I (Autistici/Inventati, pronounced [au’tistiʧi]-[iŋ’vɛntati], or [iŋvɛn’tati]) was born in 2001 from an encounter of individuals and collectives of the autonomous anticapitalist movement interested in technology and active in the digital rights struggle.
 
 
 ## Awesome Lists
@@ -90,6 +91,7 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 
 - [keys.openpgp.org](https://keys.openpgp.org/) -- öffentlicher Service für die Verteilung von OpenPGP-Schlüsseln
 - [keybase.io](https://keybase.io) -- End-to-end encryption for things that matter. Keybase is secure messaging and file-sharing.
+- [keyoxide.io](https://keyoxide.org) -- Keyoxide allows you to prove “ownership” of accounts on websites, domain names, IM, etc., regardless of your username.
 
 ## News
 
@@ -133,9 +135,11 @@ Hier ist sie, die lange liste an gesammelten Links die ich aus meinem Bookmark-M
 ## Videokonferenz
 
 - [Big Blue Button](https://bigbluebutton.org/)
+- [Jitsi meet CLOUD1X](https://meet.cloud1x.de/) -- secure and high quality meetings
 - [Jitsi](https://jitsi.org/) -- More secure, more flexible, and
-completely free video conferencing
 - [Senfcall.de](https://senfcall.de/) -- Privatsphäre respektierende Videokonferenzen
+- [Sichere-Videokonferenz.de](https://sichere-videokonferenz.de/) -- Starten Sie jetzt Ihre Videokonferenz! sicher, kostenlos und ohne Anmeldung
+completely free video conferencing
 
 ## Web Development
 
