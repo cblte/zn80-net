@@ -8,7 +8,7 @@ tags:
 100dto: 11
 categories:
 - 100 Days To Offload - Season 2
-draft: true
+draft: false
 ---
 
 Dear SpotifyDE,
