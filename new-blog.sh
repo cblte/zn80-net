@@ -12,14 +12,14 @@ if [[ $# == "0" ]]; then
     exit 1
 fi
 
- # Post title
-    # if more than one argument is provided then TITLE is the last argument
-  if [ $# -gt 1 ]; then
-    TITLE=${@: -1}
-    # if only one argument is provided then it is the Title
-  else
-    TITLE=$1
-  fi
+# Post title
+# if more than one argument is provided then TITLE is the last argument
+if [ $# -gt 1 ]; then
+  TITLE=${@: -1}
+  # if only one argument is provided then it is the Title
+else
+  TITLE=$1
+fi
 
 # Define the post directory (where to create the file)
 HUGO_POSTS_DIR='content/blog/'
@@ -50,7 +50,12 @@ HUGO_DATE=$(date +'%Y-%m-%dT%T%z')
 # COMMANDS
 #######################################################
 
-# Create the directory and file
+# Create the directory and file but first check if it exists
+if [[ -d "${BLOGPOST_FOLDER}" ]]; then
+  echo "Blog post with title already exists"
+  exit 1
+fi
+
 mkdir -p ${BLOGPOST_FOLDER}
 touch ${BLOGPOST_FOLDER}/index.md
 
@@ -58,10 +63,13 @@ touch ${BLOGPOST_FOLDER}/index.md
 
 echo -e "---
 title: \"${TITLE}\"
+slug: \"${TITLE_STRIPPED}\"
 date: \"${HUGO_DATE}\"
 tags:
-# description = \"\"
-# 100dto :
+- 100 Days To Offload
+100dto:
+categories:
+- 100 Days To Offload - Season 2
 draft: true
 
 # embetty codes: {{< embetty (youtube | vimeo | facebook) <id> >}}
