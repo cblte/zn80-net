@@ -7,7 +7,7 @@ tags:
 - Klabautercast
 100dto: 10
 draft: false
-category:
+categories:
 - 100 Days To Offload - Season 2
 ---
 
