@@ -1,4 +1,4 @@
 #!/bin/bash
 git add content/. 
-git commit -m "Add new blog post"
+git commit -m "Add new entry"
 git push
