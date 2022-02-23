@@ -14,3 +14,4 @@ Inspiriert durch [@nownownow](https://nownownow.com/), liste ich Dinge auf, die 
 Dinge bei denen ich kapituliert habe:
 - die Fähigkeit erreichen, mich auf der Arbeit in der Ornderstruktur meines Chefs zurechtzufinden
 
+- Added for demonstration
